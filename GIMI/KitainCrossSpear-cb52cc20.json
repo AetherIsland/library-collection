@@ -1,1 +1,74 @@
-{"path":"WeaponData/Polearms/4Star/KitainCrossSpear","seenInHead":true,"revisions":[{"hash":"01d9f9d29caece95aaeffe333a09917aa3ee9b6a","content":[{"component_name":"","root_vs":"","draw_vb":"214eb2c0","position_vb":"214eb2c0","blend_vb":"","texcoord_vb":"","ib":"3ba4e2b4","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","53fe8413"],["LightMap",".dds","eead9109"]]]}]},{"hash":"7667de80f02f0a0bb8b94edbb8068f20814c4b46","content":[{"component_name":"","root_vs":"","draw_vb":"214eb2c0","position_vb":"214eb2c0","blend_vb":"","texcoord_vb":"","ib":"3ba4e2b4","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","493ea731"],["LightMap",".dds","eead9109"]]]}]}]}
+{
+    "path": "WeaponData/Polearms/4Star/KitainCrossSpear",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "01d9f9d29caece95aaeffe333a09917aa3ee9b6a",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "214eb2c0",
+                    "position_vb": "214eb2c0",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "3ba4e2b4",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "53fe8413"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "eead9109"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "hash": "7667de80f02f0a0bb8b94edbb8068f20814c4b46",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "214eb2c0",
+                    "position_vb": "214eb2c0",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "3ba4e2b4",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "493ea731"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "eead9109"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

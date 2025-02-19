@@ -1,1 +1,86 @@
-{"path":"SkillData/Oz","seenInHead":true,"revisions":[{"hash":"c573deb4aba5ee49ec6f28b336587a97cb2d6029","content":[{"component_name":"","root_vs":"","draw_vb":"0327e434","position_vb":"0327e434","blend_vb":"","texcoord_vb":"8234461e","ib":"597f12da","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","0d800fa7"],["LightMap",".dds","3b162ece"],["DiffuseGuide",".dds","dafcb33c"]]],"first_vs":"3b74c61dd5c8596a"}]},{"hash":"77a4def8a68d2fd32d4f31e5ba0b593be13f0b77","content":[{"component_name":"","root_vs":"","draw_vb":"0327e434","position_vb":"0327e434","blend_vb":"","texcoord_vb":"8234461e","ib":"61ab7805","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","0d800fa7"],["LightMap",".dds","3b162ece"],["DiffuseGuide",".dds","dafcb33c"]]],"first_vs":"3b74c61dd5c8596a"}]}]}
+{
+    "path": "SkillData/Oz",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "c573deb4aba5ee49ec6f28b336587a97cb2d6029",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "0327e434",
+                    "position_vb": "0327e434",
+                    "blend_vb": "",
+                    "texcoord_vb": "8234461e",
+                    "ib": "597f12da",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "0d800fa7"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "3b162ece"
+                            ],
+                            [
+                                "DiffuseGuide",
+                                ".dds",
+                                "dafcb33c"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "3b74c61dd5c8596a"
+                }
+            ]
+        },
+        {
+            "hash": "77a4def8a68d2fd32d4f31e5ba0b593be13f0b77",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "0327e434",
+                    "position_vb": "0327e434",
+                    "blend_vb": "",
+                    "texcoord_vb": "8234461e",
+                    "ib": "61ab7805",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "0d800fa7"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "3b162ece"
+                            ],
+                            [
+                                "DiffuseGuide",
+                                ".dds",
+                                "dafcb33c"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "3b74c61dd5c8596a"
+                }
+            ]
+        }
+    ]
+}

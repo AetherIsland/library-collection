@@ -1,1 +1,46 @@
-{"path":"EnemyData/Sam","seenInHead":true,"revisions":[{"hash":"860b3be53ccbcdf37caccbd46aa0dd7c6efe0da6","content":[{"component_name":"","root_vs":"e8425f64cfb887cd","draw_vb":"6f49347e","position_vb":"dcbe881e","blend_vb":"d254e3e6","texcoord_vb":"1a5dbb23","ib":"70071693","object_indexes":[0],"object_classifications":["A"],"texture_hashes":[[["Diffuse",".dds","e2530ef1"],["LightMap",".dds","0ca9dfe2"],["ShadowRamp",".jpg","078177f1"]]],"first_vs":"2caeb828e4f7aa8a"}]}]}
+{
+    "path": "EnemyData/Sam",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "860b3be53ccbcdf37caccbd46aa0dd7c6efe0da6",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "e8425f64cfb887cd",
+                    "draw_vb": "6f49347e",
+                    "position_vb": "dcbe881e",
+                    "blend_vb": "d254e3e6",
+                    "texcoord_vb": "1a5dbb23",
+                    "ib": "70071693",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "A"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "e2530ef1"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "0ca9dfe2"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "078177f1"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "2caeb828e4f7aa8a"
+                }
+            ]
+        }
+    ]
+}

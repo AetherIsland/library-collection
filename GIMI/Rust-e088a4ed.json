@@ -1,1 +1,119 @@
-{"path":"WeaponData/Bows/4Star/Rust","seenInHead":true,"revisions":[{"hash":"c69ef577343c04186915911dd7621064bda8894b","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"9d5c41fd","position_vb":"bb654432","blend_vb":"5122cd3d","texcoord_vb":"9c18ec2d","ib":"05318975","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","62a4a054"],["LightMap",".dds","b09a5466"]]]}]},{"hash":"6771457ab794c2cedcb3d28d2011a81d231b1df8","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"9d5c41fd","position_vb":"bb654432","blend_vb":"5122cd3d","texcoord_vb":"9c18ec2d","ib":"05318975","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","2c40c144"],["LightMap",".dds","bdd9f36d"]]]}]},{"hash":"31a3754577772391ca47241220134bcb48f6faf0","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"14b96eda","position_vb":"bb654432","blend_vb":"5122cd3d","texcoord_vb":"9c18ec2d","ib":"3de5e3aa","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","62a4a054"],["LightMap",".dds","b09a5466"],["MetalMap",".dds","b0e08915"],["ShadowRamp",".jpg","59cd2559"]]],"first_vs":"03226e85691bd4ce"}]}]}
+{
+    "path": "WeaponData/Bows/4Star/Rust",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "c69ef577343c04186915911dd7621064bda8894b",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "9d5c41fd",
+                    "position_vb": "bb654432",
+                    "blend_vb": "5122cd3d",
+                    "texcoord_vb": "9c18ec2d",
+                    "ib": "05318975",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "62a4a054"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "b09a5466"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "hash": "6771457ab794c2cedcb3d28d2011a81d231b1df8",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "9d5c41fd",
+                    "position_vb": "bb654432",
+                    "blend_vb": "5122cd3d",
+                    "texcoord_vb": "9c18ec2d",
+                    "ib": "05318975",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "2c40c144"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "bdd9f36d"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "hash": "31a3754577772391ca47241220134bcb48f6faf0",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "14b96eda",
+                    "position_vb": "bb654432",
+                    "blend_vb": "5122cd3d",
+                    "texcoord_vb": "9c18ec2d",
+                    "ib": "3de5e3aa",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "62a4a054"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "b09a5466"
+                            ],
+                            [
+                                "MetalMap",
+                                ".dds",
+                                "b0e08915"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "59cd2559"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "03226e85691bd4ce"
+                }
+            ]
+        }
+    ]
+}

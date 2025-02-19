@@ -1,1 +1,41 @@
-{"path":"MiscellaneousData/YaeMiko5Tails","seenInHead":true,"revisions":[{"hash":"1221b38a3ddf8a512662526c5a73b9ff2f72ff2a","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"0a5aa973","position_vb":"837f3242","blend_vb":"7b606150","texcoord_vb":"1c2982d9","ib":"dfc55c9c","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","676e275c"],["LightMap",".dds","851369a5"]]],"first_vs":"756a25eeaaf95528"}]}]}
+{
+    "path": "MiscellaneousData/YaeMiko5Tails",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "1221b38a3ddf8a512662526c5a73b9ff2f72ff2a",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "0a5aa973",
+                    "position_vb": "837f3242",
+                    "blend_vb": "7b606150",
+                    "texcoord_vb": "1c2982d9",
+                    "ib": "dfc55c9c",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "676e275c"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "851369a5"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "756a25eeaaf95528"
+                }
+            ]
+        }
+    ]
+}

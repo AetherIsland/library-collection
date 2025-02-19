@@ -1,1 +1,74 @@
-{"path":"WeaponData/Swords/4Star/TheFlute","seenInHead":true,"revisions":[{"hash":"4de32b7d0aa0b23452b77695485e6d85bf3b697a","content":[{"component_name":"","root_vs":"","draw_vb":"feda7529","position_vb":"feda7529","blend_vb":"","texcoord_vb":"","ib":"d7fb87ab","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","ea7e25bd"],["LightMap",".dds","e271981f"]]]}]},{"hash":"331e9c7a523c40b0c7f9a0e620526acaaa082dcc","content":[{"component_name":"","root_vs":"","draw_vb":"feda7529","position_vb":"feda7529","blend_vb":"","texcoord_vb":"","ib":"d7fb87ab","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","ded21085"],["LightMap",".dds","e271981f"]]]}]}]}
+{
+    "path": "WeaponData/Swords/4Star/TheFlute",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "4de32b7d0aa0b23452b77695485e6d85bf3b697a",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "feda7529",
+                    "position_vb": "feda7529",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "d7fb87ab",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "ea7e25bd"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "e271981f"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "hash": "331e9c7a523c40b0c7f9a0e620526acaaa082dcc",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "feda7529",
+                    "position_vb": "feda7529",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "d7fb87ab",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "ded21085"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "e271981f"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,64 @@
-{"path":"WeaponData/Claymores/4Star/UltimateOverlordsMegaMagicSword","seenInHead":true,"revisions":[{"hash":"fc846d25cbe08406c4d454bfa178e4170321edee","content":[{"component_name":"","root_vs":"","draw_vb":"ab281d1d","position_vb":"ab281d1d","blend_vb":"","texcoord_vb":"","ib":"a3cd0a0a","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","2a22dc69"]]]}]},{"hash":"e924570f1959582b61429d0f1d8ae0db98324dba","content":[{"component_name":"","root_vs":"","draw_vb":"ab281d1d","position_vb":"ab281d1d","blend_vb":"","texcoord_vb":"","ib":"a3cd0a0a","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","264c6144"]]]}]}]}
+{
+    "path": "WeaponData/Claymores/4Star/UltimateOverlordsMegaMagicSword",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "fc846d25cbe08406c4d454bfa178e4170321edee",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "ab281d1d",
+                    "position_vb": "ab281d1d",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "a3cd0a0a",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "2a22dc69"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "hash": "e924570f1959582b61429d0f1d8ae0db98324dba",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "ab281d1d",
+                    "position_vb": "ab281d1d",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "a3cd0a0a",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "264c6144"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

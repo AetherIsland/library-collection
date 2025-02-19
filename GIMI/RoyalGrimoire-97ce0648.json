@@ -1,1 +1,141 @@
-{"path":"WeaponData/Catalysts/4Star/RoyalGrimoire","seenInHead":true,"revisions":[{"hash":"c573deb4aba5ee49ec6f28b336587a97cb2d6029","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"8b125a46","position_vb":"f3da8c9e","blend_vb":"b51e6384","texcoord_vb":"bdf37a3b","ib":"ad5b5cee","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","da15c28d"],["LightMap",".dds","3d17de47"],["MetalMap",".dds","b0e08915"],["ShadowRamp",".jpg","59cd2559"]]],"first_vs":"03226e85691bd4ce"}]},{"hash":"56ac251274bb4817247e36d81e7acc440eddb358","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"8b125a46","position_vb":"f3da8c9e","blend_vb":"b51e6384","texcoord_vb":"bdf37a3b","ib":"958f3631","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","da15c28d"],["LightMap",".dds","3d17de47"],["MetalMap",".dds","b0e08915"],["ShadowRamp",".jpg","59cd2559"]]],"first_vs":"03226e85691bd4ce"}]},{"hash":"52f76f9552721d2bc1d09af5ee5261bec67a4c0c","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"02f77561","position_vb":"f3da8c9e","blend_vb":"b51e6384","texcoord_vb":"bdf37a3b","ib":"958f3631","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","da15c28d"],["LightMap",".dds","3d17de47"],["MetalMap",".dds","b0e08915"],["ShadowRamp",".jpg","59cd2559"]]],"first_vs":"03226e85691bd4ce"}]}]}
+{
+    "path": "WeaponData/Catalysts/4Star/RoyalGrimoire",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "c573deb4aba5ee49ec6f28b336587a97cb2d6029",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "8b125a46",
+                    "position_vb": "f3da8c9e",
+                    "blend_vb": "b51e6384",
+                    "texcoord_vb": "bdf37a3b",
+                    "ib": "ad5b5cee",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "da15c28d"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "3d17de47"
+                            ],
+                            [
+                                "MetalMap",
+                                ".dds",
+                                "b0e08915"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "59cd2559"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "03226e85691bd4ce"
+                }
+            ]
+        },
+        {
+            "hash": "56ac251274bb4817247e36d81e7acc440eddb358",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "8b125a46",
+                    "position_vb": "f3da8c9e",
+                    "blend_vb": "b51e6384",
+                    "texcoord_vb": "bdf37a3b",
+                    "ib": "958f3631",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "da15c28d"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "3d17de47"
+                            ],
+                            [
+                                "MetalMap",
+                                ".dds",
+                                "b0e08915"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "59cd2559"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "03226e85691bd4ce"
+                }
+            ]
+        },
+        {
+            "hash": "52f76f9552721d2bc1d09af5ee5261bec67a4c0c",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "02f77561",
+                    "position_vb": "f3da8c9e",
+                    "blend_vb": "b51e6384",
+                    "texcoord_vb": "bdf37a3b",
+                    "ib": "958f3631",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "da15c28d"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "3d17de47"
+                            ],
+                            [
+                                "MetalMap",
+                                ".dds",
+                                "b0e08915"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "59cd2559"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "03226e85691bd4ce"
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,46 @@
-{"path":"EnemyData/KairagiFiery","seenInHead":true,"revisions":[{"hash":"3b1ae96ca82999f019aff179854ee8c7dc1c4a0a","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"70cc2de5","position_vb":"ecda2927","blend_vb":"0e0ae559","texcoord_vb":"e658f790","ib":"2383d1ff","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","ad88068a"],["LightMap",".dds","740d0623"],["MetalMap",".dds","b0e08915"]]],"first_vs":"8ebb431df482b328"}]}]}
+{
+    "path": "EnemyData/KairagiFiery",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "3b1ae96ca82999f019aff179854ee8c7dc1c4a0a",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "70cc2de5",
+                    "position_vb": "ecda2927",
+                    "blend_vb": "0e0ae559",
+                    "texcoord_vb": "e658f790",
+                    "ib": "2383d1ff",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "ad88068a"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "740d0623"
+                            ],
+                            [
+                                "MetalMap",
+                                ".dds",
+                                "b0e08915"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "8ebb431df482b328"
+                }
+            ]
+        }
+    ]
+}

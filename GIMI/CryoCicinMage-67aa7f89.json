@@ -1,1 +1,141 @@
-{"path":"EnemyData/CryoCicinMage","seenInHead":true,"revisions":[{"hash":"c573deb4aba5ee49ec6f28b336587a97cb2d6029","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"a084aab0","position_vb":"81f659d4","blend_vb":"7a753bf4","texcoord_vb":"b60ab114","ib":"06bd894e","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","be450282"],["LightMap",".dds","c6e1a49b"],["MetalMap",".dds","b0e08915"],["DiffuseGuide",".dds","59cd2559"]]],"first_vs":"3b74c61dd5c8596a"}]},{"hash":"56ac251274bb4817247e36d81e7acc440eddb358","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"a084aab0","position_vb":"81f659d4","blend_vb":"7a753bf4","texcoord_vb":"b60ab114","ib":"3e69e391","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","be450282"],["LightMap",".dds","c6e1a49b"],["MetalMap",".dds","b0e08915"],["DiffuseGuide",".dds","59cd2559"]]],"first_vs":"3b74c61dd5c8596a"}]},{"hash":"1ab602fb947802b0377932c4ac686ef9dd810352","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"29618597","position_vb":"81f659d4","blend_vb":"7a753bf4","texcoord_vb":"b60ab114","ib":"3e69e391","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","be450282"],["LightMap",".dds","c6e1a49b"],["MetalMap",".dds","b0e08915"],["DiffuseGuide",".dds","59cd2559"]]],"first_vs":"3b74c61dd5c8596a"}]}]}
+{
+    "path": "EnemyData/CryoCicinMage",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "c573deb4aba5ee49ec6f28b336587a97cb2d6029",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "a084aab0",
+                    "position_vb": "81f659d4",
+                    "blend_vb": "7a753bf4",
+                    "texcoord_vb": "b60ab114",
+                    "ib": "06bd894e",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "be450282"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "c6e1a49b"
+                            ],
+                            [
+                                "MetalMap",
+                                ".dds",
+                                "b0e08915"
+                            ],
+                            [
+                                "DiffuseGuide",
+                                ".dds",
+                                "59cd2559"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "3b74c61dd5c8596a"
+                }
+            ]
+        },
+        {
+            "hash": "56ac251274bb4817247e36d81e7acc440eddb358",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "a084aab0",
+                    "position_vb": "81f659d4",
+                    "blend_vb": "7a753bf4",
+                    "texcoord_vb": "b60ab114",
+                    "ib": "3e69e391",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "be450282"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "c6e1a49b"
+                            ],
+                            [
+                                "MetalMap",
+                                ".dds",
+                                "b0e08915"
+                            ],
+                            [
+                                "DiffuseGuide",
+                                ".dds",
+                                "59cd2559"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "3b74c61dd5c8596a"
+                }
+            ]
+        },
+        {
+            "hash": "1ab602fb947802b0377932c4ac686ef9dd810352",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "29618597",
+                    "position_vb": "81f659d4",
+                    "blend_vb": "7a753bf4",
+                    "texcoord_vb": "b60ab114",
+                    "ib": "3e69e391",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "be450282"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "c6e1a49b"
+                            ],
+                            [
+                                "MetalMap",
+                                ".dds",
+                                "b0e08915"
+                            ],
+                            [
+                                "DiffuseGuide",
+                                ".dds",
+                                "59cd2559"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "3b74c61dd5c8596a"
+                }
+            ]
+        }
+    ]
+}

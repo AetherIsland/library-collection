@@ -1,1 +1,40 @@
-{"path":"MiscellaneousData/MualaniMaracas","seenInHead":true,"revisions":[{"hash":"a951686e60dd07e45a0e11de32edb0defffc9806","content":[{"component_name":"","draw_vb":"3add5822","position_vb":"3add5822","blend_vb":"","texcoord_vb":"","ib":"f66b1513","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","c3c5b948"],["LightMap",".dds","b7ff7a6e"]]],"first_vs":"b944892704572eee"}]}]}
+{
+    "path": "MiscellaneousData/MualaniMaracas",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "a951686e60dd07e45a0e11de32edb0defffc9806",
+            "content": [
+                {
+                    "component_name": "",
+                    "draw_vb": "3add5822",
+                    "position_vb": "3add5822",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "f66b1513",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "c3c5b948"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "b7ff7a6e"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "b944892704572eee"
+                }
+            ]
+        }
+    ]
+}

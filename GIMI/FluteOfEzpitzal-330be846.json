@@ -1,1 +1,74 @@
-{"path":"WeaponData/Swords/4Star/FluteOfEzpitzal","seenInHead":true,"revisions":[{"hash":"01d9f9d29caece95aaeffe333a09917aa3ee9b6a","content":[{"component_name":"","root_vs":"","draw_vb":"08b0dbb8","position_vb":"08b0dbb8","blend_vb":"","texcoord_vb":"","ib":"4648bad0","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","4dbda958"],["LightMap",".dds","1f6e220b"]]]}]},{"hash":"aaf64530ed5b50bf20f7c2eb28fa771129094106","content":[{"component_name":"","root_vs":"","draw_vb":"08b0dbb8","position_vb":"08b0dbb8","blend_vb":"","texcoord_vb":"","ib":"4648bad0","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","8dbf2e5f"],["LightMap",".dds","1f6e220b"]]]}]}]}
+{
+    "path": "WeaponData/Swords/4Star/FluteOfEzpitzal",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "01d9f9d29caece95aaeffe333a09917aa3ee9b6a",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "08b0dbb8",
+                    "position_vb": "08b0dbb8",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "4648bad0",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "4dbda958"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "1f6e220b"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "hash": "aaf64530ed5b50bf20f7c2eb28fa771129094106",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "08b0dbb8",
+                    "position_vb": "08b0dbb8",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "4648bad0",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "8dbf2e5f"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "1f6e220b"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

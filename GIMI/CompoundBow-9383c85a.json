@@ -1,1 +1,231 @@
-{"path":"WeaponData/Bows/4Star/CompoundBow/CompoundBow","seenInHead":false,"revisions":[{"hash":"c573deb4aba5ee49ec6f28b336587a97cb2d6029","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"2f496de0","position_vb":"8aff2a81","blend_vb":"81d3f46d","texcoord_vb":"1f648213","ib":"f325c5b6","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","943a8ad5"],["LightMap",".dds","81cab94d"],["DiffuseGuide",".dds","3ed0f51e"],["ShadowRamp",".jpg","59cd2559"]]],"first_vs":"6325ff039d1b109d"}]},{"hash":"56ac251274bb4817247e36d81e7acc440eddb358","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"2f496de0","position_vb":"8aff2a81","blend_vb":"81d3f46d","texcoord_vb":"1f648213","ib":"cbf1af69","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","943a8ad5"],["LightMap",".dds","81cab94d"],["DiffuseGuide",".dds","3ed0f51e"],["ShadowRamp",".jpg","59cd2559"]]],"first_vs":"6325ff039d1b109d"}]},{"hash":"26c07e93179c7fd93fc1558fea00193c408b9425","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"a6ac42c7","position_vb":"8aff2a81","blend_vb":"81d3f46d","texcoord_vb":"1f648213","ib":"cbf1af69","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","943a8ad5"],["LightMap",".dds","81cab94d"],["DiffuseGuide",".dds","3ed0f51e"],["ShadowRamp",".jpg","59cd2559"]]],"first_vs":"6325ff039d1b109d"}]},{"hash":"6ad8c45e6fd2c023fe4ccc73b0390d5bb5f0ffad","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"2f496de0","position_vb":"8aff2a81","blend_vb":"81d3f46d","texcoord_vb":"1f648213","ib":"cbf1af69","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","943a8ad5"],["LightMap",".dds","81cab94d"],["DiffuseGuide",".dds","3ed0f51e"],["ShadowRamp",".jpg","59cd2559"]]],"first_vs":"6325ff039d1b109d"}]},{"hash":"2ea879aed5a667407862934f94b417d32e9f97b8","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"a6ac42c7","position_vb":"8aff2a81","blend_vb":"81d3f46d","texcoord_vb":"1f648213","ib":"cbf1af69","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","943a8ad5"],["LightMap",".dds","81cab94d"],["DiffuseGuide",".dds","3ed0f51e"],["ShadowRamp",".jpg","59cd2559"]]],"first_vs":"6325ff039d1b109d"}]}]}
+{
+    "path": "WeaponData/Bows/4Star/CompoundBow/CompoundBow",
+    "seenInHead": false,
+    "revisions": [
+        {
+            "hash": "c573deb4aba5ee49ec6f28b336587a97cb2d6029",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "2f496de0",
+                    "position_vb": "8aff2a81",
+                    "blend_vb": "81d3f46d",
+                    "texcoord_vb": "1f648213",
+                    "ib": "f325c5b6",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "943a8ad5"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "81cab94d"
+                            ],
+                            [
+                                "DiffuseGuide",
+                                ".dds",
+                                "3ed0f51e"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "59cd2559"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "6325ff039d1b109d"
+                }
+            ]
+        },
+        {
+            "hash": "56ac251274bb4817247e36d81e7acc440eddb358",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "2f496de0",
+                    "position_vb": "8aff2a81",
+                    "blend_vb": "81d3f46d",
+                    "texcoord_vb": "1f648213",
+                    "ib": "cbf1af69",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "943a8ad5"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "81cab94d"
+                            ],
+                            [
+                                "DiffuseGuide",
+                                ".dds",
+                                "3ed0f51e"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "59cd2559"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "6325ff039d1b109d"
+                }
+            ]
+        },
+        {
+            "hash": "26c07e93179c7fd93fc1558fea00193c408b9425",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "a6ac42c7",
+                    "position_vb": "8aff2a81",
+                    "blend_vb": "81d3f46d",
+                    "texcoord_vb": "1f648213",
+                    "ib": "cbf1af69",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "943a8ad5"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "81cab94d"
+                            ],
+                            [
+                                "DiffuseGuide",
+                                ".dds",
+                                "3ed0f51e"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "59cd2559"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "6325ff039d1b109d"
+                }
+            ]
+        },
+        {
+            "hash": "6ad8c45e6fd2c023fe4ccc73b0390d5bb5f0ffad",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "2f496de0",
+                    "position_vb": "8aff2a81",
+                    "blend_vb": "81d3f46d",
+                    "texcoord_vb": "1f648213",
+                    "ib": "cbf1af69",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "943a8ad5"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "81cab94d"
+                            ],
+                            [
+                                "DiffuseGuide",
+                                ".dds",
+                                "3ed0f51e"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "59cd2559"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "6325ff039d1b109d"
+                }
+            ]
+        },
+        {
+            "hash": "2ea879aed5a667407862934f94b417d32e9f97b8",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "a6ac42c7",
+                    "position_vb": "8aff2a81",
+                    "blend_vb": "81d3f46d",
+                    "texcoord_vb": "1f648213",
+                    "ib": "cbf1af69",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "943a8ad5"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "81cab94d"
+                            ],
+                            [
+                                "DiffuseGuide",
+                                ".dds",
+                                "3ed0f51e"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "59cd2559"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "6325ff039d1b109d"
+                }
+            ]
+        }
+    ]
+}

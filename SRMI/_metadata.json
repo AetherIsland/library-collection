@@ -1,1 +1,1045 @@
-{"head":"d82ca176cb846becd470d6055c5033a8c2689043","commits":[{"hash":"d82ca176cb846becd470d6055c5033a8c2689043","date":"2024-11-03T11:24:58-05:00","message":"Merge pull request #28 from Petrascyll/main","body":"2.6 Dumps"},{"hash":"d16bae4f2c253d1df5ed70ab28cd1b28016d90bf","date":"2024-11-03T07:39:45-05:00","message":"Keep WeaponData folder in case someone contributes","body":"Empty folders get yoinked by git\n"},{"hash":"f8de5d69b1b4e617886feb1349d1c06ac3454615","date":"2024-11-03T07:38:14-05:00","message":"Remove broken weapon dumps","body":""},{"hash":"a0a91c97511f5185f5cd9d18c834e74b0d52ab8a","date":"2024-11-03T07:31:40-05:00","message":"Merge branch 'SilentNightSound:main' into main","body":""},{"hash":"4653c42d28b151cdd90c6ee0ac59ab76d69adc05","date":"2024-11-03T05:42:18-05:00","message":"2.6 Add Rappa","body":""},{"hash":"28d15943ccbc7fff0f7e5f0628643576f5c1e6e3","date":"2024-11-03T05:00:26-05:00","message":"2.6 Add NPC Reca","body":""},{"hash":"06b6d1238c112ac7b62a3ba65e5a63dcd9d1c350","date":"2024-11-03T04:24:39-05:00","message":"2.6 Redump Robin","body":""},{"hash":"d6c9a0257dc0e283419a550518dda083d45178f1","date":"2024-10-15T13:14:16-04:00","message":"Merge pull request #27 from Petrascyll/main","body":"Playable Lingsha"},{"hash":"9a64b7d2180c64981034c7b7325297db77987cfd","date":"2024-09-12T09:52:58-04:00","message":"2.5 Add NPC Tauran","body":""},{"hash":"d295f8875d43a8c6afae7de15d9e5eabe102a100","date":"2024-09-12T07:07:13-04:00","message":"2.5 Add NPC Hoolay","body":""},{"hash":"bd8f7318421c10e429d52d4a8936f853a44ea2b7","date":"2024-09-12T05:49:35-04:00","message":"2.5 Add Monster Hoolay","body":""},{"hash":"49a25ef0ea111338e0cdc5ca406b31205be91979","date":"2024-09-12T05:48:40-04:00","message":"2.5 Move Lingsha to Playable Character Folder","body":""},{"hash":"f1e516a16120c2d4792a86afc8a9b72eb76a66f5","date":"2024-09-11T12:49:37-04:00","message":"2.5 Add Feixiao Mark Effect to dump","body":""},{"hash":"398421c0b2b72b8475997d972bbce23bb28931c9","date":"2024-09-10T20:58:57-04:00","message":"Merge pull request #26 from Petrascyll/main","body":"2.5 Dumps"},{"hash":"e87e1ab0e99cd53505720fd527c8a975a5d8d9e1","date":"2024-09-10T05:28:17-04:00","message":"Merge branch 'SilentNightSound:main' into main","body":""},{"hash":"8a0ec8079fe81bf94719f9f5af7b3a0d5c93f84b","date":"2024-09-10T05:24:35-04:00","message":"2.5 Move Moze to Playable Character Folder","body":""},{"hash":"6656ee5d22bfc4704c0153fd62c5300d7d81bc23","date":"2024-09-10T05:22:44-04:00","message":"2.5 Move Jiaqiou to Playable Character Folder","body":"His NPC model and playable model are the same. Truly one of the 5*s of all time....\n"},{"hash":"69e1bdf23714fab6c24a21003f9a310df97a06cc","date":"2024-09-10T00:16:17-04:00","message":"2.5 Add Playable Feixiao","body":""},{"hash":"5fc64e7b018fbf0092cbdad26cf18535be71b0c7","date":"2024-09-10T00:11:29-04:00","message":"2.5 Redump JingYuan","body":""},{"hash":"345f699e6c68f9ad3415863dfc329b34a9e5237b","date":"2024-08-06T19:47:38-04:00","message":"2.4 Redump Yanqing","body":""},{"hash":"a536be6854d342ef784b64c9d1c80824025644b0","date":"2024-08-02T15:44:04-04:00","message":"Merge pull request #25 from Petrascyll/main","body":"2.4 Dumps"},{"hash":"4007c8b75b936ca253f0f5b47a05b15ba16f6998","date":"2024-08-02T13:38:26-04:00","message":"2.4 Redump Acheron","body":""},{"hash":"a33b845dc49cc362619d8d70914bd341141941ee","date":"2024-08-02T13:20:05-04:00","message":"2.4 Add NPC Lingsha","body":""},{"hash":"99b9a78085a0b1709727ee345a2f81644c094842","date":"2024-08-02T13:19:01-04:00","message":"2.4 Add NPC Jiaoqiu","body":""},{"hash":"051d967a5ac9c22e14511b68b779b9da2034b976","date":"2024-08-02T13:18:38-04:00","message":"2.4 Add NPC Moze","body":""},{"hash":"36deb6663feaa5faf69633a83e62f4f5320b8034","date":"2024-08-02T13:18:12-04:00","message":"2.4 Add NPC Huaiyan","body":""},{"hash":"42823a9cc07116cc5c6dd93e026dfc1ed8f69948","date":"2024-08-02T13:17:48-04:00","message":"2.4 Add NPC Feixiao","body":""},{"hash":"0d61c3c1b2c6653cc9537a30232738dab73f37c0","date":"2024-08-02T13:17:01-04:00","message":"2.4 Add Yunli","body":""},{"hash":"57b3693398584f771ca28ddb62c628804a48efd2","date":"2024-08-02T13:16:49-04:00","message":"2.4 Add M7 Hunt","body":""},{"hash":"446789620da06ce558d5270e2ef2842aa45b0c5c","date":"2024-07-04T18:24:08-04:00","message":"Merge pull request #24 from VivareVeritas/main","body":"Added Boothill's Weapon"},{"hash":"947ce237a69d6711793ba1e63697c425b66019c3","date":"2024-07-04T01:45:09-04:00","message":"Added Boothill's Weapon","body":""},{"hash":"63ffd3ce300e52d8189c031105e8331f8d6cda4f","date":"2024-06-21T20:55:54-04:00","message":"Merge pull request #23 from Petrascyll/main","body":"2.3 Fix Boothill dump"},{"hash":"fdaecd098ea9bd693fa910563a554dc8f3fa0970","date":"2024-06-21T19:50:32-04:00","message":"2.3 Fix Boothill dump","body":""},{"hash":"3e13b0102e186de59039385e6d90be5829d51070","date":"2024-06-21T02:03:01-04:00","message":"Merge pull request #22 from Petrascyll/main","body":"2.3 Redump"},{"hash":"87abc0363d356edb0de38f3e121788191c216add","date":"2024-06-21T00:58:12-04:00","message":"Merge branch 'SilentNightSound:main' into main","body":""},{"hash":"7d0648a64774a845ebf67a4aece03b88aaf36490","date":"2024-06-10T20:56:09-04:00","message":"2.3 Redump","body":"- Acheron\n- Argenti\n- Arlan\n- Asta\n- Bailu\n- BlackSwan\n- Blade\n- Bronya\n- Clara\n- DanHengIL\n- DanHeng\n- DrRatio\n- FuXuan\n- Gepard\n- Guinaifen\n- Hanya\n- Herta\n- Himeko\n- Hook\n- Huohuo\n- Jingliu\n- JingYuan\n- Kafka\n- Luka\n- Luocha\n- Lynx\n- March7th\n- Misha\n- Natasha\n- Pela\n- Qingque\n- RuanMei    (dumped by zlevir)\n- Seele      (dumped by zlevir)\n- Serval     (dumped by zlevir)\n- Sparkle\n- SilverWolf (dumped by zlevir)\n- Sushang    (dumped by zlevir)\n- Tingyun    (dumped by zlevir)\n- Topaz      (dumped by zlevir)\n- Welt       (dumped by zlevir)\n- Xueyi      (dumped by zlevir)\n- Yanqing    (dumped by zlevir)\n- Yukong     (dumped by zlevir)\n- Robin      (dumped by zlevir)\n- Boothill   (dumped by zlevir)\n- Sampo      (dumped by zlevir)\n- Stelle\n- Aventurine\n- Gallagher\n- Svarog\n- Firefly\n- Numby\n- Caelus\n- Jade\n- Sam\n"},{"hash":"9bb8f3dd56a2b337d8d80a07bee4400551b008fd","date":"2024-05-11T10:31:12-04:00","message":"Merge pull request #21 from Petrascyll/main","body":"HSR v2.2 Dumps"},{"hash":"60bc16a63d67c759473a2b0d10f44d31494fb9e5","date":"2024-05-09T04:05:34-04:00","message":"2.2 Add Robin Starry Sky Effect Textures","body":"The mask controlling the effect should be adjusted or set to null when modifying the body. Needs a checktextureoverride on ps-t4 when upskirting.\n"},{"hash":"618ae686a1f1da8cdc4c6b0d2e36a8fbeefc96f5","date":"2024-05-09T00:31:23-04:00","message":"2.2 Move Boothill to Player Character Folder","body":""},{"hash":"93bd911381bfd03a46e177ba4f723d523b67b165","date":"2024-05-09T00:10:08-04:00","message":"2.2 Rename TrailblazerBoy to Caelus + Add Harmony Path","body":""},{"hash":"f22da126f8aedeaf1e97b26284fdc871316c49f5","date":"2024-05-08T08:28:07-04:00","message":"2.2 Add Boothill","body":""},{"hash":"860b3be53ccbcdf37caccbd46aa0dd7c6efe0da6","date":"2024-05-08T08:15:26-04:00","message":"2.2 Siobhan/Micah Dump and Organizing","body":"Added NonPlayerCharacterFolder:\n- Added Siobhan\n- Added Micah\n- Moved Firefly\n- Moved Sunday\n- Moved Pom-Pom\n\nMoved Sam to Enemy folder.\n"},{"hash":"f3d149b5eb2930d862860cd62deed7e3a8bbb69c","date":"2024-05-07T23:06:35-04:00","message":"2.2 Sparkle Body Diffuse Hash Swap","body":""},{"hash":"3cd35762e31d3b24390f9c73ab704f6f2c874c29","date":"2024-05-07T22:49:25-04:00","message":"2.2 Add Robin","body":""},{"hash":"51a9aea8882e3bf8b445e2775abd8ec1211baa1c","date":"2024-05-08T06:38:29-04:00","message":"2.2 Acheron Hair Texture Hash Swap","body":""},{"hash":"21d99f36b65612f89aa7744fbd5d068323972fbf","date":"2024-05-08T05:26:46-04:00","message":"2.2 Rename TrailblazerGirl to Stelle and Redump","body":"Stelle now uses the same hashes for Preservation/Destruction paths.\n"},{"hash":"575a91e3d489a6517fa1c1480faa110e0c2b0924","date":"2024-04-04T21:15:36-04:00","message":"Merge pull request #20 from Petrascyll/main","body":"HSR v2.1 Redump"},{"hash":"950d66ede6b0b37f85881c17184249aecbb76f3b","date":"2024-03-28T08:35:50-04:00","message":"2.1 Redump: Aventurine","body":""},{"hash":"8de339a1dea511a36298dde0e8dee8281e8bab1a","date":"2024-03-27T01:15:27-04:00","message":"2.1 Redump Playable Characters","body":"Acheron\nBlackSwan\nGallagher\nJingYuan\nMisha\nSparkle\nWelt\n"},{"hash":"03be0a6dc4ecb6d9240fcc6a5477acfdc72d8de8","date":"2024-03-16T01:56:33-04:00","message":"Add Sparkle Idle Animation Mask","body":"Sparkle's mask used in her idle animation is a separate object that uses the same texture as body A/B/C. Modding the texture necessitates modding the mask's uv map similarly.\n"},{"hash":"c0c15488242defe50fdc6f136501eb97ce890fe0","date":"2024-03-05T09:02:30-05:00","message":"Merge pull request #19 from Petrascyll/main","body":"Remove Duplicate Textures"},{"hash":"bcef22c86c9adfcfe39460901aa2ec6a118b01ad","date":"2024-03-04T07:29:34-05:00","message":"Remove Duplicate Textures","body":"Added comments in hash.json to make it clearer what texture goes where.\n"},{"hash":"d86bc0a849b440ea7b22324beca92dc707987f5e","date":"2024-02-26T13:02:06-05:00","message":"Merge pull request #18 from Petrascyll/main","body":"2.0 Full Redump + Add new Characters + Trailblazer Paths Split"},{"hash":"90e7ba9524bc13d4b93eaa3f3cd1e51bcd8cbd75","date":"2024-02-10T04:07:22-05:00","message":"Redump Sparkle","body":"Old dump had borked elbows due to shapekey\n"},{"hash":"66315111affe2bcc78a90b7d8da7f74ab53fc798","date":"2024-02-06T05:17:51-05:00","message":"2.0 Full Redump + Add new Characters + Trailblazer Paths Split","body":"Full redump excluding Pom-Pom and March7thAlt\nNew Characters:\nArgenti, Hanya, Xueyi, RuanMei, DrRatio, BlackSwan, Misha, Sparkle(NPC), Acheron(NPC), Firefly(NPC), Gallagher(NPC), Aventurine(NPC), Sunday(NPC), Robin(NPC), Sam(NPC)\n\npython .\\hsr_3dmigoto_collect.py -ib 2d9adf2d b6a70a49 174a08d4 -c \"Hair\" \"Head\" \"Body\" -n \"TrailblazerGirlDestruction\"\npython .\\hsr_3dmigoto_collect.py -ib 2d9adf2d b6a70a49 e0d86dc8 -c \"Hair\" \"Head\" \"Body\" -n \"TrailblazerGirlPreservation\"\npython .\\hsr_3dmigoto_collect.py -ib c74d60d8 c1004613 e3ffef9a -c \"Hair\" \"Head\" \"Body\" -n \"TrailblazerBoyDestruction\"\npython .\\hsr_3dmigoto_collect.py -ib c74d60d8 c1004613 a270e292 -c \"Hair\" \"Head\" \"Body\" -n \"TrailblazerBoyPreservation\"\n\npython .\\hsr_3dmigoto_collect.py -ib c0127457 069eaf2d e79e4018 -c \"Hair\" \"Head\" \"Body\" -n \"Himeko\"\npython .\\hsr_3dmigoto_collect.py -ib f82cf281 de648f58 fa23099d -c \"Hair\" \"Head\" \"Body\" -n \"Kafka\"\npython .\\hsr_3dmigoto_collect.py -ib 3608ba80 9df63c26 e8f10ab3 -c \"Hair\" \"Head\" \"Body\" -n \"SilverWolf\"\npython .\\hsr_3dmigoto_collect.py -ib 2d03d71b a9ffadaf 29d03f40 -c \"Hair\" \"Head\" \"Body\" -n \"Bronya\"\npython .\\hsr_3dmigoto_collect.py -ib 39a97d9e a7f9383f 1e4f876c -c \"Hair\" \"Head\" \"Body\" -n \"Gepard\"\npython .\\hsr_3dmigoto_collect.py -ib 338bbeec 3d36602a 4a58be98 -c \"Hair\" \"Head\" \"Body\" -n \"Clara\"\npython .\\hsr_3dmigoto_collect.py -ib 3b85292b 002b0531 149a218b -c \"Hair\" \"Head\" \"Body\" -n \"Luocha\"\npython .\\hsr_3dmigoto_collect.py -ib 60d6a2c4 b2aa2b13 0eb1e389 -c \"Hair\" \"Head\" \"Body\" -n \"Blade\"\npython .\\hsr_3dmigoto_collect.py -ib 624e3c31 effe7d6d 680253f0 -c \"Hair\" \"Head\" \"Body\" -n \"Bailu\"\npython .\\hsr_3dmigoto_collect.py -ib 8b476756 01d6bb55 7cb75a5e -c \"Hair\" \"Head\" \"Body\" -n \"DanHengIL\"\npython .\\hsr_3dmigoto_collect.py -ib 84ba7549 2e23a897 5212ce68 -c \"Hair\" \"Head\" \"Body\" -n \"March7th\"\npython .\\hsr_3dmigoto_collect.py -ib 5d61b5b0 a547f1ac 457b4223 -c \"Hair\" \"Head\" \"Body\" -n \"DanHeng\"\npython .\\hsr_3dmigoto_collect.py -ib 801f0607 2e4a2fcf 31ebfc6e -c \"Hair\" \"Head\" \"Body\" -n \"Arlan\"\npython .\\hsr_3dmigoto_collect.py -ib 84668635 46b9e3dc 8fb66ce1 -c \"Hair\" \"Head\" \"Body\" -n \"Asta\"\npython .\\hsr_3dmigoto_collect.py -ib 5ed4d217 d27ce7f6 9553ff35 -c \"Hair\" \"Head\" \"Body\" -n \"Herta\"\npython .\\hsr_3dmigoto_collect.py -ib 3c2acced a42d6234 f092876d -c \"Hair\" \"Head\" \"Body\" -n \"Serval\"\npython .\\hsr_3dmigoto_collect.py -ib b12335b8 e992b074 68dd15e8 -c \"Hair\" \"Head\" \"Body\" -n \"Natasha\"\npython .\\hsr_3dmigoto_collect.py -ib 16e76a8a 9af18b75 98dbd548 -c \"Hair\" \"Head\" \"Body\" -n \"Pela\"\npython .\\hsr_3dmigoto_collect.py -ib d2e6ad9b 20994839 3ac42f7d -c \"Hair\" \"Head\" \"Body\" -n \"Sampo\"\npython .\\hsr_3dmigoto_collect.py -ib 51a1f5de 47006028 0c614d18 -c \"Hair\" \"Head\" \"Body\" -n \"Hook\"\npython .\\hsr_3dmigoto_collect.py -ib b1fc6492 7f520a44 71647b48 -c \"Hair\" \"Head\" \"Body\" -n \"Lynx\"\npython .\\hsr_3dmigoto_collect.py -ib c0c2f99f 491907cd e0c9f7ec -c \"Hair\" \"Head\" \"Body\" -n \"Luka\"\npython .\\hsr_3dmigoto_collect.py -ib 5497a555 1b33c5bd 0a82ceb7 -c \"Hair\" \"Head\" \"Body\" -n \"Qingque\"\npython .\\hsr_3dmigoto_collect.py -ib 73997af9 1ddef8da da59600b -c \"Hair\" \"Head\" \"Body\" -n \"Tingyun\"\npython .\\hsr_3dmigoto_collect.py -ib 993cd03d cae63fba 4b22391b -c \"Hair\" \"Head\" \"Body\" -n \"Sushang\"\npython .\\hsr_3dmigoto_collect.py -ib aef31d8a 2bedba8e 28bbd4ae -c \"Hair\" \"Head\" \"Body\" -n \"Yukong\"\npython .\\hsr_3dmigoto_collect.py -ib bfa0a6b3 42e7b8be d15987b1 -c \"Hair\" \"Head\" \"Body\" -n \"Welt\"\npython .\\hsr_3dmigoto_collect.py -ib 63384110 06affad8 6a522a54 -c \"Hair\" \"Head\" \"Body\" -n \"Seele\"\npython .\\hsr_3dmigoto_collect.py -ib 09c6261f 22147cfe 1240ff30 -c \"Hair\" \"Head\" \"Body\" -n \"JingYuan\"\npython .\\hsr_3dmigoto_collect.py -ib a628f540 e6bdf122 c230f24a -c \"Hair\" \"Head\" \"Body\" -n \"FuXuan\"\npython .\\hsr_3dmigoto_collect.py -ib b809aefa 6ae41f8f d03803e6 -c \"Hair\" \"Head\" \"Body\" -n \"Yanqing\"\npython .\\hsr_3dmigoto_collect.py -ib afec4cc3 42f6df0c e8d31b6a -c \"Hair\" \"Head\" \"Body\" -n \"Jingliu\"\n\npython .\\hsr_3dmigoto_collect.py -ib 179d17fe 2dc8bb9d 7d57f432 -c \"Hair\" \"Head\" \"Body\" -n \"Argenti\"\npython .\\hsr_3dmigoto_collect.py -ib bb38993a 75fca075 b1c2c937 -c \"Hair\" \"Head\" \"Body\" -n \"Hanya\"\npython .\\hsr_3dmigoto_collect.py -ib bef9c8df 1803964c af2983dd -c \"Hair\" \"Head\" \"Body\" -n \"Xueyi\"\npython .\\hsr_3dmigoto_collect.py -ib f1a4401b f866094a b52297bf -c \"Hair\" \"Head\" \"Body\" -n \"Topaz\"\npython .\\hsr_3dmigoto_collect.py -ib 00fdde39 9bee73d8 79900144 -c \"Hair\" \"Head\" \"Body\" -n \"Guinaifen\"\npython .\\hsr_3dmigoto_collect.py -ib 04dc5786 e8600429 e9aecd0b -c \"Hair\" \"Head\" \"Body\" -n \"Huohuo\"\npython .\\hsr_3dmigoto_collect.py -ib 5f7f8629 d25009fb 93e2e265 -c \"Hair\" \"Head\" \"Body\" -n \"RuanMei\"\npython .\\hsr_3dmigoto_collect.py -ib 76d7d3f3 82bc4a2d 37c47042 -c \"Hair\" \"Head\" \"Body\" -n \"DrRatio\"\n\npython .\\hsr_3dmigoto_collect.py -ib 79cc4363 527318a2 b194833e -c \"Hair\" \"Head\" \"Body\" -n \"BlackSwan\"\npython .\\hsr_3dmigoto_collect.py -ib 66e3518a 972ab7a1 5ea19d76 -c \"Hair\" \"Head\" \"Body\" -n \"Misha\"\npython .\\hsr_3dmigoto_collect.py -ib 10ee0ac5 d569b4d9 74660eca -c \"Hair\" \"Head\" \"Body\" -n \"Sparkle\"\n\npython .\\hsr_3dmigoto_collect.py -ib cb7fd896 5e7ca268 1319ca91 bc4676ea -c \"Hair\" \"HairTail\" \"Head\" \"Body\" -n \"Acheron\"\npython .\\hsr_3dmigoto_collect.py -ib a27cca81 bd7cea98 977bcde9 -c \"Hair\" \"Head\" \"Body\" -n \"Firefly\"\npython .\\hsr_3dmigoto_collect.py -ib cd5de30c 7763eadf cef77c91 -c \"Hair\" \"Head\" \"Body\" -n \"Gallagher\"\npython .\\hsr_3dmigoto_collect.py -ib 015f4887 def114e4 47afa256 -c \"Hair\" \"Head\" \"Body\" -n \"Aventurine\"\npython .\\hsr_3dmigoto_collect.py -ib 8baf1f8c 126c99c5 6ad7c553 -c \"Hair\" \"Head\" \"Body\" -n \"Sunday\"\npython .\\hsr_3dmigoto_collect.py -ib cbef0641 ac1267e4 a42ac8c5 -c \"Hair\" \"Head\" \"Body\" -n \"Robin\"\npython .\\hsr_3dmigoto_collect.py -ib 70071693 -c \"Body\" -n \"Sam\"\n"},{"hash":"34fceaeca211281036aad2dcc39d88058c61396d","date":"2023-11-14T23:07:58-05:00","message":"Merge pull request #16 from yudokubos/main","body":"Add Topaz, Guinaifen, March 7th Alt, and Huohuo"},{"hash":"87ff8a9f538940dcf66f8aa2206088cac7e1992c","date":"2023-11-14T17:22:01-10:00","message":"Add Huohuo","body":""},{"hash":"744e3f45086bfb8d71351f014df151f131994287","date":"2023-10-14T19:24:15-10:00","message":"Add Topaz, Guinaifen, and March 7th Alt","body":""},{"hash":"12cff3397862b84a9d6bf5870614c9c1a64f0c5f","date":"2023-10-12T09:50:53-04:00","message":"Merge pull request #15 from yudokubos/main","body":"Add Pom-Pom and remove HertaMod"},{"hash":"97414045b3e5b461f8d5dd82ea5f307013ca590c","date":"2023-10-11T07:08:22-10:00","message":"Re-dump all characters for 1.4","body":""},{"hash":"b95be85f56e0579937c0cf548f7dfd8c36b89710","date":"2023-10-10T21:57:35-10:00","message":"Merge branch 'main' of https://github.com/yudokubos/SR-Model-Importer-Assets","body":""},{"hash":"028648bf70830cae3ca6a128721222b487c77c1c","date":"2023-10-10T21:57:02-10:00","message":"Re-dump all characters for 1.4 + add Yukong, Jingliu, and Blade","body":"py hsr_3dmigoto_collect.py -n \"TrailblazerBoy\" -c \"Hair\" \"Head\" \"Body\" -ib c74d60d8 c1004613 fd65164c\npy hsr_3dmigoto_collect.py -n \"TrailblazerGirl\" -c \"Hair\" \"Head\" \"Body\" -ib 2d9adf2d b6a70a49 85ad43b3\npy hsr_3dmigoto_collect.py -n \"Himeko\" -c \"Hair\" \"Head\" \"Body\" -ib c0127457 069eaf2d e4640c8c\npy hsr_3dmigoto_collect.py -n \"Kafka\" -c \"Hair\" \"Head\" \"Body\" -ib f82cf281 de648f58 b7401039\npy hsr_3dmigoto_collect.py -n \"SilverWolf\" -c \"Hair\" \"Head\" \"Body\" -ib 3608ba80 9df63c26 729de5d2\npy hsr_3dmigoto_collect.py -n \"Bronya\" -c \"Hair\" \"Head\" \"Body\" -ib 70fd4690 a9ffadaf 1d057d1a\npy hsr_3dmigoto_collect.py -n \"Gepard\" -c \"Hair\" \"Head\" \"Body\" -ib 39a97d9e a7f9383f 30aa99d6\npy hsr_3dmigoto_collect.py -n \"Clara\" -c \"Hair\" \"Head\" \"Body\" -ib 58982bbd 3d36602a f92afebc\npy hsr_3dmigoto_collect.py -n \"Luocha\" -c \"Hair\" \"Head\" \"Body\" -ib 3b85292b 002b0531 6c659c20\npy hsr_3dmigoto_collect.py -n \"Blade\" -c \"Hair\" \"Head\" \"Body\" -ib 60d6a2c4 b2aa2b13 5d03ae61\npy hsr_3dmigoto_collect.py -n \"Bailu\" -c \"Hair\" \"Head\" \"Body\" -ib 624e3c31 effe7d6d dbf90364\npy hsr_3dmigoto_collect.py -n \"DanHengIL\" -c \"Hair\" \"Head\" \"Body\" -ib 8b476756 01d6bb55 1a7ee87c\npy hsr_3dmigoto_collect.py -n \"March7th\" -c \"Hair\" \"Head\" \"Body\" -ib 84ba7549 2e23a897 97ad7623\npy hsr_3dmigoto_collect.py -n \"DanHeng\" -c \"Hair\" \"Head\" \"Body\" -ib 5d61b5b0 a547f1ac be813760\npy hsr_3dmigoto_collect.py -n \"Arlan\" -c \"Hair\" \"Head\" \"Body\" -ib 801f0607 2e4a2fcf cb3a3965\npy hsr_3dmigoto_collect.py -n \"Asta\" -c \"Hair\" \"Head\" \"Body\" -ib 84668635 46b9e3dc 099dd85b\npy hsr_3dmigoto_collect.py -n \"Herta\" -c \"Hair\" \"Head\" \"Body\" -ib 5ed4d217 d27ce7f6 5186a9b8\npy hsr_3dmigoto_collect.py -n \"Serval\" -c \"Hair\" \"Head\" \"Body\" -ib 3c2acced a42d6234 44885792\npy hsr_3dmigoto_collect.py -n \"Natasha\" -c \"Hair\" \"Head\" \"Body\" -ib b12335b8 e992b074 005670d8\npy hsr_3dmigoto_collect.py -n \"Pela\" -c \"Hair\" \"Head\" \"Body\" -ib 16e76a8a 9af18b75 f4eb23b2\npy hsr_3dmigoto_collect.py -n \"Sampo\" -c \"Hair\" \"Head\" \"Body\" -ib d2e6ad9b 20994839 3ac42f7d\npy hsr_3dmigoto_collect.py -n \"Hook\" -c \"Hair\" \"Head\" \"Body\" -ib 51a1f5de 47006028 26276c57\npy hsr_3dmigoto_collect.py -n \"Lynx\" -c \"Hair\" \"Head\" \"Body\" -ib b1fc6492 7f520a44 e8c4b27f\npy hsr_3dmigoto_collect.py -n \"Luka\" -c \"Hair\" \"Head\" \"Body\" -ib c0c2f99f 491907cd 5332e0c4\npy hsr_3dmigoto_collect.py -n \"Qingque\" -c \"Hair\" \"Head\" \"Body\" -ib 5497a555 1b33c5bd daafea36\npy hsr_3dmigoto_collect.py -n \"Tingyun\" -c \"Hair\" \"Head\" \"Body\" -ib 73997af9 1ddef8da 351d8570\npy hsr_3dmigoto_collect.py -n \"Sushang\" -c \"Hair\" \"Head\" \"Body\" -ib 993cd03d cae63fba d765c517\npy hsr_3dmigoto_collect.py -n \"Yukong\" -c \"Hair\" \"Head\" \"Body\" -ib aef31d8a 2bedba8e 1df9540b\npy hsr_3dmigoto_collect.py -n \"Welt\" -c \"Hair\" \"Head\" \"Body\" -ib bfa0a6b3 42e7b8be 374ac8a9\npy hsr_3dmigoto_collect.py -n \"Seele\" -c \"Hair\" \"Head\" \"Body\" -ib 63384110 06affad8 eb699635\npy hsr_3dmigoto_collect.py -n \"JingYuan\" -c \"Hair\" \"Head\" \"Body\" -ib 09c6261f 22147cfe 1be11c4f\npy hsr_3dmigoto_collect.py -n \"FuXuan\" -c \"Hair\" \"Head\" \"Body\" -ib a628f540 e6bdf122 7d77bdb5\npy hsr_3dmigoto_collect.py -n \"Yanqing\" -c \"Hair\" \"Head\" \"Body\" -ib b809aefa 6ae41f8f c20cd648\npy hsr_3dmigoto_collect.py -n \"Jingliu\" -c \"Hair\" \"Head\" \"Body\" -ib afec4cc3 42f6df0c 5564183c\n"},{"hash":"a038452aa1bfea5cbdb5dbbf9ba6b83a6dcc58d8","date":"2023-10-06T07:52:31-10:00","message":"Merge branch 'SilentNightSound:main' into main","body":""},{"hash":"ec3575ec03f0252f7e19311ef94947b75f084fae","date":"2023-10-06T07:51:12-10:00","message":"Add Pom-Pom and remove HertaMod","body":""},{"hash":"05897b30059e56e8ffc2e7c905ade0094e4c6b4e","date":"2023-09-20T22:38:34-04:00","message":"Merge pull request #14 from yudokubos/main","body":"Add Lynx and update FuXuan body mesh"},{"hash":"23c36284f6e736da4b39d81c9eb8e9406da2ba9e","date":"2023-09-20T13:50:42-10:00","message":"Merge branch 'SilentNightSound:main' into main","body":""},{"hash":"5c9e14634217e7432e95a15cf258d362e316dd01","date":"2023-09-20T13:48:55-10:00","message":"Merge branch 'main' of https://github.com/yudokubos/SR-Model-Importer-Assets","body":""},{"hash":"b41d43bdbda4872bc68c1c40c229faa45b43be2f","date":"2023-09-20T13:48:44-10:00","message":"Add Lynx and update FuXuan body mesh","body":""},{"hash":"764a1a158fef70114032d2ee8b63804a89e7080b","date":"2023-08-31T16:18:49-04:00","message":"Merge pull request #13 from hhoneeyy/main","body":"Added Silvermane Soldier"},{"hash":"dcdcebf723db4ff1363ccd1bff0f6190f2578ec1","date":"2023-09-01T00:06:13+04:00","message":"Added Silvermane Soldier","body":""},{"hash":"45d67299411c30f030cfc3023fb43c7fbc949474","date":"2023-08-31T10:18:35-04:00","message":"Merge pull request #12 from yudokubos/main","body":"Add Dan Heng IL and Fu Xuan"},{"hash":"d096d05ca842c04ec28274a62a7b159422f74b7a","date":"2023-08-29T22:51:48-10:00","message":"Merge branch 'SilentNightSound:main' into main","body":""},{"hash":"6257552343f8de9623f44727ede04cd53fc4223e","date":"2023-08-29T22:20:36-10:00","message":"Add Dan Heng IL and Fu Xuan","body":"1.3 character dumps\n"},{"hash":"9fa55422319949cc7f610e8cd66ade88cee26e86","date":"2023-08-18T22:11:08-04:00","message":"Merge pull request #11 from yudokubos/main","body":"Add Luka"},{"hash":"15e2a42acd30c1494090b733b93acc74f7eca46b","date":"2023-08-18T13:12:14-10:00","message":"Add Luka","body":"Initial dump of Luka\n"},{"hash":"0ad0ebcb650df5c5c37826c82c494638926cc881","date":"2023-08-16T16:16:22-04:00","message":"Merge pull request #10 from hhoneeyy/main","body":"kafka fix"},{"hash":"e53e2647da6c5c39f41db0e951e3d3f79045e67f","date":"2023-08-17T00:13:40+04:00","message":"kafka fix","body":"previous kafka dump seemed to cause crash issues, thanks to YudoKubos for the dump\n"},{"hash":"da0b5d7ff8d6088706924fd20606308bc78eefd5","date":"2023-08-16T13:14:42-04:00","message":"Merge pull request #9 from hhoneeyy/main","body":"Fixed TrailblazerGirl Hash"},{"hash":"7514cde8728155a4965e45a461b885d1369c57fc","date":"2023-08-16T19:47:23+04:00","message":"fixed","body":""},{"hash":"9fcd6142950ed152613bc1db69408e7a59972953","date":"2023-08-06T22:06:43+04:00","message":"Renamed TrailblazerGirl to Stelle and updated hashes","body":""},{"hash":"c6cea6b4ec310f6f8334ccfcc9819d17ae5292da","date":"2023-05-24T00:04:22-04:00","message":"Merge pull request #7 from leotorrez/Leos","body":"Leos"},{"hash":"3bfafd7cce9acc0f08e597516339742340058cc4","date":"2023-05-23T19:27:53-03:00","message":"Fixing herta AGAIN","body":""},{"hash":"fa31f6a333bcae512d94ff89de4ddff484bb92b7","date":"2023-05-21T03:00:51-03:00","message":"fixign herta","body":"again\n"},{"hash":"06fc5d2f4900e49c28f62af2d61887ea850abc62","date":"2023-05-14T16:44:59-03:00","message":"Trailblazer male","body":"i forgor okay promize last push today xD\n"},{"hash":"fed64aa7e2f821e25c7d0def77b0c5ff0f882fbf","date":"2023-05-14T16:26:17-03:00","message":"added kafka and snowwolf and their weapons","body":"--no_blend in weapons\n\nsnowwolf's is weird af naming is whatever atm but understandable\n"},{"hash":"c32ba5c32b408b12fc917457b2a355aead88adfd","date":"2023-05-14T15:56:19-03:00","message":"added kafka weapon","body":"--no_blend\n"},{"hash":"6332891b660ce3badb71c4b067fd1230b9150c33","date":"2023-05-14T15:44:38-03:00","message":"added danheng","body":"in the new format\n"},{"hash":"63d434beb601b9e0f088371d5ef570aad3fad97d","date":"2023-05-14T15:39:06-03:00","message":"Cleaning models with HeadHead format","body":"deleted danheng, cocolia, cocolia monster\ncleaned trailblazer, asta and a few others whom i forgot but they clean now xD\n"},{"hash":"83c439314bac6df37e576710eb0cc16f68188732","date":"2023-05-13T18:29:39-04:00","message":"Merge pull request #6 from leotorrez/Leos","body":"Leos"},{"hash":"773245e529c338a058513831073e254e43b38338","date":"2023-05-13T19:04:50-03:00","message":"added 4 weapons","body":"asta's natasha's pela's and sushang's\n"},{"hash":"b5e38b3c0b7f62e905a443a7c5b51e05bbad3de3","date":"2023-05-13T14:46:59-03:00","message":"fixed Svarog and Trailblazer","body":"old files removed and replaced with new A B C D format\n"},{"hash":"6a4636c8966f601b447c1786fcc64c3a246c02d6","date":"2023-05-13T11:59:51-04:00","message":"Merge pull request #5 from shimizu-izumi/main","body":"Added Jing Yuan and more light masks"},{"hash":"d95070c7d79b03d65117492479f1eb369a516ab0","date":"2023-05-13T10:14:23+02:00","message":"Added light masks for all data in leotorrez's newest commit","body":""},{"hash":"234c1c1e1bf00960c38a40bd0f389f953985e4d7","date":"2023-05-13T09:42:29+02:00","message":"Added Jing Yuan","body":""},{"hash":"a8d77e25172ec6f4a6942e64e0f2d3c883abfb82","date":"2023-05-12T21:27:21-04:00","message":"Merge pull request #4 from leotorrez/Leos","body":"God knows what might happen"},{"hash":"e0916a372b43711c85b4cbc17afec2085bc93620","date":"2023-05-12T22:20:29-03:00","message":"God knows what might happen","body":"huge commit all 21 playable units plus female trailblazer(destruction)\n"},{"hash":"83d07fa54c8f8b47e0b26118f820a59c4b9db0f7","date":"2023-05-12T21:16:20-04:00","message":"Merge pull request #3 from leotorrez/Leos","body":"Weapon add"},{"hash":"8b75d6c36dbd800f11820944d94a9136b4ca7b98","date":"2023-05-12T21:07:20-03:00","message":"Weapon add","body":"Seele's\nServal's\n"},{"hash":"0c72ec8cc87025540e08279d4612334bca85452e","date":"2023-05-08T17:22:17-04:00","message":"Merge pull request #2 from shimizu-izumi/main","body":"Remaining player characters except Natasha and alpha masks for every texture with an alpha layer"},{"hash":"032721456fa8ee5236ecd5a0d391dcdecdfbec87","date":"2023-05-08T18:32:56+02:00","message":"Added alpha masks for overlooked textures","body":""},{"hash":"dd201881ee69f31f781602c177a6e199083f2903","date":"2023-05-08T18:23:05+02:00","message":"Added alpha masks for everything texture with an alpha layer","body":""},{"hash":"0ea720d6f862b0a4deb3e6f3a924825ec529e1b0","date":"2023-05-08T17:24:38+02:00","message":"Added remaining player characters except Natasha","body":""},{"hash":"79a904eafb67d98378889be3be17e095d86584e0","date":"2023-05-07T17:39:18-04:00","message":"Merge pull request #1 from leotorrez/Leos","body":"Adding some characters and enemies"},{"hash":"27d19855eb331e0ac9ad874734e933e9cd98d4ca","date":"2023-05-07T10:32:28-03:00","message":"Adding some characters and enemies","body":"Trailblazer girl(missing hashes for new elements)\nCocolia both versions\nSvarog\nAsta\nHerta\nSeele\n"},{"hash":"d6e3bc886f853705b04240308ad61cc698d85a6b","date":"2023-05-06T21:29:18-04:00","message":"Initial commit","body":""}],"index":[{"id":"Cocolia-7a6e12eb","displayName":"EnemyData/Cocolia"},{"id":"CocoliaMonster-179cd4a7","displayName":"EnemyData/CocoliaMonster"},{"id":"Hoolay-4cf0cf1c","displayName":"EnemyData/Hoolay"},{"id":"Sam-79e89192","displayName":"EnemyData/Sam"},{"id":"SilvermaneSoldier-ba98d857","displayName":"EnemyData/SilvermaneSoldier"},{"id":"Svarog-6c7615a8","displayName":"EnemyData/Svarog"},{"id":"Boothill-65242de9","displayName":"NonPlayerCharacterData/Boothill"},{"id":"Feixiao-7606be6a","displayName":"NonPlayerCharacterData/Feixiao"},{"id":"Firefly-3845162e","displayName":"NonPlayerCharacterData/Firefly"},{"id":"HoolayAlter-eabfac24","displayName":"NonPlayerCharacterData/HoolayAlter"},{"id":"Huaiyan-5f7af67d","displayName":"NonPlayerCharacterData/Huaiyan"},{"id":"Jiaoqiu-1f38d56b","displayName":"NonPlayerCharacterData/Jiaoqiu"},{"id":"Lingsha-c98cadaa","displayName":"NonPlayerCharacterData/Lingsha"},{"id":"Micah-aaa1cd46","displayName":"NonPlayerCharacterData/Micah"},{"id":"Moze-1e7ba792","displayName":"NonPlayerCharacterData/Moze"},{"id":"Numby-2ed05fe6","displayName":"NonPlayerCharacterData/Numby"},{"id":"Pom-Pom-b3cc72dc","displayName":"NonPlayerCharacterData/Pom-Pom"},{"id":"Reca-65ec45de","displayName":"NonPlayerCharacterData/Reca"},{"id":"Siobhan-e2f719bd","displayName":"NonPlayerCharacterData/Siobhan"},{"id":"Sunday-f82ef2ae","displayName":"NonPlayerCharacterData/Sunday"},{"id":"Tauran-8d7ede30","displayName":"NonPlayerCharacterData/Tauran"},{"id":"Acheron-693f18fd","displayName":"PlayerCharacterData/Acheron"},{"id":"Argenti-c538d4a2","displayName":"PlayerCharacterData/Argenti"},{"id":"Arlan-d32064e9","displayName":"PlayerCharacterData/Arlan"},{"id":"Asta-86eb6c6e","displayName":"PlayerCharacterData/Asta"},{"id":"Aventurine-cfed249","displayName":"PlayerCharacterData/Aventurine"},{"id":"Bailu-e93f953e","displayName":"PlayerCharacterData/Bailu"},{"id":"BlackSwan-fbd5418c","displayName":"PlayerCharacterData/BlackSwan"},{"id":"Blade-669168a4","displayName":"PlayerCharacterData/Blade"},{"id":"Boothill-c7a49539","displayName":"PlayerCharacterData/Boothill"},{"id":"Bronya-16dfc827","displayName":"PlayerCharacterData/Bronya"},{"id":"CaelusDestruction-89d4740d","displayName":"PlayerCharacterData/CaelusDestruction"},{"id":"CaelusHarmony-96048756","displayName":"PlayerCharacterData/CaelusHarmony"},{"id":"CaelusPreservation-5aecb646","displayName":"PlayerCharacterData/CaelusPreservation"},{"id":"Clara-a1f86ba6","displayName":"PlayerCharacterData/Clara"},{"id":"DanHeng-8f881d21","displayName":"PlayerCharacterData/DanHeng"},{"id":"DanHengIL-b5b2bdb4","displayName":"PlayerCharacterData/DanHengIL"},{"id":"DrRatio-5ecfd58b","displayName":"PlayerCharacterData/DrRatio"},{"id":"Feixiao-592381ec","displayName":"PlayerCharacterData/Feixiao"},{"id":"Firefly-e5269ac3","displayName":"PlayerCharacterData/Firefly"},{"id":"FuXuan-9be07243","displayName":"PlayerCharacterData/FuXuan"},{"id":"Gallagher-9f9324ee","displayName":"PlayerCharacterData/Gallagher"},{"id":"Gepard-978a63aa","displayName":"PlayerCharacterData/Gepard"},{"id":"Guinaifen-dddac578","displayName":"PlayerCharacterData/Guinaifen"},{"id":"Hanya-89e09061","displayName":"PlayerCharacterData/Hanya"},{"id":"Herta-2a441d57","displayName":"PlayerCharacterData/Herta"},{"id":"Himeko-b2402c6e","displayName":"PlayerCharacterData/Himeko"},{"id":"Hook-edb71a8f","displayName":"PlayerCharacterData/Hook"},{"id":"Huohuo-15394fa2","displayName":"PlayerCharacterData/Huohuo"},{"id":"Jade-ce3586e6","displayName":"PlayerCharacterData/Jade"},{"id":"Jiaoqiu-3f37c8ec","displayName":"PlayerCharacterData/Jiaoqiu"},{"id":"JingYuan-e44779cd","displayName":"PlayerCharacterData/JingYuan"},{"id":"Jingliu-8543d94e","displayName":"PlayerCharacterData/Jingliu"},{"id":"Kafka-5f3228a8","displayName":"PlayerCharacterData/Kafka"},{"id":"Lingsha-8854fa4a","displayName":"PlayerCharacterData/Lingsha"},{"id":"Luka-b8d7d17a","displayName":"PlayerCharacterData/Luka"},{"id":"Luocha-d1a6c35a","displayName":"PlayerCharacterData/Luocha"},{"id":"Lynx-20eacff5","displayName":"PlayerCharacterData/Lynx"},{"id":"March7th-e3f55bcf","displayName":"PlayerCharacterData/March7th"},{"id":"March7thAlt-9331e52a","displayName":"PlayerCharacterData/March7thAlt"},{"id":"March7thHunt-ea20d200","displayName":"PlayerCharacterData/March7thHunt"},{"id":"Misha-3dea4061","displayName":"PlayerCharacterData/Misha"},{"id":"Moze-ca436158","displayName":"PlayerCharacterData/Moze"},{"id":"Natasha-22960a02","displayName":"PlayerCharacterData/Natasha"},{"id":"Pela-5312544","displayName":"PlayerCharacterData/Pela"},{"id":"Pom-Pom-668b9542","displayName":"PlayerCharacterData/Pom-Pom"},{"id":"Qingque-509f03a5","displayName":"PlayerCharacterData/Qingque"},{"id":"Rappa-814ce891","displayName":"PlayerCharacterData/Rappa"},{"id":"Robin-ed335d53","displayName":"PlayerCharacterData/Robin"},{"id":"RuanMei-ddfcacd7","displayName":"PlayerCharacterData/RuanMei"},{"id":"Sam-547cd1ad","displayName":"PlayerCharacterData/Sam"},{"id":"Sampo-6142a8f","displayName":"PlayerCharacterData/Sampo"},{"id":"Seele-c703960f","displayName":"PlayerCharacterData/Seele"},{"id":"Serval-1f2481fc","displayName":"PlayerCharacterData/Serval"},{"id":"SilverWolf-386fd9ba","displayName":"PlayerCharacterData/SilverWolf"},{"id":"SnowWolf-a2338a41","displayName":"PlayerCharacterData/SnowWolf"},{"id":"Sparkle-baa1dc1a","displayName":"PlayerCharacterData/Sparkle"},{"id":"Stelle-2196a817","displayName":"PlayerCharacterData/Stelle"},{"id":"Sunday-dba0456f","displayName":"PlayerCharacterData/Sunday"},{"id":"Sushang-7c3f109a","displayName":"PlayerCharacterData/Sushang"},{"id":"Tingyun-52208e16","displayName":"PlayerCharacterData/Tingyun"},{"id":"Topaz-1a8ddac1","displayName":"PlayerCharacterData/Topaz"},{"id":"TrailblazerBoy-d4239332","displayName":"PlayerCharacterData/TrailblazerBoy"},{"id":"TrailblazerBoyDestruction-f983e952","displayName":"PlayerCharacterData/TrailblazerBoyDestruction"},{"id":"TrailblazerBoyPreservation-1075459","displayName":"PlayerCharacterData/TrailblazerBoyPreservation"},{"id":"TrailblazerGirl-a4631e07","displayName":"PlayerCharacterData/TrailblazerGirl"},{"id":"TrailblazerGirlDestruction-bde29a21","displayName":"PlayerCharacterData/TrailblazerGirlDestruction"},{"id":"TrailblazerGirlPreservation-6af2ec3c","displayName":"PlayerCharacterData/TrailblazerGirlPreservation"},{"id":"Welt-8c10314a","displayName":"PlayerCharacterData/Welt"},{"id":"Xueyi-232343a6","displayName":"PlayerCharacterData/Xueyi"},{"id":"Yanqing-5c36ba05","displayName":"PlayerCharacterData/Yanqing"},{"id":"Yukong-b19447ac","displayName":"PlayerCharacterData/Yukong"},{"id":"Yunli-aace74d1","displayName":"PlayerCharacterData/Yunli"},{"id":"Asta'sWeapon-87c9655b","displayName":"WeaponData/Asta'sWeapon"},{"id":"Boothill'sWeapon-fb59e5fa","displayName":"WeaponData/Boothill'sWeapon"},{"id":"Kafka'sWeapon-be6d55f9","displayName":"WeaponData/Kafka'sWeapon"},{"id":"Natasha'sWeapon-12dd2a3","displayName":"WeaponData/Natasha'sWeapon"},{"id":"Pela'sWeapon-f7dca24b","displayName":"WeaponData/Pela'sWeapon"},{"id":"Seele'sWeapon-86061bfe","displayName":"WeaponData/Seele'sWeapon"},{"id":"Serval'sWeapon-45a57f95","displayName":"WeaponData/Serval'sWeapon"},{"id":"SnowWolf'sWeapon-e53ff93f","displayName":"WeaponData/SnowWolf'sWeapon"},{"id":"Sushang'sWeapon-89304f80","displayName":"WeaponData/Sushang'sWeapon"}]}
+{
+    "head": "d82ca176cb846becd470d6055c5033a8c2689043",
+    "commits": [
+        {
+            "hash": "d82ca176cb846becd470d6055c5033a8c2689043",
+            "date": "2024-11-03T11:24:58-05:00",
+            "message": "Merge pull request #28 from Petrascyll/main",
+            "body": "2.6 Dumps"
+        },
+        {
+            "hash": "d16bae4f2c253d1df5ed70ab28cd1b28016d90bf",
+            "date": "2024-11-03T07:39:45-05:00",
+            "message": "Keep WeaponData folder in case someone contributes",
+            "body": "Empty folders get yoinked by git\n"
+        },
+        {
+            "hash": "f8de5d69b1b4e617886feb1349d1c06ac3454615",
+            "date": "2024-11-03T07:38:14-05:00",
+            "message": "Remove broken weapon dumps",
+            "body": ""
+        },
+        {
+            "hash": "a0a91c97511f5185f5cd9d18c834e74b0d52ab8a",
+            "date": "2024-11-03T07:31:40-05:00",
+            "message": "Merge branch 'SilentNightSound:main' into main",
+            "body": ""
+        },
+        {
+            "hash": "4653c42d28b151cdd90c6ee0ac59ab76d69adc05",
+            "date": "2024-11-03T05:42:18-05:00",
+            "message": "2.6 Add Rappa",
+            "body": ""
+        },
+        {
+            "hash": "28d15943ccbc7fff0f7e5f0628643576f5c1e6e3",
+            "date": "2024-11-03T05:00:26-05:00",
+            "message": "2.6 Add NPC Reca",
+            "body": ""
+        },
+        {
+            "hash": "06b6d1238c112ac7b62a3ba65e5a63dcd9d1c350",
+            "date": "2024-11-03T04:24:39-05:00",
+            "message": "2.6 Redump Robin",
+            "body": ""
+        },
+        {
+            "hash": "d6c9a0257dc0e283419a550518dda083d45178f1",
+            "date": "2024-10-15T13:14:16-04:00",
+            "message": "Merge pull request #27 from Petrascyll/main",
+            "body": "Playable Lingsha"
+        },
+        {
+            "hash": "9a64b7d2180c64981034c7b7325297db77987cfd",
+            "date": "2024-09-12T09:52:58-04:00",
+            "message": "2.5 Add NPC Tauran",
+            "body": ""
+        },
+        {
+            "hash": "d295f8875d43a8c6afae7de15d9e5eabe102a100",
+            "date": "2024-09-12T07:07:13-04:00",
+            "message": "2.5 Add NPC Hoolay",
+            "body": ""
+        },
+        {
+            "hash": "bd8f7318421c10e429d52d4a8936f853a44ea2b7",
+            "date": "2024-09-12T05:49:35-04:00",
+            "message": "2.5 Add Monster Hoolay",
+            "body": ""
+        },
+        {
+            "hash": "49a25ef0ea111338e0cdc5ca406b31205be91979",
+            "date": "2024-09-12T05:48:40-04:00",
+            "message": "2.5 Move Lingsha to Playable Character Folder",
+            "body": ""
+        },
+        {
+            "hash": "f1e516a16120c2d4792a86afc8a9b72eb76a66f5",
+            "date": "2024-09-11T12:49:37-04:00",
+            "message": "2.5 Add Feixiao Mark Effect to dump",
+            "body": ""
+        },
+        {
+            "hash": "398421c0b2b72b8475997d972bbce23bb28931c9",
+            "date": "2024-09-10T20:58:57-04:00",
+            "message": "Merge pull request #26 from Petrascyll/main",
+            "body": "2.5 Dumps"
+        },
+        {
+            "hash": "e87e1ab0e99cd53505720fd527c8a975a5d8d9e1",
+            "date": "2024-09-10T05:28:17-04:00",
+            "message": "Merge branch 'SilentNightSound:main' into main",
+            "body": ""
+        },
+        {
+            "hash": "8a0ec8079fe81bf94719f9f5af7b3a0d5c93f84b",
+            "date": "2024-09-10T05:24:35-04:00",
+            "message": "2.5 Move Moze to Playable Character Folder",
+            "body": ""
+        },
+        {
+            "hash": "6656ee5d22bfc4704c0153fd62c5300d7d81bc23",
+            "date": "2024-09-10T05:22:44-04:00",
+            "message": "2.5 Move Jiaqiou to Playable Character Folder",
+            "body": "His NPC model and playable model are the same. Truly one of the 5*s of all time....\n"
+        },
+        {
+            "hash": "69e1bdf23714fab6c24a21003f9a310df97a06cc",
+            "date": "2024-09-10T00:16:17-04:00",
+            "message": "2.5 Add Playable Feixiao",
+            "body": ""
+        },
+        {
+            "hash": "5fc64e7b018fbf0092cbdad26cf18535be71b0c7",
+            "date": "2024-09-10T00:11:29-04:00",
+            "message": "2.5 Redump JingYuan",
+            "body": ""
+        },
+        {
+            "hash": "345f699e6c68f9ad3415863dfc329b34a9e5237b",
+            "date": "2024-08-06T19:47:38-04:00",
+            "message": "2.4 Redump Yanqing",
+            "body": ""
+        },
+        {
+            "hash": "a536be6854d342ef784b64c9d1c80824025644b0",
+            "date": "2024-08-02T15:44:04-04:00",
+            "message": "Merge pull request #25 from Petrascyll/main",
+            "body": "2.4 Dumps"
+        },
+        {
+            "hash": "4007c8b75b936ca253f0f5b47a05b15ba16f6998",
+            "date": "2024-08-02T13:38:26-04:00",
+            "message": "2.4 Redump Acheron",
+            "body": ""
+        },
+        {
+            "hash": "a33b845dc49cc362619d8d70914bd341141941ee",
+            "date": "2024-08-02T13:20:05-04:00",
+            "message": "2.4 Add NPC Lingsha",
+            "body": ""
+        },
+        {
+            "hash": "99b9a78085a0b1709727ee345a2f81644c094842",
+            "date": "2024-08-02T13:19:01-04:00",
+            "message": "2.4 Add NPC Jiaoqiu",
+            "body": ""
+        },
+        {
+            "hash": "051d967a5ac9c22e14511b68b779b9da2034b976",
+            "date": "2024-08-02T13:18:38-04:00",
+            "message": "2.4 Add NPC Moze",
+            "body": ""
+        },
+        {
+            "hash": "36deb6663feaa5faf69633a83e62f4f5320b8034",
+            "date": "2024-08-02T13:18:12-04:00",
+            "message": "2.4 Add NPC Huaiyan",
+            "body": ""
+        },
+        {
+            "hash": "42823a9cc07116cc5c6dd93e026dfc1ed8f69948",
+            "date": "2024-08-02T13:17:48-04:00",
+            "message": "2.4 Add NPC Feixiao",
+            "body": ""
+        },
+        {
+            "hash": "0d61c3c1b2c6653cc9537a30232738dab73f37c0",
+            "date": "2024-08-02T13:17:01-04:00",
+            "message": "2.4 Add Yunli",
+            "body": ""
+        },
+        {
+            "hash": "57b3693398584f771ca28ddb62c628804a48efd2",
+            "date": "2024-08-02T13:16:49-04:00",
+            "message": "2.4 Add M7 Hunt",
+            "body": ""
+        },
+        {
+            "hash": "446789620da06ce558d5270e2ef2842aa45b0c5c",
+            "date": "2024-07-04T18:24:08-04:00",
+            "message": "Merge pull request #24 from VivareVeritas/main",
+            "body": "Added Boothill's Weapon"
+        },
+        {
+            "hash": "947ce237a69d6711793ba1e63697c425b66019c3",
+            "date": "2024-07-04T01:45:09-04:00",
+            "message": "Added Boothill's Weapon",
+            "body": ""
+        },
+        {
+            "hash": "63ffd3ce300e52d8189c031105e8331f8d6cda4f",
+            "date": "2024-06-21T20:55:54-04:00",
+            "message": "Merge pull request #23 from Petrascyll/main",
+            "body": "2.3 Fix Boothill dump"
+        },
+        {
+            "hash": "fdaecd098ea9bd693fa910563a554dc8f3fa0970",
+            "date": "2024-06-21T19:50:32-04:00",
+            "message": "2.3 Fix Boothill dump",
+            "body": ""
+        },
+        {
+            "hash": "3e13b0102e186de59039385e6d90be5829d51070",
+            "date": "2024-06-21T02:03:01-04:00",
+            "message": "Merge pull request #22 from Petrascyll/main",
+            "body": "2.3 Redump"
+        },
+        {
+            "hash": "87abc0363d356edb0de38f3e121788191c216add",
+            "date": "2024-06-21T00:58:12-04:00",
+            "message": "Merge branch 'SilentNightSound:main' into main",
+            "body": ""
+        },
+        {
+            "hash": "7d0648a64774a845ebf67a4aece03b88aaf36490",
+            "date": "2024-06-10T20:56:09-04:00",
+            "message": "2.3 Redump",
+            "body": "- Acheron\n- Argenti\n- Arlan\n- Asta\n- Bailu\n- BlackSwan\n- Blade\n- Bronya\n- Clara\n- DanHengIL\n- DanHeng\n- DrRatio\n- FuXuan\n- Gepard\n- Guinaifen\n- Hanya\n- Herta\n- Himeko\n- Hook\n- Huohuo\n- Jingliu\n- JingYuan\n- Kafka\n- Luka\n- Luocha\n- Lynx\n- March7th\n- Misha\n- Natasha\n- Pela\n- Qingque\n- RuanMei    (dumped by zlevir)\n- Seele      (dumped by zlevir)\n- Serval     (dumped by zlevir)\n- Sparkle\n- SilverWolf (dumped by zlevir)\n- Sushang    (dumped by zlevir)\n- Tingyun    (dumped by zlevir)\n- Topaz      (dumped by zlevir)\n- Welt       (dumped by zlevir)\n- Xueyi      (dumped by zlevir)\n- Yanqing    (dumped by zlevir)\n- Yukong     (dumped by zlevir)\n- Robin      (dumped by zlevir)\n- Boothill   (dumped by zlevir)\n- Sampo      (dumped by zlevir)\n- Stelle\n- Aventurine\n- Gallagher\n- Svarog\n- Firefly\n- Numby\n- Caelus\n- Jade\n- Sam\n"
+        },
+        {
+            "hash": "9bb8f3dd56a2b337d8d80a07bee4400551b008fd",
+            "date": "2024-05-11T10:31:12-04:00",
+            "message": "Merge pull request #21 from Petrascyll/main",
+            "body": "HSR v2.2 Dumps"
+        },
+        {
+            "hash": "60bc16a63d67c759473a2b0d10f44d31494fb9e5",
+            "date": "2024-05-09T04:05:34-04:00",
+            "message": "2.2 Add Robin Starry Sky Effect Textures",
+            "body": "The mask controlling the effect should be adjusted or set to null when modifying the body. Needs a checktextureoverride on ps-t4 when upskirting.\n"
+        },
+        {
+            "hash": "618ae686a1f1da8cdc4c6b0d2e36a8fbeefc96f5",
+            "date": "2024-05-09T00:31:23-04:00",
+            "message": "2.2 Move Boothill to Player Character Folder",
+            "body": ""
+        },
+        {
+            "hash": "93bd911381bfd03a46e177ba4f723d523b67b165",
+            "date": "2024-05-09T00:10:08-04:00",
+            "message": "2.2 Rename TrailblazerBoy to Caelus + Add Harmony Path",
+            "body": ""
+        },
+        {
+            "hash": "f22da126f8aedeaf1e97b26284fdc871316c49f5",
+            "date": "2024-05-08T08:28:07-04:00",
+            "message": "2.2 Add Boothill",
+            "body": ""
+        },
+        {
+            "hash": "860b3be53ccbcdf37caccbd46aa0dd7c6efe0da6",
+            "date": "2024-05-08T08:15:26-04:00",
+            "message": "2.2 Siobhan/Micah Dump and Organizing",
+            "body": "Added NonPlayerCharacterFolder:\n- Added Siobhan\n- Added Micah\n- Moved Firefly\n- Moved Sunday\n- Moved Pom-Pom\n\nMoved Sam to Enemy folder.\n"
+        },
+        {
+            "hash": "f3d149b5eb2930d862860cd62deed7e3a8bbb69c",
+            "date": "2024-05-07T23:06:35-04:00",
+            "message": "2.2 Sparkle Body Diffuse Hash Swap",
+            "body": ""
+        },
+        {
+            "hash": "3cd35762e31d3b24390f9c73ab704f6f2c874c29",
+            "date": "2024-05-07T22:49:25-04:00",
+            "message": "2.2 Add Robin",
+            "body": ""
+        },
+        {
+            "hash": "51a9aea8882e3bf8b445e2775abd8ec1211baa1c",
+            "date": "2024-05-08T06:38:29-04:00",
+            "message": "2.2 Acheron Hair Texture Hash Swap",
+            "body": ""
+        },
+        {
+            "hash": "21d99f36b65612f89aa7744fbd5d068323972fbf",
+            "date": "2024-05-08T05:26:46-04:00",
+            "message": "2.2 Rename TrailblazerGirl to Stelle and Redump",
+            "body": "Stelle now uses the same hashes for Preservation/Destruction paths.\n"
+        },
+        {
+            "hash": "575a91e3d489a6517fa1c1480faa110e0c2b0924",
+            "date": "2024-04-04T21:15:36-04:00",
+            "message": "Merge pull request #20 from Petrascyll/main",
+            "body": "HSR v2.1 Redump"
+        },
+        {
+            "hash": "950d66ede6b0b37f85881c17184249aecbb76f3b",
+            "date": "2024-03-28T08:35:50-04:00",
+            "message": "2.1 Redump: Aventurine",
+            "body": ""
+        },
+        {
+            "hash": "8de339a1dea511a36298dde0e8dee8281e8bab1a",
+            "date": "2024-03-27T01:15:27-04:00",
+            "message": "2.1 Redump Playable Characters",
+            "body": "Acheron\nBlackSwan\nGallagher\nJingYuan\nMisha\nSparkle\nWelt\n"
+        },
+        {
+            "hash": "03be0a6dc4ecb6d9240fcc6a5477acfdc72d8de8",
+            "date": "2024-03-16T01:56:33-04:00",
+            "message": "Add Sparkle Idle Animation Mask",
+            "body": "Sparkle's mask used in her idle animation is a separate object that uses the same texture as body A/B/C. Modding the texture necessitates modding the mask's uv map similarly.\n"
+        },
+        {
+            "hash": "c0c15488242defe50fdc6f136501eb97ce890fe0",
+            "date": "2024-03-05T09:02:30-05:00",
+            "message": "Merge pull request #19 from Petrascyll/main",
+            "body": "Remove Duplicate Textures"
+        },
+        {
+            "hash": "bcef22c86c9adfcfe39460901aa2ec6a118b01ad",
+            "date": "2024-03-04T07:29:34-05:00",
+            "message": "Remove Duplicate Textures",
+            "body": "Added comments in hash.json to make it clearer what texture goes where.\n"
+        },
+        {
+            "hash": "d86bc0a849b440ea7b22324beca92dc707987f5e",
+            "date": "2024-02-26T13:02:06-05:00",
+            "message": "Merge pull request #18 from Petrascyll/main",
+            "body": "2.0 Full Redump + Add new Characters + Trailblazer Paths Split"
+        },
+        {
+            "hash": "90e7ba9524bc13d4b93eaa3f3cd1e51bcd8cbd75",
+            "date": "2024-02-10T04:07:22-05:00",
+            "message": "Redump Sparkle",
+            "body": "Old dump had borked elbows due to shapekey\n"
+        },
+        {
+            "hash": "66315111affe2bcc78a90b7d8da7f74ab53fc798",
+            "date": "2024-02-06T05:17:51-05:00",
+            "message": "2.0 Full Redump + Add new Characters + Trailblazer Paths Split",
+            "body": "Full redump excluding Pom-Pom and March7thAlt\nNew Characters:\nArgenti, Hanya, Xueyi, RuanMei, DrRatio, BlackSwan, Misha, Sparkle(NPC), Acheron(NPC), Firefly(NPC), Gallagher(NPC), Aventurine(NPC), Sunday(NPC), Robin(NPC), Sam(NPC)\n\npython .\\hsr_3dmigoto_collect.py -ib 2d9adf2d b6a70a49 174a08d4 -c \"Hair\" \"Head\" \"Body\" -n \"TrailblazerGirlDestruction\"\npython .\\hsr_3dmigoto_collect.py -ib 2d9adf2d b6a70a49 e0d86dc8 -c \"Hair\" \"Head\" \"Body\" -n \"TrailblazerGirlPreservation\"\npython .\\hsr_3dmigoto_collect.py -ib c74d60d8 c1004613 e3ffef9a -c \"Hair\" \"Head\" \"Body\" -n \"TrailblazerBoyDestruction\"\npython .\\hsr_3dmigoto_collect.py -ib c74d60d8 c1004613 a270e292 -c \"Hair\" \"Head\" \"Body\" -n \"TrailblazerBoyPreservation\"\n\npython .\\hsr_3dmigoto_collect.py -ib c0127457 069eaf2d e79e4018 -c \"Hair\" \"Head\" \"Body\" -n \"Himeko\"\npython .\\hsr_3dmigoto_collect.py -ib f82cf281 de648f58 fa23099d -c \"Hair\" \"Head\" \"Body\" -n \"Kafka\"\npython .\\hsr_3dmigoto_collect.py -ib 3608ba80 9df63c26 e8f10ab3 -c \"Hair\" \"Head\" \"Body\" -n \"SilverWolf\"\npython .\\hsr_3dmigoto_collect.py -ib 2d03d71b a9ffadaf 29d03f40 -c \"Hair\" \"Head\" \"Body\" -n \"Bronya\"\npython .\\hsr_3dmigoto_collect.py -ib 39a97d9e a7f9383f 1e4f876c -c \"Hair\" \"Head\" \"Body\" -n \"Gepard\"\npython .\\hsr_3dmigoto_collect.py -ib 338bbeec 3d36602a 4a58be98 -c \"Hair\" \"Head\" \"Body\" -n \"Clara\"\npython .\\hsr_3dmigoto_collect.py -ib 3b85292b 002b0531 149a218b -c \"Hair\" \"Head\" \"Body\" -n \"Luocha\"\npython .\\hsr_3dmigoto_collect.py -ib 60d6a2c4 b2aa2b13 0eb1e389 -c \"Hair\" \"Head\" \"Body\" -n \"Blade\"\npython .\\hsr_3dmigoto_collect.py -ib 624e3c31 effe7d6d 680253f0 -c \"Hair\" \"Head\" \"Body\" -n \"Bailu\"\npython .\\hsr_3dmigoto_collect.py -ib 8b476756 01d6bb55 7cb75a5e -c \"Hair\" \"Head\" \"Body\" -n \"DanHengIL\"\npython .\\hsr_3dmigoto_collect.py -ib 84ba7549 2e23a897 5212ce68 -c \"Hair\" \"Head\" \"Body\" -n \"March7th\"\npython .\\hsr_3dmigoto_collect.py -ib 5d61b5b0 a547f1ac 457b4223 -c \"Hair\" \"Head\" \"Body\" -n \"DanHeng\"\npython .\\hsr_3dmigoto_collect.py -ib 801f0607 2e4a2fcf 31ebfc6e -c \"Hair\" \"Head\" \"Body\" -n \"Arlan\"\npython .\\hsr_3dmigoto_collect.py -ib 84668635 46b9e3dc 8fb66ce1 -c \"Hair\" \"Head\" \"Body\" -n \"Asta\"\npython .\\hsr_3dmigoto_collect.py -ib 5ed4d217 d27ce7f6 9553ff35 -c \"Hair\" \"Head\" \"Body\" -n \"Herta\"\npython .\\hsr_3dmigoto_collect.py -ib 3c2acced a42d6234 f092876d -c \"Hair\" \"Head\" \"Body\" -n \"Serval\"\npython .\\hsr_3dmigoto_collect.py -ib b12335b8 e992b074 68dd15e8 -c \"Hair\" \"Head\" \"Body\" -n \"Natasha\"\npython .\\hsr_3dmigoto_collect.py -ib 16e76a8a 9af18b75 98dbd548 -c \"Hair\" \"Head\" \"Body\" -n \"Pela\"\npython .\\hsr_3dmigoto_collect.py -ib d2e6ad9b 20994839 3ac42f7d -c \"Hair\" \"Head\" \"Body\" -n \"Sampo\"\npython .\\hsr_3dmigoto_collect.py -ib 51a1f5de 47006028 0c614d18 -c \"Hair\" \"Head\" \"Body\" -n \"Hook\"\npython .\\hsr_3dmigoto_collect.py -ib b1fc6492 7f520a44 71647b48 -c \"Hair\" \"Head\" \"Body\" -n \"Lynx\"\npython .\\hsr_3dmigoto_collect.py -ib c0c2f99f 491907cd e0c9f7ec -c \"Hair\" \"Head\" \"Body\" -n \"Luka\"\npython .\\hsr_3dmigoto_collect.py -ib 5497a555 1b33c5bd 0a82ceb7 -c \"Hair\" \"Head\" \"Body\" -n \"Qingque\"\npython .\\hsr_3dmigoto_collect.py -ib 73997af9 1ddef8da da59600b -c \"Hair\" \"Head\" \"Body\" -n \"Tingyun\"\npython .\\hsr_3dmigoto_collect.py -ib 993cd03d cae63fba 4b22391b -c \"Hair\" \"Head\" \"Body\" -n \"Sushang\"\npython .\\hsr_3dmigoto_collect.py -ib aef31d8a 2bedba8e 28bbd4ae -c \"Hair\" \"Head\" \"Body\" -n \"Yukong\"\npython .\\hsr_3dmigoto_collect.py -ib bfa0a6b3 42e7b8be d15987b1 -c \"Hair\" \"Head\" \"Body\" -n \"Welt\"\npython .\\hsr_3dmigoto_collect.py -ib 63384110 06affad8 6a522a54 -c \"Hair\" \"Head\" \"Body\" -n \"Seele\"\npython .\\hsr_3dmigoto_collect.py -ib 09c6261f 22147cfe 1240ff30 -c \"Hair\" \"Head\" \"Body\" -n \"JingYuan\"\npython .\\hsr_3dmigoto_collect.py -ib a628f540 e6bdf122 c230f24a -c \"Hair\" \"Head\" \"Body\" -n \"FuXuan\"\npython .\\hsr_3dmigoto_collect.py -ib b809aefa 6ae41f8f d03803e6 -c \"Hair\" \"Head\" \"Body\" -n \"Yanqing\"\npython .\\hsr_3dmigoto_collect.py -ib afec4cc3 42f6df0c e8d31b6a -c \"Hair\" \"Head\" \"Body\" -n \"Jingliu\"\n\npython .\\hsr_3dmigoto_collect.py -ib 179d17fe 2dc8bb9d 7d57f432 -c \"Hair\" \"Head\" \"Body\" -n \"Argenti\"\npython .\\hsr_3dmigoto_collect.py -ib bb38993a 75fca075 b1c2c937 -c \"Hair\" \"Head\" \"Body\" -n \"Hanya\"\npython .\\hsr_3dmigoto_collect.py -ib bef9c8df 1803964c af2983dd -c \"Hair\" \"Head\" \"Body\" -n \"Xueyi\"\npython .\\hsr_3dmigoto_collect.py -ib f1a4401b f866094a b52297bf -c \"Hair\" \"Head\" \"Body\" -n \"Topaz\"\npython .\\hsr_3dmigoto_collect.py -ib 00fdde39 9bee73d8 79900144 -c \"Hair\" \"Head\" \"Body\" -n \"Guinaifen\"\npython .\\hsr_3dmigoto_collect.py -ib 04dc5786 e8600429 e9aecd0b -c \"Hair\" \"Head\" \"Body\" -n \"Huohuo\"\npython .\\hsr_3dmigoto_collect.py -ib 5f7f8629 d25009fb 93e2e265 -c \"Hair\" \"Head\" \"Body\" -n \"RuanMei\"\npython .\\hsr_3dmigoto_collect.py -ib 76d7d3f3 82bc4a2d 37c47042 -c \"Hair\" \"Head\" \"Body\" -n \"DrRatio\"\n\npython .\\hsr_3dmigoto_collect.py -ib 79cc4363 527318a2 b194833e -c \"Hair\" \"Head\" \"Body\" -n \"BlackSwan\"\npython .\\hsr_3dmigoto_collect.py -ib 66e3518a 972ab7a1 5ea19d76 -c \"Hair\" \"Head\" \"Body\" -n \"Misha\"\npython .\\hsr_3dmigoto_collect.py -ib 10ee0ac5 d569b4d9 74660eca -c \"Hair\" \"Head\" \"Body\" -n \"Sparkle\"\n\npython .\\hsr_3dmigoto_collect.py -ib cb7fd896 5e7ca268 1319ca91 bc4676ea -c \"Hair\" \"HairTail\" \"Head\" \"Body\" -n \"Acheron\"\npython .\\hsr_3dmigoto_collect.py -ib a27cca81 bd7cea98 977bcde9 -c \"Hair\" \"Head\" \"Body\" -n \"Firefly\"\npython .\\hsr_3dmigoto_collect.py -ib cd5de30c 7763eadf cef77c91 -c \"Hair\" \"Head\" \"Body\" -n \"Gallagher\"\npython .\\hsr_3dmigoto_collect.py -ib 015f4887 def114e4 47afa256 -c \"Hair\" \"Head\" \"Body\" -n \"Aventurine\"\npython .\\hsr_3dmigoto_collect.py -ib 8baf1f8c 126c99c5 6ad7c553 -c \"Hair\" \"Head\" \"Body\" -n \"Sunday\"\npython .\\hsr_3dmigoto_collect.py -ib cbef0641 ac1267e4 a42ac8c5 -c \"Hair\" \"Head\" \"Body\" -n \"Robin\"\npython .\\hsr_3dmigoto_collect.py -ib 70071693 -c \"Body\" -n \"Sam\"\n"
+        },
+        {
+            "hash": "34fceaeca211281036aad2dcc39d88058c61396d",
+            "date": "2023-11-14T23:07:58-05:00",
+            "message": "Merge pull request #16 from yudokubos/main",
+            "body": "Add Topaz, Guinaifen, March 7th Alt, and Huohuo"
+        },
+        {
+            "hash": "87ff8a9f538940dcf66f8aa2206088cac7e1992c",
+            "date": "2023-11-14T17:22:01-10:00",
+            "message": "Add Huohuo",
+            "body": ""
+        },
+        {
+            "hash": "744e3f45086bfb8d71351f014df151f131994287",
+            "date": "2023-10-14T19:24:15-10:00",
+            "message": "Add Topaz, Guinaifen, and March 7th Alt",
+            "body": ""
+        },
+        {
+            "hash": "12cff3397862b84a9d6bf5870614c9c1a64f0c5f",
+            "date": "2023-10-12T09:50:53-04:00",
+            "message": "Merge pull request #15 from yudokubos/main",
+            "body": "Add Pom-Pom and remove HertaMod"
+        },
+        {
+            "hash": "97414045b3e5b461f8d5dd82ea5f307013ca590c",
+            "date": "2023-10-11T07:08:22-10:00",
+            "message": "Re-dump all characters for 1.4",
+            "body": ""
+        },
+        {
+            "hash": "b95be85f56e0579937c0cf548f7dfd8c36b89710",
+            "date": "2023-10-10T21:57:35-10:00",
+            "message": "Merge branch 'main' of https://github.com/yudokubos/SR-Model-Importer-Assets",
+            "body": ""
+        },
+        {
+            "hash": "028648bf70830cae3ca6a128721222b487c77c1c",
+            "date": "2023-10-10T21:57:02-10:00",
+            "message": "Re-dump all characters for 1.4 + add Yukong, Jingliu, and Blade",
+            "body": "py hsr_3dmigoto_collect.py -n \"TrailblazerBoy\" -c \"Hair\" \"Head\" \"Body\" -ib c74d60d8 c1004613 fd65164c\npy hsr_3dmigoto_collect.py -n \"TrailblazerGirl\" -c \"Hair\" \"Head\" \"Body\" -ib 2d9adf2d b6a70a49 85ad43b3\npy hsr_3dmigoto_collect.py -n \"Himeko\" -c \"Hair\" \"Head\" \"Body\" -ib c0127457 069eaf2d e4640c8c\npy hsr_3dmigoto_collect.py -n \"Kafka\" -c \"Hair\" \"Head\" \"Body\" -ib f82cf281 de648f58 b7401039\npy hsr_3dmigoto_collect.py -n \"SilverWolf\" -c \"Hair\" \"Head\" \"Body\" -ib 3608ba80 9df63c26 729de5d2\npy hsr_3dmigoto_collect.py -n \"Bronya\" -c \"Hair\" \"Head\" \"Body\" -ib 70fd4690 a9ffadaf 1d057d1a\npy hsr_3dmigoto_collect.py -n \"Gepard\" -c \"Hair\" \"Head\" \"Body\" -ib 39a97d9e a7f9383f 30aa99d6\npy hsr_3dmigoto_collect.py -n \"Clara\" -c \"Hair\" \"Head\" \"Body\" -ib 58982bbd 3d36602a f92afebc\npy hsr_3dmigoto_collect.py -n \"Luocha\" -c \"Hair\" \"Head\" \"Body\" -ib 3b85292b 002b0531 6c659c20\npy hsr_3dmigoto_collect.py -n \"Blade\" -c \"Hair\" \"Head\" \"Body\" -ib 60d6a2c4 b2aa2b13 5d03ae61\npy hsr_3dmigoto_collect.py -n \"Bailu\" -c \"Hair\" \"Head\" \"Body\" -ib 624e3c31 effe7d6d dbf90364\npy hsr_3dmigoto_collect.py -n \"DanHengIL\" -c \"Hair\" \"Head\" \"Body\" -ib 8b476756 01d6bb55 1a7ee87c\npy hsr_3dmigoto_collect.py -n \"March7th\" -c \"Hair\" \"Head\" \"Body\" -ib 84ba7549 2e23a897 97ad7623\npy hsr_3dmigoto_collect.py -n \"DanHeng\" -c \"Hair\" \"Head\" \"Body\" -ib 5d61b5b0 a547f1ac be813760\npy hsr_3dmigoto_collect.py -n \"Arlan\" -c \"Hair\" \"Head\" \"Body\" -ib 801f0607 2e4a2fcf cb3a3965\npy hsr_3dmigoto_collect.py -n \"Asta\" -c \"Hair\" \"Head\" \"Body\" -ib 84668635 46b9e3dc 099dd85b\npy hsr_3dmigoto_collect.py -n \"Herta\" -c \"Hair\" \"Head\" \"Body\" -ib 5ed4d217 d27ce7f6 5186a9b8\npy hsr_3dmigoto_collect.py -n \"Serval\" -c \"Hair\" \"Head\" \"Body\" -ib 3c2acced a42d6234 44885792\npy hsr_3dmigoto_collect.py -n \"Natasha\" -c \"Hair\" \"Head\" \"Body\" -ib b12335b8 e992b074 005670d8\npy hsr_3dmigoto_collect.py -n \"Pela\" -c \"Hair\" \"Head\" \"Body\" -ib 16e76a8a 9af18b75 f4eb23b2\npy hsr_3dmigoto_collect.py -n \"Sampo\" -c \"Hair\" \"Head\" \"Body\" -ib d2e6ad9b 20994839 3ac42f7d\npy hsr_3dmigoto_collect.py -n \"Hook\" -c \"Hair\" \"Head\" \"Body\" -ib 51a1f5de 47006028 26276c57\npy hsr_3dmigoto_collect.py -n \"Lynx\" -c \"Hair\" \"Head\" \"Body\" -ib b1fc6492 7f520a44 e8c4b27f\npy hsr_3dmigoto_collect.py -n \"Luka\" -c \"Hair\" \"Head\" \"Body\" -ib c0c2f99f 491907cd 5332e0c4\npy hsr_3dmigoto_collect.py -n \"Qingque\" -c \"Hair\" \"Head\" \"Body\" -ib 5497a555 1b33c5bd daafea36\npy hsr_3dmigoto_collect.py -n \"Tingyun\" -c \"Hair\" \"Head\" \"Body\" -ib 73997af9 1ddef8da 351d8570\npy hsr_3dmigoto_collect.py -n \"Sushang\" -c \"Hair\" \"Head\" \"Body\" -ib 993cd03d cae63fba d765c517\npy hsr_3dmigoto_collect.py -n \"Yukong\" -c \"Hair\" \"Head\" \"Body\" -ib aef31d8a 2bedba8e 1df9540b\npy hsr_3dmigoto_collect.py -n \"Welt\" -c \"Hair\" \"Head\" \"Body\" -ib bfa0a6b3 42e7b8be 374ac8a9\npy hsr_3dmigoto_collect.py -n \"Seele\" -c \"Hair\" \"Head\" \"Body\" -ib 63384110 06affad8 eb699635\npy hsr_3dmigoto_collect.py -n \"JingYuan\" -c \"Hair\" \"Head\" \"Body\" -ib 09c6261f 22147cfe 1be11c4f\npy hsr_3dmigoto_collect.py -n \"FuXuan\" -c \"Hair\" \"Head\" \"Body\" -ib a628f540 e6bdf122 7d77bdb5\npy hsr_3dmigoto_collect.py -n \"Yanqing\" -c \"Hair\" \"Head\" \"Body\" -ib b809aefa 6ae41f8f c20cd648\npy hsr_3dmigoto_collect.py -n \"Jingliu\" -c \"Hair\" \"Head\" \"Body\" -ib afec4cc3 42f6df0c 5564183c\n"
+        },
+        {
+            "hash": "a038452aa1bfea5cbdb5dbbf9ba6b83a6dcc58d8",
+            "date": "2023-10-06T07:52:31-10:00",
+            "message": "Merge branch 'SilentNightSound:main' into main",
+            "body": ""
+        },
+        {
+            "hash": "ec3575ec03f0252f7e19311ef94947b75f084fae",
+            "date": "2023-10-06T07:51:12-10:00",
+            "message": "Add Pom-Pom and remove HertaMod",
+            "body": ""
+        },
+        {
+            "hash": "05897b30059e56e8ffc2e7c905ade0094e4c6b4e",
+            "date": "2023-09-20T22:38:34-04:00",
+            "message": "Merge pull request #14 from yudokubos/main",
+            "body": "Add Lynx and update FuXuan body mesh"
+        },
+        {
+            "hash": "23c36284f6e736da4b39d81c9eb8e9406da2ba9e",
+            "date": "2023-09-20T13:50:42-10:00",
+            "message": "Merge branch 'SilentNightSound:main' into main",
+            "body": ""
+        },
+        {
+            "hash": "5c9e14634217e7432e95a15cf258d362e316dd01",
+            "date": "2023-09-20T13:48:55-10:00",
+            "message": "Merge branch 'main' of https://github.com/yudokubos/SR-Model-Importer-Assets",
+            "body": ""
+        },
+        {
+            "hash": "b41d43bdbda4872bc68c1c40c229faa45b43be2f",
+            "date": "2023-09-20T13:48:44-10:00",
+            "message": "Add Lynx and update FuXuan body mesh",
+            "body": ""
+        },
+        {
+            "hash": "764a1a158fef70114032d2ee8b63804a89e7080b",
+            "date": "2023-08-31T16:18:49-04:00",
+            "message": "Merge pull request #13 from hhoneeyy/main",
+            "body": "Added Silvermane Soldier"
+        },
+        {
+            "hash": "dcdcebf723db4ff1363ccd1bff0f6190f2578ec1",
+            "date": "2023-09-01T00:06:13+04:00",
+            "message": "Added Silvermane Soldier",
+            "body": ""
+        },
+        {
+            "hash": "45d67299411c30f030cfc3023fb43c7fbc949474",
+            "date": "2023-08-31T10:18:35-04:00",
+            "message": "Merge pull request #12 from yudokubos/main",
+            "body": "Add Dan Heng IL and Fu Xuan"
+        },
+        {
+            "hash": "d096d05ca842c04ec28274a62a7b159422f74b7a",
+            "date": "2023-08-29T22:51:48-10:00",
+            "message": "Merge branch 'SilentNightSound:main' into main",
+            "body": ""
+        },
+        {
+            "hash": "6257552343f8de9623f44727ede04cd53fc4223e",
+            "date": "2023-08-29T22:20:36-10:00",
+            "message": "Add Dan Heng IL and Fu Xuan",
+            "body": "1.3 character dumps\n"
+        },
+        {
+            "hash": "9fa55422319949cc7f610e8cd66ade88cee26e86",
+            "date": "2023-08-18T22:11:08-04:00",
+            "message": "Merge pull request #11 from yudokubos/main",
+            "body": "Add Luka"
+        },
+        {
+            "hash": "15e2a42acd30c1494090b733b93acc74f7eca46b",
+            "date": "2023-08-18T13:12:14-10:00",
+            "message": "Add Luka",
+            "body": "Initial dump of Luka\n"
+        },
+        {
+            "hash": "0ad0ebcb650df5c5c37826c82c494638926cc881",
+            "date": "2023-08-16T16:16:22-04:00",
+            "message": "Merge pull request #10 from hhoneeyy/main",
+            "body": "kafka fix"
+        },
+        {
+            "hash": "e53e2647da6c5c39f41db0e951e3d3f79045e67f",
+            "date": "2023-08-17T00:13:40+04:00",
+            "message": "kafka fix",
+            "body": "previous kafka dump seemed to cause crash issues, thanks to YudoKubos for the dump\n"
+        },
+        {
+            "hash": "da0b5d7ff8d6088706924fd20606308bc78eefd5",
+            "date": "2023-08-16T13:14:42-04:00",
+            "message": "Merge pull request #9 from hhoneeyy/main",
+            "body": "Fixed TrailblazerGirl Hash"
+        },
+        {
+            "hash": "7514cde8728155a4965e45a461b885d1369c57fc",
+            "date": "2023-08-16T19:47:23+04:00",
+            "message": "fixed",
+            "body": ""
+        },
+        {
+            "hash": "9fcd6142950ed152613bc1db69408e7a59972953",
+            "date": "2023-08-06T22:06:43+04:00",
+            "message": "Renamed TrailblazerGirl to Stelle and updated hashes",
+            "body": ""
+        },
+        {
+            "hash": "c6cea6b4ec310f6f8334ccfcc9819d17ae5292da",
+            "date": "2023-05-24T00:04:22-04:00",
+            "message": "Merge pull request #7 from leotorrez/Leos",
+            "body": "Leos"
+        },
+        {
+            "hash": "3bfafd7cce9acc0f08e597516339742340058cc4",
+            "date": "2023-05-23T19:27:53-03:00",
+            "message": "Fixing herta AGAIN",
+            "body": ""
+        },
+        {
+            "hash": "fa31f6a333bcae512d94ff89de4ddff484bb92b7",
+            "date": "2023-05-21T03:00:51-03:00",
+            "message": "fixign herta",
+            "body": "again\n"
+        },
+        {
+            "hash": "06fc5d2f4900e49c28f62af2d61887ea850abc62",
+            "date": "2023-05-14T16:44:59-03:00",
+            "message": "Trailblazer male",
+            "body": "i forgor okay promize last push today xD\n"
+        },
+        {
+            "hash": "fed64aa7e2f821e25c7d0def77b0c5ff0f882fbf",
+            "date": "2023-05-14T16:26:17-03:00",
+            "message": "added kafka and snowwolf and their weapons",
+            "body": "--no_blend in weapons\n\nsnowwolf's is weird af naming is whatever atm but understandable\n"
+        },
+        {
+            "hash": "c32ba5c32b408b12fc917457b2a355aead88adfd",
+            "date": "2023-05-14T15:56:19-03:00",
+            "message": "added kafka weapon",
+            "body": "--no_blend\n"
+        },
+        {
+            "hash": "6332891b660ce3badb71c4b067fd1230b9150c33",
+            "date": "2023-05-14T15:44:38-03:00",
+            "message": "added danheng",
+            "body": "in the new format\n"
+        },
+        {
+            "hash": "63d434beb601b9e0f088371d5ef570aad3fad97d",
+            "date": "2023-05-14T15:39:06-03:00",
+            "message": "Cleaning models with HeadHead format",
+            "body": "deleted danheng, cocolia, cocolia monster\ncleaned trailblazer, asta and a few others whom i forgot but they clean now xD\n"
+        },
+        {
+            "hash": "83c439314bac6df37e576710eb0cc16f68188732",
+            "date": "2023-05-13T18:29:39-04:00",
+            "message": "Merge pull request #6 from leotorrez/Leos",
+            "body": "Leos"
+        },
+        {
+            "hash": "773245e529c338a058513831073e254e43b38338",
+            "date": "2023-05-13T19:04:50-03:00",
+            "message": "added 4 weapons",
+            "body": "asta's natasha's pela's and sushang's\n"
+        },
+        {
+            "hash": "b5e38b3c0b7f62e905a443a7c5b51e05bbad3de3",
+            "date": "2023-05-13T14:46:59-03:00",
+            "message": "fixed Svarog and Trailblazer",
+            "body": "old files removed and replaced with new A B C D format\n"
+        },
+        {
+            "hash": "6a4636c8966f601b447c1786fcc64c3a246c02d6",
+            "date": "2023-05-13T11:59:51-04:00",
+            "message": "Merge pull request #5 from shimizu-izumi/main",
+            "body": "Added Jing Yuan and more light masks"
+        },
+        {
+            "hash": "d95070c7d79b03d65117492479f1eb369a516ab0",
+            "date": "2023-05-13T10:14:23+02:00",
+            "message": "Added light masks for all data in leotorrez's newest commit",
+            "body": ""
+        },
+        {
+            "hash": "234c1c1e1bf00960c38a40bd0f389f953985e4d7",
+            "date": "2023-05-13T09:42:29+02:00",
+            "message": "Added Jing Yuan",
+            "body": ""
+        },
+        {
+            "hash": "a8d77e25172ec6f4a6942e64e0f2d3c883abfb82",
+            "date": "2023-05-12T21:27:21-04:00",
+            "message": "Merge pull request #4 from leotorrez/Leos",
+            "body": "God knows what might happen"
+        },
+        {
+            "hash": "e0916a372b43711c85b4cbc17afec2085bc93620",
+            "date": "2023-05-12T22:20:29-03:00",
+            "message": "God knows what might happen",
+            "body": "huge commit all 21 playable units plus female trailblazer(destruction)\n"
+        },
+        {
+            "hash": "83d07fa54c8f8b47e0b26118f820a59c4b9db0f7",
+            "date": "2023-05-12T21:16:20-04:00",
+            "message": "Merge pull request #3 from leotorrez/Leos",
+            "body": "Weapon add"
+        },
+        {
+            "hash": "8b75d6c36dbd800f11820944d94a9136b4ca7b98",
+            "date": "2023-05-12T21:07:20-03:00",
+            "message": "Weapon add",
+            "body": "Seele's\nServal's\n"
+        },
+        {
+            "hash": "0c72ec8cc87025540e08279d4612334bca85452e",
+            "date": "2023-05-08T17:22:17-04:00",
+            "message": "Merge pull request #2 from shimizu-izumi/main",
+            "body": "Remaining player characters except Natasha and alpha masks for every texture with an alpha layer"
+        },
+        {
+            "hash": "032721456fa8ee5236ecd5a0d391dcdecdfbec87",
+            "date": "2023-05-08T18:32:56+02:00",
+            "message": "Added alpha masks for overlooked textures",
+            "body": ""
+        },
+        {
+            "hash": "dd201881ee69f31f781602c177a6e199083f2903",
+            "date": "2023-05-08T18:23:05+02:00",
+            "message": "Added alpha masks for everything texture with an alpha layer",
+            "body": ""
+        },
+        {
+            "hash": "0ea720d6f862b0a4deb3e6f3a924825ec529e1b0",
+            "date": "2023-05-08T17:24:38+02:00",
+            "message": "Added remaining player characters except Natasha",
+            "body": ""
+        },
+        {
+            "hash": "79a904eafb67d98378889be3be17e095d86584e0",
+            "date": "2023-05-07T17:39:18-04:00",
+            "message": "Merge pull request #1 from leotorrez/Leos",
+            "body": "Adding some characters and enemies"
+        },
+        {
+            "hash": "27d19855eb331e0ac9ad874734e933e9cd98d4ca",
+            "date": "2023-05-07T10:32:28-03:00",
+            "message": "Adding some characters and enemies",
+            "body": "Trailblazer girl(missing hashes for new elements)\nCocolia both versions\nSvarog\nAsta\nHerta\nSeele\n"
+        },
+        {
+            "hash": "d6e3bc886f853705b04240308ad61cc698d85a6b",
+            "date": "2023-05-06T21:29:18-04:00",
+            "message": "Initial commit",
+            "body": ""
+        }
+    ],
+    "index": [
+        {
+            "id": "Cocolia-7a6e12eb",
+            "displayName": "EnemyData/Cocolia"
+        },
+        {
+            "id": "CocoliaMonster-179cd4a7",
+            "displayName": "EnemyData/CocoliaMonster"
+        },
+        {
+            "id": "Hoolay-4cf0cf1c",
+            "displayName": "EnemyData/Hoolay"
+        },
+        {
+            "id": "Sam-79e89192",
+            "displayName": "EnemyData/Sam"
+        },
+        {
+            "id": "SilvermaneSoldier-ba98d857",
+            "displayName": "EnemyData/SilvermaneSoldier"
+        },
+        {
+            "id": "Svarog-6c7615a8",
+            "displayName": "EnemyData/Svarog"
+        },
+        {
+            "id": "Boothill-65242de9",
+            "displayName": "NonPlayerCharacterData/Boothill"
+        },
+        {
+            "id": "Feixiao-7606be6a",
+            "displayName": "NonPlayerCharacterData/Feixiao"
+        },
+        {
+            "id": "Firefly-3845162e",
+            "displayName": "NonPlayerCharacterData/Firefly"
+        },
+        {
+            "id": "HoolayAlter-eabfac24",
+            "displayName": "NonPlayerCharacterData/HoolayAlter"
+        },
+        {
+            "id": "Huaiyan-5f7af67d",
+            "displayName": "NonPlayerCharacterData/Huaiyan"
+        },
+        {
+            "id": "Jiaoqiu-1f38d56b",
+            "displayName": "NonPlayerCharacterData/Jiaoqiu"
+        },
+        {
+            "id": "Lingsha-c98cadaa",
+            "displayName": "NonPlayerCharacterData/Lingsha"
+        },
+        {
+            "id": "Micah-aaa1cd46",
+            "displayName": "NonPlayerCharacterData/Micah"
+        },
+        {
+            "id": "Moze-1e7ba792",
+            "displayName": "NonPlayerCharacterData/Moze"
+        },
+        {
+            "id": "Numby-2ed05fe6",
+            "displayName": "NonPlayerCharacterData/Numby"
+        },
+        {
+            "id": "Pom-Pom-b3cc72dc",
+            "displayName": "NonPlayerCharacterData/Pom-Pom"
+        },
+        {
+            "id": "Reca-65ec45de",
+            "displayName": "NonPlayerCharacterData/Reca"
+        },
+        {
+            "id": "Siobhan-e2f719bd",
+            "displayName": "NonPlayerCharacterData/Siobhan"
+        },
+        {
+            "id": "Sunday-f82ef2ae",
+            "displayName": "NonPlayerCharacterData/Sunday"
+        },
+        {
+            "id": "Tauran-8d7ede30",
+            "displayName": "NonPlayerCharacterData/Tauran"
+        },
+        {
+            "id": "Acheron-693f18fd",
+            "displayName": "PlayerCharacterData/Acheron"
+        },
+        {
+            "id": "Argenti-c538d4a2",
+            "displayName": "PlayerCharacterData/Argenti"
+        },
+        {
+            "id": "Arlan-d32064e9",
+            "displayName": "PlayerCharacterData/Arlan"
+        },
+        {
+            "id": "Asta-86eb6c6e",
+            "displayName": "PlayerCharacterData/Asta"
+        },
+        {
+            "id": "Aventurine-cfed249",
+            "displayName": "PlayerCharacterData/Aventurine"
+        },
+        {
+            "id": "Bailu-e93f953e",
+            "displayName": "PlayerCharacterData/Bailu"
+        },
+        {
+            "id": "BlackSwan-fbd5418c",
+            "displayName": "PlayerCharacterData/BlackSwan"
+        },
+        {
+            "id": "Blade-669168a4",
+            "displayName": "PlayerCharacterData/Blade"
+        },
+        {
+            "id": "Boothill-c7a49539",
+            "displayName": "PlayerCharacterData/Boothill"
+        },
+        {
+            "id": "Bronya-16dfc827",
+            "displayName": "PlayerCharacterData/Bronya"
+        },
+        {
+            "id": "CaelusDestruction-89d4740d",
+            "displayName": "PlayerCharacterData/CaelusDestruction"
+        },
+        {
+            "id": "CaelusHarmony-96048756",
+            "displayName": "PlayerCharacterData/CaelusHarmony"
+        },
+        {
+            "id": "CaelusPreservation-5aecb646",
+            "displayName": "PlayerCharacterData/CaelusPreservation"
+        },
+        {
+            "id": "Clara-a1f86ba6",
+            "displayName": "PlayerCharacterData/Clara"
+        },
+        {
+            "id": "DanHeng-8f881d21",
+            "displayName": "PlayerCharacterData/DanHeng"
+        },
+        {
+            "id": "DanHengIL-b5b2bdb4",
+            "displayName": "PlayerCharacterData/DanHengIL"
+        },
+        {
+            "id": "DrRatio-5ecfd58b",
+            "displayName": "PlayerCharacterData/DrRatio"
+        },
+        {
+            "id": "Feixiao-592381ec",
+            "displayName": "PlayerCharacterData/Feixiao"
+        },
+        {
+            "id": "Firefly-e5269ac3",
+            "displayName": "PlayerCharacterData/Firefly"
+        },
+        {
+            "id": "FuXuan-9be07243",
+            "displayName": "PlayerCharacterData/FuXuan"
+        },
+        {
+            "id": "Gallagher-9f9324ee",
+            "displayName": "PlayerCharacterData/Gallagher"
+        },
+        {
+            "id": "Gepard-978a63aa",
+            "displayName": "PlayerCharacterData/Gepard"
+        },
+        {
+            "id": "Guinaifen-dddac578",
+            "displayName": "PlayerCharacterData/Guinaifen"
+        },
+        {
+            "id": "Hanya-89e09061",
+            "displayName": "PlayerCharacterData/Hanya"
+        },
+        {
+            "id": "Herta-2a441d57",
+            "displayName": "PlayerCharacterData/Herta"
+        },
+        {
+            "id": "Himeko-b2402c6e",
+            "displayName": "PlayerCharacterData/Himeko"
+        },
+        {
+            "id": "Hook-edb71a8f",
+            "displayName": "PlayerCharacterData/Hook"
+        },
+        {
+            "id": "Huohuo-15394fa2",
+            "displayName": "PlayerCharacterData/Huohuo"
+        },
+        {
+            "id": "Jade-ce3586e6",
+            "displayName": "PlayerCharacterData/Jade"
+        },
+        {
+            "id": "Jiaoqiu-3f37c8ec",
+            "displayName": "PlayerCharacterData/Jiaoqiu"
+        },
+        {
+            "id": "JingYuan-e44779cd",
+            "displayName": "PlayerCharacterData/JingYuan"
+        },
+        {
+            "id": "Jingliu-8543d94e",
+            "displayName": "PlayerCharacterData/Jingliu"
+        },
+        {
+            "id": "Kafka-5f3228a8",
+            "displayName": "PlayerCharacterData/Kafka"
+        },
+        {
+            "id": "Lingsha-8854fa4a",
+            "displayName": "PlayerCharacterData/Lingsha"
+        },
+        {
+            "id": "Luka-b8d7d17a",
+            "displayName": "PlayerCharacterData/Luka"
+        },
+        {
+            "id": "Luocha-d1a6c35a",
+            "displayName": "PlayerCharacterData/Luocha"
+        },
+        {
+            "id": "Lynx-20eacff5",
+            "displayName": "PlayerCharacterData/Lynx"
+        },
+        {
+            "id": "March7th-e3f55bcf",
+            "displayName": "PlayerCharacterData/March7th"
+        },
+        {
+            "id": "March7thAlt-9331e52a",
+            "displayName": "PlayerCharacterData/March7thAlt"
+        },
+        {
+            "id": "March7thHunt-ea20d200",
+            "displayName": "PlayerCharacterData/March7thHunt"
+        },
+        {
+            "id": "Misha-3dea4061",
+            "displayName": "PlayerCharacterData/Misha"
+        },
+        {
+            "id": "Moze-ca436158",
+            "displayName": "PlayerCharacterData/Moze"
+        },
+        {
+            "id": "Natasha-22960a02",
+            "displayName": "PlayerCharacterData/Natasha"
+        },
+        {
+            "id": "Pela-5312544",
+            "displayName": "PlayerCharacterData/Pela"
+        },
+        {
+            "id": "Pom-Pom-668b9542",
+            "displayName": "PlayerCharacterData/Pom-Pom"
+        },
+        {
+            "id": "Qingque-509f03a5",
+            "displayName": "PlayerCharacterData/Qingque"
+        },
+        {
+            "id": "Rappa-814ce891",
+            "displayName": "PlayerCharacterData/Rappa"
+        },
+        {
+            "id": "Robin-ed335d53",
+            "displayName": "PlayerCharacterData/Robin"
+        },
+        {
+            "id": "RuanMei-ddfcacd7",
+            "displayName": "PlayerCharacterData/RuanMei"
+        },
+        {
+            "id": "Sam-547cd1ad",
+            "displayName": "PlayerCharacterData/Sam"
+        },
+        {
+            "id": "Sampo-6142a8f",
+            "displayName": "PlayerCharacterData/Sampo"
+        },
+        {
+            "id": "Seele-c703960f",
+            "displayName": "PlayerCharacterData/Seele"
+        },
+        {
+            "id": "Serval-1f2481fc",
+            "displayName": "PlayerCharacterData/Serval"
+        },
+        {
+            "id": "SilverWolf-386fd9ba",
+            "displayName": "PlayerCharacterData/SilverWolf"
+        },
+        {
+            "id": "SnowWolf-a2338a41",
+            "displayName": "PlayerCharacterData/SnowWolf"
+        },
+        {
+            "id": "Sparkle-baa1dc1a",
+            "displayName": "PlayerCharacterData/Sparkle"
+        },
+        {
+            "id": "Stelle-2196a817",
+            "displayName": "PlayerCharacterData/Stelle"
+        },
+        {
+            "id": "Sunday-dba0456f",
+            "displayName": "PlayerCharacterData/Sunday"
+        },
+        {
+            "id": "Sushang-7c3f109a",
+            "displayName": "PlayerCharacterData/Sushang"
+        },
+        {
+            "id": "Tingyun-52208e16",
+            "displayName": "PlayerCharacterData/Tingyun"
+        },
+        {
+            "id": "Topaz-1a8ddac1",
+            "displayName": "PlayerCharacterData/Topaz"
+        },
+        {
+            "id": "TrailblazerBoy-d4239332",
+            "displayName": "PlayerCharacterData/TrailblazerBoy"
+        },
+        {
+            "id": "TrailblazerBoyDestruction-f983e952",
+            "displayName": "PlayerCharacterData/TrailblazerBoyDestruction"
+        },
+        {
+            "id": "TrailblazerBoyPreservation-1075459",
+            "displayName": "PlayerCharacterData/TrailblazerBoyPreservation"
+        },
+        {
+            "id": "TrailblazerGirl-a4631e07",
+            "displayName": "PlayerCharacterData/TrailblazerGirl"
+        },
+        {
+            "id": "TrailblazerGirlDestruction-bde29a21",
+            "displayName": "PlayerCharacterData/TrailblazerGirlDestruction"
+        },
+        {
+            "id": "TrailblazerGirlPreservation-6af2ec3c",
+            "displayName": "PlayerCharacterData/TrailblazerGirlPreservation"
+        },
+        {
+            "id": "Welt-8c10314a",
+            "displayName": "PlayerCharacterData/Welt"
+        },
+        {
+            "id": "Xueyi-232343a6",
+            "displayName": "PlayerCharacterData/Xueyi"
+        },
+        {
+            "id": "Yanqing-5c36ba05",
+            "displayName": "PlayerCharacterData/Yanqing"
+        },
+        {
+            "id": "Yukong-b19447ac",
+            "displayName": "PlayerCharacterData/Yukong"
+        },
+        {
+            "id": "Yunli-aace74d1",
+            "displayName": "PlayerCharacterData/Yunli"
+        },
+        {
+            "id": "Asta'sWeapon-87c9655b",
+            "displayName": "WeaponData/Asta'sWeapon"
+        },
+        {
+            "id": "Boothill'sWeapon-fb59e5fa",
+            "displayName": "WeaponData/Boothill'sWeapon"
+        },
+        {
+            "id": "Kafka'sWeapon-be6d55f9",
+            "displayName": "WeaponData/Kafka'sWeapon"
+        },
+        {
+            "id": "Natasha'sWeapon-12dd2a3",
+            "displayName": "WeaponData/Natasha'sWeapon"
+        },
+        {
+            "id": "Pela'sWeapon-f7dca24b",
+            "displayName": "WeaponData/Pela'sWeapon"
+        },
+        {
+            "id": "Seele'sWeapon-86061bfe",
+            "displayName": "WeaponData/Seele'sWeapon"
+        },
+        {
+            "id": "Serval'sWeapon-45a57f95",
+            "displayName": "WeaponData/Serval'sWeapon"
+        },
+        {
+            "id": "SnowWolf'sWeapon-e53ff93f",
+            "displayName": "WeaponData/SnowWolf'sWeapon"
+        },
+        {
+            "id": "Sushang'sWeapon-89304f80",
+            "displayName": "WeaponData/Sushang'sWeapon"
+        }
+    ]
+}

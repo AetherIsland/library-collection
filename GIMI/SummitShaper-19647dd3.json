@@ -1,1 +1,130 @@
-{"path":"WeaponData/Swords/5Star/SummitShaper","seenInHead":true,"revisions":[{"hash":"01d9f9d29caece95aaeffe333a09917aa3ee9b6a","content":[{"component_name":"","root_vs":"","draw_vb":"f17679d4","position_vb":"f17679d4","blend_vb":"","texcoord_vb":"","ib":"8e208ff6","object_indexes":[0,7872],"object_classifications":["Head","Body"],"texture_hashes":[[["Diffuse",".dds","5977c7df"],["LightMap",".dds","87095373"]],[]]}]},{"hash":"aaf64530ed5b50bf20f7c2eb28fa771129094106","content":[{"component_name":"","root_vs":"","draw_vb":"f17679d4","position_vb":"f17679d4","blend_vb":"","texcoord_vb":"","ib":"8e208ff6","object_indexes":[0,7872],"object_classifications":["Head","Body"],"texture_hashes":[[["Diffuse",".dds","fa39ea38"],["LightMap",".dds","87095373"]],[["Diffuse",".dds","fa39ea38"]]]}]},{"hash":"aa6a0ef76c9f567241ec37d68f2e599a23d13769","content":[{"component_name":"","draw_vb":"f17679d4","position_vb":"f17679d4","blend_vb":"","texcoord_vb":"","ib":"8e208ff6","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","5977c7df"],["LightMap",".dds","87095373"],["MetalMap",".dds","b0e08915"],["DiffuseGuide",".dds","3ed0f51e"]]],"first_vs":"d9375a68db904c9c"}]}]}
+{
+    "path": "WeaponData/Swords/5Star/SummitShaper",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "01d9f9d29caece95aaeffe333a09917aa3ee9b6a",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "f17679d4",
+                    "position_vb": "f17679d4",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "8e208ff6",
+                    "object_indexes": [
+                        0,
+                        7872
+                    ],
+                    "object_classifications": [
+                        "Head",
+                        "Body"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "5977c7df"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "87095373"
+                            ]
+                        ],
+                        []
+                    ]
+                }
+            ]
+        },
+        {
+            "hash": "aaf64530ed5b50bf20f7c2eb28fa771129094106",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "f17679d4",
+                    "position_vb": "f17679d4",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "8e208ff6",
+                    "object_indexes": [
+                        0,
+                        7872
+                    ],
+                    "object_classifications": [
+                        "Head",
+                        "Body"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "fa39ea38"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "87095373"
+                            ]
+                        ],
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "fa39ea38"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "hash": "aa6a0ef76c9f567241ec37d68f2e599a23d13769",
+            "content": [
+                {
+                    "component_name": "",
+                    "draw_vb": "f17679d4",
+                    "position_vb": "f17679d4",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "8e208ff6",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "5977c7df"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "87095373"
+                            ],
+                            [
+                                "MetalMap",
+                                ".dds",
+                                "b0e08915"
+                            ],
+                            [
+                                "DiffuseGuide",
+                                ".dds",
+                                "3ed0f51e"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "d9375a68db904c9c"
+                }
+            ]
+        }
+    ]
+}

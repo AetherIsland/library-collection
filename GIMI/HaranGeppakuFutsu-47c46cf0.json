@@ -1,1 +1,74 @@
-{"path":"WeaponData/Swords/5Star/HaranGeppakuFutsu","seenInHead":true,"revisions":[{"hash":"4de32b7d0aa0b23452b77695485e6d85bf3b697a","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"e5739ebb","position_vb":"a07c44cc","blend_vb":"c148d5d2","texcoord_vb":"2dda1417","ib":"06862c93","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","1990b014"],["LightMap",".dds","c6b0e4d9"]]]}]},{"hash":"331e9c7a523c40b0c7f9a0e620526acaaa082dcc","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"e5739ebb","position_vb":"a07c44cc","blend_vb":"c148d5d2","texcoord_vb":"2dda1417","ib":"06862c93","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","fec61569"],["LightMap",".dds","c6b0e4d9"]]]}]}]}
+{
+    "path": "WeaponData/Swords/5Star/HaranGeppakuFutsu",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "4de32b7d0aa0b23452b77695485e6d85bf3b697a",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "e5739ebb",
+                    "position_vb": "a07c44cc",
+                    "blend_vb": "c148d5d2",
+                    "texcoord_vb": "2dda1417",
+                    "ib": "06862c93",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "1990b014"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "c6b0e4d9"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "hash": "331e9c7a523c40b0c7f9a0e620526acaaa082dcc",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "e5739ebb",
+                    "position_vb": "a07c44cc",
+                    "blend_vb": "c148d5d2",
+                    "texcoord_vb": "2dda1417",
+                    "ib": "06862c93",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "fec61569"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "c6b0e4d9"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

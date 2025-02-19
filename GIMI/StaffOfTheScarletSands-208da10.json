@@ -1,1 +1,118 @@
-{"path":"WeaponData/Polearms/5Star/StaffOfTheScarletSands","seenInHead":true,"revisions":[{"hash":"d596f3d7de1908d7b5a1ada24a5d0d142c77dccc","content":[{"component_name":"","root_vs":"","draw_vb":"c3b21723","position_vb":"c3b21723","blend_vb":"","texcoord_vb":"","ib":"b9138fed","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","c393bda4"],["LightMap",".dds","08346872"]]]}]},{"hash":"138d4d0b17619016ff0897614a318cb288a5cf89","content":[{"component_name":"","root_vs":"","draw_vb":"c3b21723","position_vb":"c3b21723","blend_vb":"","texcoord_vb":"","ib":"b9138fed","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","34fba5d4"],["LightMap",".dds","08346872"]]]}]},{"hash":"14b5a165ff32eee5bf0c1775dda9b5a765948bed","content":[{"component_name":"","draw_vb":"c3b21723","position_vb":"c3b21723","blend_vb":"","texcoord_vb":"","ib":"b9138fed","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","c393bda4"],["LightMap",".dds","08346872"],["MetalMap",".dds","b0e08915"],["DiffuseGuide",".dds","58d2635b"]]],"first_vs":"a0fd0f32457c7659"}]}]}
+{
+    "path": "WeaponData/Polearms/5Star/StaffOfTheScarletSands",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "d596f3d7de1908d7b5a1ada24a5d0d142c77dccc",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "c3b21723",
+                    "position_vb": "c3b21723",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "b9138fed",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "c393bda4"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "08346872"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "hash": "138d4d0b17619016ff0897614a318cb288a5cf89",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "c3b21723",
+                    "position_vb": "c3b21723",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "b9138fed",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "34fba5d4"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "08346872"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "hash": "14b5a165ff32eee5bf0c1775dda9b5a765948bed",
+            "content": [
+                {
+                    "component_name": "",
+                    "draw_vb": "c3b21723",
+                    "position_vb": "c3b21723",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "b9138fed",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "c393bda4"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "08346872"
+                            ],
+                            [
+                                "MetalMap",
+                                ".dds",
+                                "b0e08915"
+                            ],
+                            [
+                                "DiffuseGuide",
+                                ".dds",
+                                "58d2635b"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "a0fd0f32457c7659"
+                }
+            ]
+        }
+    ]
+}

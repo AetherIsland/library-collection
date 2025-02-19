@@ -1,1 +1,74 @@
-{"path":"WeaponData/Bows/4Star/KingsSquire","seenInHead":true,"revisions":[{"hash":"01d9f9d29caece95aaeffe333a09917aa3ee9b6a","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"831ca863","position_vb":"9432bbb8","blend_vb":"abe1c821","texcoord_vb":"7db5fc45","ib":"035465c1","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","82ab2ef4"],["LightMap",".dds","dec7d2fd"]]]}]},{"hash":"0aec27e602c370a06a980512c25124e35e38a71d","content":[{"component_name":"","root_vs":"653c63ba4a73ca8b","draw_vb":"831ca863","position_vb":"9432bbb8","blend_vb":"abe1c821","texcoord_vb":"7db5fc45","ib":"035465c1","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","2d03cf8c"],["LightMap",".dds","dec7d2fd"]]]}]}]}
+{
+    "path": "WeaponData/Bows/4Star/KingsSquire",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "01d9f9d29caece95aaeffe333a09917aa3ee9b6a",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "831ca863",
+                    "position_vb": "9432bbb8",
+                    "blend_vb": "abe1c821",
+                    "texcoord_vb": "7db5fc45",
+                    "ib": "035465c1",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "82ab2ef4"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "dec7d2fd"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "hash": "0aec27e602c370a06a980512c25124e35e38a71d",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "653c63ba4a73ca8b",
+                    "draw_vb": "831ca863",
+                    "position_vb": "9432bbb8",
+                    "blend_vb": "abe1c821",
+                    "texcoord_vb": "7db5fc45",
+                    "ib": "035465c1",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "2d03cf8c"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "dec7d2fd"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

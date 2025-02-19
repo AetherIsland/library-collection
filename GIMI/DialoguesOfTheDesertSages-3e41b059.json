@@ -1,1 +1,74 @@
-{"path":"WeaponData/Polearms/4Star/DialoguesOfTheDesertSages","seenInHead":true,"revisions":[{"hash":"01d9f9d29caece95aaeffe333a09917aa3ee9b6a","content":[{"component_name":"","root_vs":"","draw_vb":"657e920d","position_vb":"657e920d","blend_vb":"","texcoord_vb":"","ib":"35e435fc","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","76b3d2e7"],["LightMap",".dds","f5f92093"]]]}]},{"hash":"138d4d0b17619016ff0897614a318cb288a5cf89","content":[{"component_name":"","root_vs":"","draw_vb":"657e920d","position_vb":"657e920d","blend_vb":"","texcoord_vb":"","ib":"35e435fc","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","cdd3f789"],["LightMap",".dds","f5f92093"]]]}]}]}
+{
+    "path": "WeaponData/Polearms/4Star/DialoguesOfTheDesertSages",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "01d9f9d29caece95aaeffe333a09917aa3ee9b6a",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "657e920d",
+                    "position_vb": "657e920d",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "35e435fc",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "76b3d2e7"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "f5f92093"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "hash": "138d4d0b17619016ff0897614a318cb288a5cf89",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "657e920d",
+                    "position_vb": "657e920d",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "35e435fc",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "cdd3f789"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "f5f92093"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

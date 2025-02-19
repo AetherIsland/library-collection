@@ -1,1 +1,50 @@
-{"path":"WeaponData/Swords/4Star/FinaleoftheDeep","seenInHead":true,"revisions":[{"hash":"9296e1cf725f51d367ada20a60095055740ef395","content":[{"component_name":"","draw_vb":"99d58fb3","position_vb":"99d58fb3","blend_vb":"","texcoord_vb":"","ib":"f05a1673","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","d9ca926f"],["LightMap",".dds","08e210fa"],["MetalMap",".dds","b0e08915"],["ShadowRamp",".jpg","58d2635b"]]],"first_vs":"03226e85691bd4ce"}]}]}
+{
+    "path": "WeaponData/Swords/4Star/FinaleoftheDeep",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "9296e1cf725f51d367ada20a60095055740ef395",
+            "content": [
+                {
+                    "component_name": "",
+                    "draw_vb": "99d58fb3",
+                    "position_vb": "99d58fb3",
+                    "blend_vb": "",
+                    "texcoord_vb": "",
+                    "ib": "f05a1673",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "d9ca926f"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "08e210fa"
+                            ],
+                            [
+                                "MetalMap",
+                                ".dds",
+                                "b0e08915"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "58d2635b"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "03226e85691bd4ce"
+                }
+            ]
+        }
+    ]
+}

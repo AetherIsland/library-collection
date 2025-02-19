@@ -1,1 +1,76 @@
-{"path":"NPCData/Jeht","seenInHead":true,"revisions":[{"hash":"c573deb4aba5ee49ec6f28b336587a97cb2d6029","content":[{"component_name":"","root_vs":"","draw_vb":"3eb079af","position_vb":"3eb079af","blend_vb":"","texcoord_vb":"d0b68cb6","ib":"5c6b1ddb","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","e7662e87"],["LightMap",".dds","eb1eddb5"]]],"first_vs":"3b74c61dd5c8596a"}]},{"hash":"08f36702935c0362b9993ef17155b9f0fe25ba88","content":[{"component_name":"","root_vs":"","draw_vb":"3eb079af","position_vb":"3eb079af","blend_vb":"","texcoord_vb":"d0b68cb6","ib":"64bf7704","object_indexes":[0],"object_classifications":["Head"],"texture_hashes":[[["Diffuse",".dds","e7662e87"],["LightMap",".dds","eb1eddb5"]]],"first_vs":"3b74c61dd5c8596a"}]}]}
+{
+    "path": "NPCData/Jeht",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "c573deb4aba5ee49ec6f28b336587a97cb2d6029",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "3eb079af",
+                    "position_vb": "3eb079af",
+                    "blend_vb": "",
+                    "texcoord_vb": "d0b68cb6",
+                    "ib": "5c6b1ddb",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "e7662e87"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "eb1eddb5"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "3b74c61dd5c8596a"
+                }
+            ]
+        },
+        {
+            "hash": "08f36702935c0362b9993ef17155b9f0fe25ba88",
+            "content": [
+                {
+                    "component_name": "",
+                    "root_vs": "",
+                    "draw_vb": "3eb079af",
+                    "position_vb": "3eb079af",
+                    "blend_vb": "",
+                    "texcoord_vb": "d0b68cb6",
+                    "ib": "64bf7704",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "Head"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "e7662e87"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "eb1eddb5"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "3b74c61dd5c8596a"
+                }
+            ]
+        }
+    ]
+}

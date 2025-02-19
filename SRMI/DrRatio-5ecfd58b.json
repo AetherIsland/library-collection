@@ -1,1 +1,333 @@
-{"path":"PlayerCharacterData/DrRatio","seenInHead":true,"revisions":[{"hash":"7d0648a64774a845ebf67a4aece03b88aaf36490","content":[{"component_name":"Hair","root_vs":"e8425f64cfb887cd","draw_vb":"b310931e","position_vb":"7a9d0dac","blend_vb":"7d37a021","texcoord_vb":"650888fc","ib":"0a520e04","object_indexes":[0],"object_classifications":["A"],"texture_hashes":[[["Diffuse",".dds","521b3d2d"],["LightMap",".dds","5a50e9ba"]]]},{"component_name":"Head","root_vs":"e8425f64cfb887cd","draw_vb":"9857f892","position_vb":"b88dc8c6","blend_vb":"6e1dc670","texcoord_vb":"91f740da","ib":"82bc4a2d","object_indexes":[0,12354],"object_classifications":["A","B"],"texture_hashes":[[["Diffuse",".dds","4c6a99ed"]],[]]},{"component_name":"Body","root_vs":"e8425f64cfb887cd","draw_vb":"d5f71e0e","position_vb":"6600a26e","blend_vb":"ec519551","texcoord_vb":"e6b81399","ib":"37c47042","object_indexes":[0,56361],"object_classifications":["A","B"],"comments":["Body parts A and B use the same textures"],"texture_hashes":[[["Diffuse",".dds","e80725f3"],["LightMap",".dds","4329d27b"]],[]]}]},{"hash":"bcef22c86c9adfcfe39460901aa2ec6a118b01ad","content":[{"component_name":"Hair","root_vs":"e8425f64cfb887cd","draw_vb":"fbcffe5a","position_vb":"5ca10450","blend_vb":"03b5a3cf","texcoord_vb":"26a8f257","ib":"76d7d3f3","object_indexes":[0],"object_classifications":["A"],"texture_hashes":[[["Diffuse",".dds","013f4f5d"],["LightMap",".dds","8eccb31c"],["ShadowRamp",".jpg","58d2635b"]]],"first_vs":"4548f0ce0f18b782"},{"component_name":"Head","root_vs":"e8425f64cfb887cd","draw_vb":"9857f892","position_vb":"b88dc8c6","blend_vb":"6e1dc670","texcoord_vb":"91f740da","ib":"82bc4a2d","object_indexes":[0,12354],"object_classifications":["A","B"],"texture_hashes":[[["Diffuse",".dds","29a331d7"]],[]],"first_vs":"d9b883abe316242c"},{"component_name":"Body","root_vs":"e8425f64cfb887cd","draw_vb":"d5f71e0e","position_vb":"6600a26e","blend_vb":"ec519551","texcoord_vb":"e6b81399","ib":"37c47042","object_indexes":[0,56361],"object_classifications":["A","B"],"comments":["Body parts A and B use the same textures"],"texture_hashes":[[["Diffuse",".dds","d8ae56ba"],["LightMap",".dds","9fa75d99"],["ShadowRamp",".jpg","078177f1"]],[]],"first_vs":"2caeb828e4f7aa8a"}]},{"hash":"66315111affe2bcc78a90b7d8da7f74ab53fc798","content":[{"component_name":"Hair","root_vs":"e8425f64cfb887cd","draw_vb":"fbcffe5a","position_vb":"5ca10450","blend_vb":"03b5a3cf","texcoord_vb":"26a8f257","ib":"76d7d3f3","object_indexes":[0],"object_classifications":["A"],"texture_hashes":[[["Diffuse",".dds","013f4f5d"],["LightMap",".dds","8eccb31c"],["ShadowRamp",".jpg","58d2635b"]]],"first_vs":"4548f0ce0f18b782"},{"component_name":"Head","root_vs":"e8425f64cfb887cd","draw_vb":"9857f892","position_vb":"b88dc8c6","blend_vb":"6e1dc670","texcoord_vb":"91f740da","ib":"82bc4a2d","object_indexes":[0,12354],"object_classifications":["A","B"],"texture_hashes":[[["Diffuse",".dds","29a331d7"]],[]],"first_vs":"d9b883abe316242c"},{"component_name":"Body","root_vs":"e8425f64cfb887cd","draw_vb":"d5f71e0e","position_vb":"6600a26e","blend_vb":"ec519551","texcoord_vb":"e6b81399","ib":"37c47042","object_indexes":[0,56361],"object_classifications":["A","B"],"texture_hashes":[[["Diffuse",".dds","d8ae56ba"],["LightMap",".dds","9fa75d99"],["ShadowRamp",".jpg","078177f1"]],[["Diffuse",".dds","d8ae56ba"],["LightMap",".dds","9fa75d99"],["ShadowRamp",".jpg","078177f1"]]],"first_vs":"2caeb828e4f7aa8a"}]}]}
+{
+    "path": "PlayerCharacterData/DrRatio",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "7d0648a64774a845ebf67a4aece03b88aaf36490",
+            "content": [
+                {
+                    "component_name": "Hair",
+                    "root_vs": "e8425f64cfb887cd",
+                    "draw_vb": "b310931e",
+                    "position_vb": "7a9d0dac",
+                    "blend_vb": "7d37a021",
+                    "texcoord_vb": "650888fc",
+                    "ib": "0a520e04",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "A"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "521b3d2d"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "5a50e9ba"
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "component_name": "Head",
+                    "root_vs": "e8425f64cfb887cd",
+                    "draw_vb": "9857f892",
+                    "position_vb": "b88dc8c6",
+                    "blend_vb": "6e1dc670",
+                    "texcoord_vb": "91f740da",
+                    "ib": "82bc4a2d",
+                    "object_indexes": [
+                        0,
+                        12354
+                    ],
+                    "object_classifications": [
+                        "A",
+                        "B"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "4c6a99ed"
+                            ]
+                        ],
+                        []
+                    ]
+                },
+                {
+                    "component_name": "Body",
+                    "root_vs": "e8425f64cfb887cd",
+                    "draw_vb": "d5f71e0e",
+                    "position_vb": "6600a26e",
+                    "blend_vb": "ec519551",
+                    "texcoord_vb": "e6b81399",
+                    "ib": "37c47042",
+                    "object_indexes": [
+                        0,
+                        56361
+                    ],
+                    "object_classifications": [
+                        "A",
+                        "B"
+                    ],
+                    "comments": [
+                        "Body parts A and B use the same textures"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "e80725f3"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "4329d27b"
+                            ]
+                        ],
+                        []
+                    ]
+                }
+            ]
+        },
+        {
+            "hash": "bcef22c86c9adfcfe39460901aa2ec6a118b01ad",
+            "content": [
+                {
+                    "component_name": "Hair",
+                    "root_vs": "e8425f64cfb887cd",
+                    "draw_vb": "fbcffe5a",
+                    "position_vb": "5ca10450",
+                    "blend_vb": "03b5a3cf",
+                    "texcoord_vb": "26a8f257",
+                    "ib": "76d7d3f3",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "A"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "013f4f5d"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "8eccb31c"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "58d2635b"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "4548f0ce0f18b782"
+                },
+                {
+                    "component_name": "Head",
+                    "root_vs": "e8425f64cfb887cd",
+                    "draw_vb": "9857f892",
+                    "position_vb": "b88dc8c6",
+                    "blend_vb": "6e1dc670",
+                    "texcoord_vb": "91f740da",
+                    "ib": "82bc4a2d",
+                    "object_indexes": [
+                        0,
+                        12354
+                    ],
+                    "object_classifications": [
+                        "A",
+                        "B"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "29a331d7"
+                            ]
+                        ],
+                        []
+                    ],
+                    "first_vs": "d9b883abe316242c"
+                },
+                {
+                    "component_name": "Body",
+                    "root_vs": "e8425f64cfb887cd",
+                    "draw_vb": "d5f71e0e",
+                    "position_vb": "6600a26e",
+                    "blend_vb": "ec519551",
+                    "texcoord_vb": "e6b81399",
+                    "ib": "37c47042",
+                    "object_indexes": [
+                        0,
+                        56361
+                    ],
+                    "object_classifications": [
+                        "A",
+                        "B"
+                    ],
+                    "comments": [
+                        "Body parts A and B use the same textures"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "d8ae56ba"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "9fa75d99"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "078177f1"
+                            ]
+                        ],
+                        []
+                    ],
+                    "first_vs": "2caeb828e4f7aa8a"
+                }
+            ]
+        },
+        {
+            "hash": "66315111affe2bcc78a90b7d8da7f74ab53fc798",
+            "content": [
+                {
+                    "component_name": "Hair",
+                    "root_vs": "e8425f64cfb887cd",
+                    "draw_vb": "fbcffe5a",
+                    "position_vb": "5ca10450",
+                    "blend_vb": "03b5a3cf",
+                    "texcoord_vb": "26a8f257",
+                    "ib": "76d7d3f3",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "A"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "013f4f5d"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "8eccb31c"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "58d2635b"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "4548f0ce0f18b782"
+                },
+                {
+                    "component_name": "Head",
+                    "root_vs": "e8425f64cfb887cd",
+                    "draw_vb": "9857f892",
+                    "position_vb": "b88dc8c6",
+                    "blend_vb": "6e1dc670",
+                    "texcoord_vb": "91f740da",
+                    "ib": "82bc4a2d",
+                    "object_indexes": [
+                        0,
+                        12354
+                    ],
+                    "object_classifications": [
+                        "A",
+                        "B"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "29a331d7"
+                            ]
+                        ],
+                        []
+                    ],
+                    "first_vs": "d9b883abe316242c"
+                },
+                {
+                    "component_name": "Body",
+                    "root_vs": "e8425f64cfb887cd",
+                    "draw_vb": "d5f71e0e",
+                    "position_vb": "6600a26e",
+                    "blend_vb": "ec519551",
+                    "texcoord_vb": "e6b81399",
+                    "ib": "37c47042",
+                    "object_indexes": [
+                        0,
+                        56361
+                    ],
+                    "object_classifications": [
+                        "A",
+                        "B"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "d8ae56ba"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "9fa75d99"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "078177f1"
+                            ]
+                        ],
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "d8ae56ba"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "9fa75d99"
+                            ],
+                            [
+                                "ShadowRamp",
+                                ".jpg",
+                                "078177f1"
+                            ]
+                        ]
+                    ],
+                    "first_vs": "2caeb828e4f7aa8a"
+                }
+            ]
+        }
+    ]
+}
