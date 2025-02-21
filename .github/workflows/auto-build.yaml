@@ -1,0 +1,64 @@
+name: Auto Build
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: library-collection
+      - uses: actions/checkout@v4
+        with:
+          repository: AetherIsland/lisa
+          path: lisa
+      - run: |
+          echo -n "auto build $(date -Iseconds)" > message.txt
+          echo >> message.txt
+          echo "lisa: $(git -C lisa rev-parse HEAD)" >> message.txt
+          echo >> message.txt
+      - uses: pnpm/action-setup@v4
+        with:
+          version: latest
+      - uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+          cache: pnpm
+          cache-dependency-path: lisa/pnpm-lock.yaml
+      - run: pnpm install
+        working-directory: lisa
+      - run: pnpm build
+        working-directory: lisa
+      - run: |
+          git clone --bare https://github.com/SilentNightSound/GI-Model-Importer-Assets.git
+          echo "GI-Model-Importer-Assets: $(git -C GI-Model-Importer-Assets.git rev-parse HEAD)" >> message.txt
+      - run: |
+          git clone --bare https://github.com/SilentNightSound/SR-Model-Importer-Assets.git
+          echo "SR-Model-Importer-Assets: $(git -C SR-Model-Importer-Assets.git rev-parse HEAD)" >> message.txt
+      - run: |
+          git clone --bare https://github.com/SilentNightSound/HI-Model-Importer-Assets.git
+          echo "HI-Model-Importer-Assets: $(git -C HI-Model-Importer-Assets.git rev-parse HEAD)" >> message.txt
+      - run: |
+          git clone --bare https://github.com/leotorrez/ZZ-Model-Importer-Assets.git
+          echo "ZZ-Model-Importer-Assets: $(git -C ZZ-Model-Importer-Assets.git rev-parse HEAD)" >> message.txt
+      - run: pnpx "$GITHUB_WORKSPACE/lisa" --repo GI-Model-Importer-Assets.git --output library-collection/GIMI --clean-output
+      - run: pnpx "$GITHUB_WORKSPACE/lisa" --repo SR-Model-Importer-Assets.git --output library-collection/SRMI --clean-output
+      - run: pnpx "$GITHUB_WORKSPACE/lisa" --repo HI-Model-Importer-Assets.git --output library-collection/HIMI --clean-output
+      - run: pnpx "$GITHUB_WORKSPACE/lisa" --repo ZZ-Model-Importer-Assets.git --output library-collection/ZZMI --clean-output
+      - run: |
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'github-actions[bot]'
+      - run: git commit -a -F "$GITHUB_WORKSPACE/message.txt" && git push
+        working-directory: library-collection
+        continue-on-error: true
