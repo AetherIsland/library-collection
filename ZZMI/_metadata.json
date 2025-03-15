@@ -1,6 +1,42 @@
 {
-    "head": "14fea25f16b93e0fe6e96ac40b9346f421943fd8",
+    "head": "c9196c32ab48d9e8e3336124c4252b8fd6a766bc",
     "commits": [
+        {
+            "hash": "c9196c32ab48d9e8e3336124c4252b8fd6a766bc",
+            "date": "2025-03-12T19:47:20-03:00",
+            "message": "ADD: Pulchra",
+            "body": ""
+        },
+        {
+            "hash": "35bf0464d2b31455d192ca37dc87dccae49ea34e",
+            "date": "2025-03-12T19:44:34-03:00",
+            "message": "ADD: Soldier0",
+            "body": ""
+        },
+        {
+            "hash": "bc7799ee4e8a7f31e16abc720b70887749bfd205",
+            "date": "2025-03-12T19:44:25-03:00",
+            "message": "Update: Lighter for v1.6",
+            "body": ""
+        },
+        {
+            "hash": "68996b8316eb23a60529f0bb5fa004b5f52e09ba",
+            "date": "2025-03-12T19:39:46-03:00",
+            "message": "Update: Anby for v1.6",
+            "body": ""
+        },
+        {
+            "hash": "0f8347debb98a22df1d2089802dff3bb79a69719",
+            "date": "2025-03-12T19:35:30-03:00",
+            "message": "FIX: Update Astra for v1.6",
+            "body": ""
+        },
+        {
+            "hash": "feacb96393d01cc2bdafa5dd227d38c86c54643a",
+            "date": "2025-03-12T19:31:18-03:00",
+            "message": "Update: Ellen v1.6 + Adding her face texture",
+            "body": ""
+        },
         {
             "hash": "14fea25f16b93e0fe6e96ac40b9346f421943fd8",
             "date": "2025-02-12T19:00:09-03:00",
@@ -978,6 +1014,10 @@
             "displayName": "PlayerCharacterData/Piper"
         },
         {
+            "id": "Pulchra-be4b0a15",
+            "displayName": "PlayerCharacterData/Pulchra"
+        },
+        {
             "id": "Qingyi-683cb858",
             "displayName": "PlayerCharacterData/Qingyi"
         },
@@ -988,6 +1028,10 @@
         {
             "id": "Seth-6dcfeb01",
             "displayName": "PlayerCharacterData/Seth"
+        },
+        {
+            "id": "Soldier0-3a3f37bf",
+            "displayName": "PlayerCharacterData/Soldier0"
         },
         {
             "id": "Soldier11-d64fa58d",
