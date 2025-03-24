@@ -59,6 +59,6 @@ jobs:
       - run: |
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git config --global user.name 'github-actions[bot]'
-      - run: git commit -a -F "$GITHUB_WORKSPACE/message.txt" && git push
+      - run: git add GIMI SRMI HIMI ZZMI && git commit -F "$GITHUB_WORKSPACE/message.txt" && git push
         working-directory: library-collection
         continue-on-error: true
