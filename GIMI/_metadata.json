@@ -1,10 +1,52 @@
 {
-    "head": "92828eeb99b404594f6d19c863d48c538e632f94",
+    "head": "c8ec5778b2d5894d46ac889f7c78d71283025f25",
     "commits": [
+        {
+            "hash": "c8ec5778b2d5894d46ac889f7c78d71283025f25",
+            "date": "2025-03-25T23:44:20-04:00",
+            "message": "Merge pull request #129 from leotorrez/main",
+            "body": "ADD varesa and iansan"
+        },
+        {
+            "hash": "d7236d4b4775ae1885e2acd9b6e969e5bc5ef734",
+            "date": "2025-03-25T23:57:29-03:00",
+            "message": "Merge branch 'main' of https://github.com/leotorrez/GI-Model-Importer-Assets",
+            "body": ""
+        },
+        {
+            "hash": "ae24b28bf15737c6a9f70d3033408bd878e2eef7",
+            "date": "2025-03-25T23:57:25-03:00",
+            "message": "ADD: Varesa v5.6",
+            "body": ""
+        },
+        {
+            "hash": "fd496ed589e7f62391111ccdd3c13a51bb9bb312",
+            "date": "2025-03-25T23:57:16-03:00",
+            "message": "ADD: Iansan v5.6",
+            "body": ""
+        },
+        {
+            "hash": "a92aef6ed5f660e4deb9ac7c454fdc9c5df612e1",
+            "date": "2025-03-25T23:55:12-03:00",
+            "message": "Merge branch 'SilentNightSound:main' into main",
+            "body": ""
+        },
         {
             "hash": "92828eeb99b404594f6d19c863d48c538e632f94",
             "date": "2025-02-19T11:12:54-05:00",
             "message": "Removing duplicate in hash json",
+            "body": ""
+        },
+        {
+            "hash": "3b830c0ea8cd6633f2929809a055e00d7434c57d",
+            "date": "2025-02-13T16:16:33-03:00",
+            "message": "Merge branch 'main' of https://github.com/leotorrez/GI-Model-Importer-Assets",
+            "body": ""
+        },
+        {
+            "hash": "a730a07a8a6e1cc559dfc66cbbc44fb626bb7168",
+            "date": "2025-02-13T16:16:22-03:00",
+            "message": "Merge remote-tracking branch 'upstream/main'",
             "body": ""
         },
         {
@@ -3036,6 +3078,10 @@
             "displayName": "PlayerCharacterData/HuTao"
         },
         {
+            "id": "Iansan-d03b3739",
+            "displayName": "PlayerCharacterData/Iansan"
+        },
+        {
             "id": "Itto-966066ad",
             "displayName": "PlayerCharacterData/Itto"
         },
@@ -3294,6 +3340,10 @@
         {
             "id": "TravelerGirl-16cde9a2",
             "displayName": "PlayerCharacterData/TravelerGirl"
+        },
+        {
+            "id": "Varesa-ee50c820",
+            "displayName": "PlayerCharacterData/Varesa"
         },
         {
             "id": "Venti-8b1a3f3a",
