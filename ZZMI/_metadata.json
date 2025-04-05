@@ -1,6 +1,12 @@
 {
-    "head": "c9196c32ab48d9e8e3336124c4252b8fd6a766bc",
+    "head": "f02fd36ef844844b56310de2f0329e205ff56ca6",
     "commits": [
+        {
+            "hash": "f02fd36ef844844b56310de2f0329e205ff56ca6",
+            "date": "2025-04-03T00:08:41-03:00",
+            "message": "ADD: Trigger",
+            "body": ""
+        },
         {
             "hash": "c9196c32ab48d9e8e3336124c4252b8fd6a766bc",
             "date": "2025-03-12T19:47:20-03:00",
@@ -1040,6 +1046,10 @@
         {
             "id": "Soukaku-cf9c805e",
             "displayName": "PlayerCharacterData/Soukaku"
+        },
+        {
+            "id": "Trigger-cc22d663",
+            "displayName": "PlayerCharacterData/Trigger"
         },
         {
             "id": "Wise-b150ceb5",
