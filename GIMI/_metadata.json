@@ -1,6 +1,42 @@
 {
-    "head": "c8ec5778b2d5894d46ac889f7c78d71283025f25",
+    "head": "889d6c797ddc074e0ec5c9e8e4511b3552aaa4df",
     "commits": [
+        {
+            "hash": "889d6c797ddc074e0ec5c9e8e4511b3552aaa4df",
+            "date": "2025-04-05T22:26:19-04:00",
+            "message": "Merge pull request #131 from leotorrez/main",
+            "body": "General Fixes for the repo"
+        },
+        {
+            "hash": "4ef536f5792ec7926753de5beaad8497f6cd2e2b",
+            "date": "2025-04-05T23:19:07-03:00",
+            "message": "FIX: Wrongly dumped Dottore Face",
+            "body": ""
+        },
+        {
+            "hash": "c6899bc25d2497d74d08bb1952456d5df269832f",
+            "date": "2025-04-05T23:15:14-03:00",
+            "message": "REMOVE: Chests due to wrongly labeled normal maps",
+            "body": ""
+        },
+        {
+            "hash": "89be7f31217cb44c0ceb0bf4e849ec5d069b4c7d",
+            "date": "2025-04-05T23:12:05-03:00",
+            "message": "FIX: hash.json for PrototyCrescent",
+            "body": ""
+        },
+        {
+            "hash": "547d12a6c24da197b5143797e7ffeb64a0f24b19",
+            "date": "2025-04-05T23:11:49-03:00",
+            "message": "REMOVE: NPC models of already playable characters",
+            "body": ""
+        },
+        {
+            "hash": "e69b575ae2cc04b2b5892d2a0cd922886b248d36",
+            "date": "2025-04-05T23:06:11-03:00",
+            "message": "REMOVE: Unrelated files",
+            "body": ""
+        },
         {
             "hash": "c8ec5778b2d5894d46ac889f7c78d71283025f25",
             "date": "2025-03-25T23:44:20-04:00",

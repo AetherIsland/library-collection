@@ -1,6 +1,6 @@
 {
     "path": "NPCData/ChascaNPC",
-    "seenInHead": true,
+    "seenInHead": false,
     "revisions": [
         {
             "hash": "a951686e60dd07e45a0e11de32edb0defffc9806",

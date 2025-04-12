@@ -1,7 +1,129 @@
 {
     "path": "PlayerCharacterData/Sunday",
-    "seenInHead": false,
+    "seenInHead": true,
     "revisions": [
+        {
+            "hash": "54c3728057d0f7311e5d71d251882e1a72a9aa5f",
+            "content": [
+                {
+                    "component_name": "Hair",
+                    "root_vs": "",
+                    "draw_vb": "aed42577",
+                    "position_vb": "d3bcb943",
+                    "blend_vb": "18bd0d10",
+                    "texcoord_vb": "96ebb5be",
+                    "ib": "0cc8fee1",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "A"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "a2d36c35"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "974148e9"
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "component_name": "Head",
+                    "root_vs": "",
+                    "draw_vb": "891a3809",
+                    "position_vb": "1673f94c",
+                    "blend_vb": "93be6016",
+                    "texcoord_vb": "ea5a9f06",
+                    "ib": "4215c67b",
+                    "object_indexes": [
+                        0,
+                        13512
+                    ],
+                    "object_classifications": [
+                        "A",
+                        "B"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "d01b4ce0"
+                            ]
+                        ],
+                        []
+                    ]
+                },
+                {
+                    "component_name": "Body",
+                    "root_vs": "",
+                    "draw_vb": "10a3d37b",
+                    "position_vb": "379567c3",
+                    "blend_vb": "2a306b59",
+                    "texcoord_vb": "fdceb24a",
+                    "ib": "a7bc114e",
+                    "object_indexes": [
+                        0,
+                        51420,
+                        56409
+                    ],
+                    "object_classifications": [
+                        "A",
+                        "B",
+                        "C"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "5b056989"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "09fdcc99"
+                            ]
+                        ],
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "a4e23eec"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "0ff956df"
+                            ]
+                        ],
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "a4e23eec"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "0ff956df"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "hash": "860b3be53ccbcdf37caccbd46aa0dd7c6efe0da6",
+            "content": null
+        },
         {
             "hash": "bcef22c86c9adfcfe39460901aa2ec6a118b01ad",
             "content": [

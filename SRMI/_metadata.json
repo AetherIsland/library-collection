@@ -1,6 +1,36 @@
 {
-    "head": "d82ca176cb846becd470d6055c5033a8c2689043",
+    "head": "85635205f35c9651f63071700c2b09eb25a7160d",
     "commits": [
+        {
+            "hash": "85635205f35c9651f63071700c2b09eb25a7160d",
+            "date": "2025-04-09T11:14:52-04:00",
+            "message": "Merge pull request #33 from leotorrez/main",
+            "body": "ADD:"
+        },
+        {
+            "hash": "15d83f772597b094fab440e6b63043aa75301e39",
+            "date": "2025-04-09T05:29:51-03:00",
+            "message": "ADD: - CaelusRemembrance - The Herta UPDATE: (for 3.2) - Argenti - Aventurine - Bailu - CaelusDestruction - CaelusHarmony - CaelusPreservation - Fuxuan - Gallagher - Herta - Himeko - Huohuo - Jade - JingYuan - Lingsha - Luocha - Lynx - March7thPreservation - March7thPreservationSpring - Natasha - Qingque - Rappa - Serval",
+            "body": ""
+        },
+        {
+            "hash": "f73ccff66b59dcc457a526e656f8114b9ebe51f7",
+            "date": "2025-04-09T05:21:50-03:00",
+            "message": "ADD: - Fugue UPDATE: (for 3.2) - Acheron - Black Swan - Guinaifen - Jiaoqiu - Kafka - Luka - Pela - Sampo - SilverWolf - Welt",
+            "body": ""
+        },
+        {
+            "hash": "f9add17500eec0e282042157189b3cbfe1fe7a99",
+            "date": "2025-04-09T05:06:19-03:00",
+            "message": "ADD: - Mydei",
+            "body": "UPDATE: (for 3.2)\n- Arlan\n- Blade\n- Clara\n- DanHengIL\n- Firefly\n- Hook\n- Jingliu\n- Misha\n- Xueyi\n- Yunli\n"
+        },
+        {
+            "hash": "54c3728057d0f7311e5d71d251882e1a72a9aa5f",
+            "date": "2025-04-09T04:59:05-03:00",
+            "message": "ADD:  - Aglea  - Castroice  - Tribbie",
+            "body": "UPDATE: (for version 3.2)\n - Asta\n - Boothill\n - Bronya\n - DanHeng\n - DrRatio\n - Feixiao\n - Hanya\n - March7thHunt\n - Moze\n - Robin\n - RuanMei\n - Seele\n - Sparkle\n - Sunday\n - Sushang\n - Tingyun\n - Topaz\n - Yanqing\n - Yukong\n\nDumping by: Satan1c\n\nObservations: Sparkle Idle mask and Feixiao Mark removed during new dumping- Needs to added\n"
+        },
         {
             "hash": "d82ca176cb846becd470d6055c5033a8c2689043",
             "date": "2024-11-03T11:24:58-05:00",
@@ -722,6 +752,10 @@
             "displayName": "PlayerCharacterData/Acheron"
         },
         {
+            "id": "Aglaea-8f1dda6d",
+            "displayName": "PlayerCharacterData/Aglaea"
+        },
+        {
             "id": "Argenti-c538d4a2",
             "displayName": "PlayerCharacterData/Argenti"
         },
@@ -770,6 +804,14 @@
             "displayName": "PlayerCharacterData/CaelusPreservation"
         },
         {
+            "id": "CaelusRemembrance-4a001402",
+            "displayName": "PlayerCharacterData/CaelusRemembrance"
+        },
+        {
+            "id": "Castorice-c3a941a9",
+            "displayName": "PlayerCharacterData/Castorice"
+        },
+        {
             "id": "Clara-a1f86ba6",
             "displayName": "PlayerCharacterData/Clara"
         },
@@ -796,6 +838,10 @@
         {
             "id": "FuXuan-9be07243",
             "displayName": "PlayerCharacterData/FuXuan"
+        },
+        {
+            "id": "Fugue-28fd1204",
+            "displayName": "PlayerCharacterData/Fugue"
         },
         {
             "id": "Gallagher-9f9324ee",
@@ -878,12 +924,24 @@
             "displayName": "PlayerCharacterData/March7thHunt"
         },
         {
+            "id": "March7thPreservation-7f1384d2",
+            "displayName": "PlayerCharacterData/March7thPreservation"
+        },
+        {
+            "id": "March7thPreservationSpring-97ff93c2",
+            "displayName": "PlayerCharacterData/March7thPreservationSpring"
+        },
+        {
             "id": "Misha-3dea4061",
             "displayName": "PlayerCharacterData/Misha"
         },
         {
             "id": "Moze-ca436158",
             "displayName": "PlayerCharacterData/Moze"
+        },
+        {
+            "id": "Mydei-d8bb8d9e",
+            "displayName": "PlayerCharacterData/Mydei"
         },
         {
             "id": "Natasha-22960a02",
@@ -954,6 +1012,10 @@
             "displayName": "PlayerCharacterData/Sushang"
         },
         {
+            "id": "TheHerta-75dd882a",
+            "displayName": "PlayerCharacterData/TheHerta"
+        },
+        {
             "id": "Tingyun-52208e16",
             "displayName": "PlayerCharacterData/Tingyun"
         },
@@ -984,6 +1046,10 @@
         {
             "id": "TrailblazerGirlPreservation-6af2ec3c",
             "displayName": "PlayerCharacterData/TrailblazerGirlPreservation"
+        },
+        {
+            "id": "Tribbie-d1fa4024",
+            "displayName": "PlayerCharacterData/Tribbie"
         },
         {
             "id": "Welt-8c10314a",
