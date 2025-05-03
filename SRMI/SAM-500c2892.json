@@ -1,0 +1,69 @@
+{
+    "path": "PlayerCharacterData/SAM",
+    "seenInHead": true,
+    "revisions": [
+        {
+            "hash": "c9466c2d63a2ce44cc33c97d775eef165b632ddb",
+            "content": [
+                {
+                    "component_name": "Body",
+                    "root_vs": "",
+                    "draw_vb": "33ab0bd9",
+                    "position_vb": "7e2c7aac",
+                    "blend_vb": "cf00dd15",
+                    "texcoord_vb": "baa0c1d5",
+                    "ib": "3cedd48a",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "A"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "e1446be0"
+                            ],
+                            [
+                                "LightMap",
+                                ".dds",
+                                "7b19d686"
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "component_name": "ShoulderEffect",
+                    "root_vs": "",
+                    "draw_vb": "d9a21081",
+                    "position_vb": "f21ba070",
+                    "blend_vb": "bf1f0928",
+                    "texcoord_vb": "d20b2b02",
+                    "ib": "9f97733a",
+                    "object_indexes": [
+                        0
+                    ],
+                    "object_classifications": [
+                        "A"
+                    ],
+                    "texture_hashes": [
+                        [
+                            [
+                                "Diffuse",
+                                ".dds",
+                                "433f032d"
+                            ],
+                            [
+                                "StockingMap",
+                                ".dds",
+                                "7dfe4ca6"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

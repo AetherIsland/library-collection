@@ -1,6 +1,6 @@
 {
     "path": "NonPlayerCharacterData/Tauran",
-    "seenInHead": true,
+    "seenInHead": false,
     "revisions": [
         {
             "hash": "9a64b7d2180c64981034c7b7325297db77987cfd",

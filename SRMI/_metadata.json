@@ -1,6 +1,36 @@
 {
-    "head": "85635205f35c9651f63071700c2b09eb25a7160d",
+    "head": "f37b26365dadfb9cc79c690f9ec43c1e23fea29d",
     "commits": [
+        {
+            "hash": "f37b26365dadfb9cc79c690f9ec43c1e23fea29d",
+            "date": "2025-04-30T14:39:45-04:00",
+            "message": "Merge pull request #34 from Astute4533/main",
+            "body": "3.2"
+        },
+        {
+            "hash": "c9466c2d63a2ce44cc33c97d775eef165b632ddb",
+            "date": "2025-04-16T17:59:15+10:00",
+            "message": "fix sam",
+            "body": ""
+        },
+        {
+            "hash": "8c2168cfc70ceec177193a407554d8db8b2d899e",
+            "date": "2025-04-16T17:53:42+10:00",
+            "message": "Delete PlayerCharacterData/Sam directory",
+            "body": ""
+        },
+        {
+            "hash": "a26b758a98e663b6c3bd678ee044ea021aa5af3f",
+            "date": "2025-04-10T13:15:20+10:00",
+            "message": "3.2 again",
+            "body": "add anaxa, remove old NPC dumps\n"
+        },
+        {
+            "hash": "e1fe932b2cf5d1c392dbff5cf915374616b9d19b",
+            "date": "2025-04-10T03:34:16+10:00",
+            "message": "3.2",
+            "body": "add stelle/SAM and remove march7th/march7th alt (in favor of path naming)\n"
+        },
         {
             "hash": "85635205f35c9651f63071700c2b09eb25a7160d",
             "date": "2025-04-09T11:14:52-04:00",
@@ -756,6 +786,10 @@
             "displayName": "PlayerCharacterData/Aglaea"
         },
         {
+            "id": "Anaxa-6a86510c",
+            "displayName": "PlayerCharacterData/Anaxa"
+        },
+        {
             "id": "Argenti-c538d4a2",
             "displayName": "PlayerCharacterData/Argenti"
         },
@@ -970,6 +1004,10 @@
         {
             "id": "RuanMei-ddfcacd7",
             "displayName": "PlayerCharacterData/RuanMei"
+        },
+        {
+            "id": "SAM-500c2892",
+            "displayName": "PlayerCharacterData/SAM"
         },
         {
             "id": "Sam-547cd1ad",
