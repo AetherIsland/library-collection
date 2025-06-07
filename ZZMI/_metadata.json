@@ -1,6 +1,18 @@
 {
-    "head": "f02fd36ef844844b56310de2f0329e205ff56ca6",
+    "head": "e33bf13618288fe4141fae40a73d699dd0270294",
     "commits": [
+        {
+            "hash": "e33bf13618288fe4141fae40a73d699dd0270294",
+            "date": "2025-06-07T20:02:41+03:00",
+            "message": "2.0, add, Yixuan, Pan Yinhu (#19)",
+            "body": "* ADD: Hugo\n\n* ADD: Vivian\n\n* ADD: Yixuan\n\n* ADD: PanYinhu\n\n* ADD: Yixuan\n\n* ADD: Yixuan"
+        },
+        {
+            "hash": "d48b6dac958d62b90fe467107456185daa7c70bc",
+            "date": "2025-06-06T02:49:51+03:00",
+            "message": "1.7, add, Hugo & Vivian (#17)",
+            "body": "* ADD: Hugo\n\n* ADD: Vivian"
+        },
         {
             "hash": "f02fd36ef844844b56310de2f0329e205ff56ca6",
             "date": "2025-04-03T00:08:41-03:00",
@@ -984,6 +996,10 @@
             "displayName": "PlayerCharacterData/Harumasa"
         },
         {
+            "id": "Hugo-83e78a59",
+            "displayName": "PlayerCharacterData/Hugo"
+        },
+        {
             "id": "Jane-cce84fc",
             "displayName": "PlayerCharacterData/Jane"
         },
@@ -1014,6 +1030,10 @@
         {
             "id": "Nicole-9e09ac06",
             "displayName": "PlayerCharacterData/Nicole"
+        },
+        {
+            "id": "PanYinhu-3aa39ac5",
+            "displayName": "PlayerCharacterData/PanYinhu"
         },
         {
             "id": "Piper-a698cd29",
@@ -1052,12 +1072,20 @@
             "displayName": "PlayerCharacterData/Trigger"
         },
         {
+            "id": "Vivian-f0cc779a",
+            "displayName": "PlayerCharacterData/Vivian"
+        },
+        {
             "id": "Wise-b150ceb5",
             "displayName": "PlayerCharacterData/Wise"
         },
         {
             "id": "Yanagi-817495e9",
             "displayName": "PlayerCharacterData/Yanagi"
+        },
+        {
+            "id": "Yixuan-d0a58990",
+            "displayName": "PlayerCharacterData/Yixuan"
         },
         {
             "id": "ZhuYuan-b22099de",
