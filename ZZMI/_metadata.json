@@ -1,6 +1,12 @@
 {
-    "head": "e33bf13618288fe4141fae40a73d699dd0270294",
+    "head": "f518445840c7557770a4019f0f01dbd5f3fd2f63",
     "commits": [
+        {
+            "hash": "f518445840c7557770a4019f0f01dbd5f3fd2f63",
+            "date": "2025-07-01T19:20:48+03:00",
+            "message": "Add: Ju Fufu (#20)",
+            "body": "* ADD: Ju Fufu"
+        },
         {
             "hash": "e33bf13618288fe4141fae40a73d699dd0270294",
             "date": "2025-06-07T20:02:41+03:00",
@@ -1002,6 +1008,10 @@
         {
             "id": "Jane-cce84fc",
             "displayName": "PlayerCharacterData/Jane"
+        },
+        {
+            "id": "JuFufu-84b8044b",
+            "displayName": "PlayerCharacterData/JuFufu"
         },
         {
             "id": "Koleda-8445b085",
