@@ -1,6 +1,12 @@
 {
-    "head": "162a69be64a920e161e5a28f0afb95720faf7e03",
+    "head": "f2cb0c18054ec250a0d82bd90c97810396c8e794",
     "commits": [
+        {
+            "hash": "f2cb0c18054ec250a0d82bd90c97810396c8e794",
+            "date": "2025-09-08T22:39:31+03:00",
+            "message": "ADD: Seed (#23)",
+            "body": "* ADD: Yuzuha\n\n* UPDATE: Anby\n\n* UPDATE: Anton\n\n* UPDATE: Astra\n\n* UPDATE: Belle\n\n* UPDATE: Ben\n\n* UPDATE: Billy\n\n* UPDATE: Burnice\n\n* UPDATE: Caesar\n\n* UPDATE: Corin\n\n* UPDATE: Evelyn\n\n* UPDATE: Grace\n\n* UPDATE: Harumasa\n\n* UPDATE: Jane\n\n* UPDATE: Koleda\n\n* UPDATE: Lighter\n\n* UPDATE: Lucy\n\n* UPDATE: Lycaon\n\n* UPDATE: Miyabi\n\n* UPDATE: Nekomata\n\n* UPDATE: Nicole\n\n* UPDATE: PanYinhu\n\n* UPDATE: Piper\n\n* UPDATE: Qingyi\n\n* UPDATE: Rina\n\n* UPDATE: Seth\n\n* UPDATE: Soldier0\n\n* UPDATE: Soldier11\n\n* UPDATE: Soukaku\n\n* UPDATE: Trigger\n\n* UPDATE: Wise\n\n* UPDATE: Yanagi\n\n* UPDATE: Yixuan\n\n* UPDATE: ZhuYuan\n\n* FIX: Anby\n\n* FIX: Anton\n\n* FIX: Astra\n\n* FIX: Belle\n\n* FIX: Ben\n\n* FIX: Billy\n\n* FIX: Burnice\n\n* FIX: Caesar\n\n* FIX: Corin\n\n* FIX: Ellen\n\n* FIX: Evelyn\n\n* FIX: Grace\n\n* FIX: Harumasa\n\n* FIX: Hugo\n\n* FIX: Jane\n\n* FIX: Ju Fufu\n\n* FIX: Koleda\n\n* FIX: Lighter\n\n* FIX: Lucy\n\n* FIX: Lycaon\n\n* FIX: Miyabi\n\n* FIX: Nekomata\n\n* FIX: Nicole\n\n* FIX: Pan Yinhu\n\n* FIX: Piper\n\n* FIX: Qingyi\n\n* FIX: Rina\n\n* FIX: Seth\n\n* FIX: Soldier 0\n\n* FIX: Soldier 11\n\n* FIX: Soukaku\n\n* FIX: Trigger\n\n* FIX: Vivian\n\n* FIX: Wise\n\n* FIX: Yanagi\n\n* FIX: Yixuan\n\n* FIX: Yuzuha\n\n* FIX: Zhu Yuan\n\n* 1tab -> 4space\n\n* ADD: Alice\n\n* ADD: Seed"
+        },
         {
             "hash": "162a69be64a920e161e5a28f0afb95720faf7e03",
             "date": "2025-08-09T22:47:37+01:00",
@@ -1076,6 +1082,10 @@
         {
             "id": "Rina-e5b43891",
             "displayName": "PlayerCharacterData/Rina"
+        },
+        {
+            "id": "Seed-cf351e6f",
+            "displayName": "PlayerCharacterData/Seed"
         },
         {
             "id": "Seth-6dcfeb01",
