@@ -1,6 +1,18 @@
 {
-    "head": "f2cb0c18054ec250a0d82bd90c97810396c8e794",
+    "head": "15ad47dc293194a46e55961ccfd56efdd309fc4f",
     "commits": [
+        {
+            "hash": "15ad47dc293194a46e55961ccfd56efdd309fc4f",
+            "date": "2025-10-02T02:37:11-03:00",
+            "message": "Merge pull request #24 from Satan1c/main",
+            "body": "ADD: Orphie & Magus"
+        },
+        {
+            "hash": "166f2d77e6d4cece6c2f93def0c9b4de326e24fb",
+            "date": "2025-10-02T08:19:57+03:00",
+            "message": "ADD: Orphie & Magus",
+            "body": ""
+        },
         {
             "hash": "f2cb0c18054ec250a0d82bd90c97810396c8e794",
             "date": "2025-09-08T22:39:31+03:00",
@@ -1062,6 +1074,10 @@
         {
             "id": "Nicole-9e09ac06",
             "displayName": "PlayerCharacterData/Nicole"
+        },
+        {
+            "id": "Orphie-b9fabc78",
+            "displayName": "PlayerCharacterData/Orphie"
         },
         {
             "id": "PanYinhu-3aa39ac5",
