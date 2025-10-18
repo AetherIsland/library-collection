@@ -1,6 +1,24 @@
 {
-    "head": "15ad47dc293194a46e55961ccfd56efdd309fc4f",
+    "head": "8cd42296a207e713c53119ab83bf944c127a039f",
     "commits": [
+        {
+            "hash": "8cd42296a207e713c53119ab83bf944c127a039f",
+            "date": "2025-10-15T15:15:44-03:00",
+            "message": "Adds Manato and Lucia",
+            "body": "ADD: Lucia & Manato"
+        },
+        {
+            "hash": "367297bda815a44966e4ae95fe1f710e0f171912",
+            "date": "2025-10-15T21:12:19+03:00",
+            "message": "ADD: Manato",
+            "body": ""
+        },
+        {
+            "hash": "7e30cb646d969585cfeba1eb7dde1fd7cac2a4c4",
+            "date": "2025-10-15T06:05:17+03:00",
+            "message": "ADD: Lucia",
+            "body": ""
+        },
         {
             "hash": "15ad47dc293194a46e55961ccfd56efdd309fc4f",
             "date": "2025-10-02T02:37:11-03:00",
@@ -1056,12 +1074,20 @@
             "displayName": "PlayerCharacterData/Lighter"
         },
         {
+            "id": "Lucia-709d084",
+            "displayName": "PlayerCharacterData/Lucia"
+        },
+        {
             "id": "Lucy-a41c7b79",
             "displayName": "PlayerCharacterData/Lucy"
         },
         {
             "id": "Lycaon-9905065",
             "displayName": "PlayerCharacterData/Lycaon"
+        },
+        {
+            "id": "Manato-2141683e",
+            "displayName": "PlayerCharacterData/Manato"
         },
         {
             "id": "Miyabi-248d6a47",
