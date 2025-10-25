@@ -1,6 +1,72 @@
 {
-    "head": "889d6c797ddc074e0ec5c9e8e4511b3552aaa4df",
+    "head": "635b1ab2fa6b3b65c7374a1e01648863882466ee",
     "commits": [
+        {
+            "hash": "635b1ab2fa6b3b65c7374a1e01648863882466ee",
+            "date": "2025-10-23T22:13:04-04:00",
+            "message": "Merge pull request #143 from leotorrez/main",
+            "body": "ADD: Qiqi. Readding her"
+        },
+        {
+            "hash": "d1b741dfdcd7e8fcc9d9ad5b2b7f937b88a98b9c",
+            "date": "2025-10-23T23:11:22-03:00",
+            "message": "ADD: Qiqi. Readding her",
+            "body": ""
+        },
+        {
+            "hash": "aa95bbdcb7144d815d47c9367b2101b0bdad0e0d",
+            "date": "2025-10-23T20:05:46-04:00",
+            "message": "Merge pull request #139 from leotorrez/main",
+            "body": "ADD missing 5.0+ Characters"
+        },
+        {
+            "hash": "b4059b35755316863b4ba315727db8e7ea2ea07e",
+            "date": "2025-10-23T21:00:27-03:00",
+            "message": "FIX: Adds Ifa NightSoul map",
+            "body": ""
+        },
+        {
+            "hash": "f1558d73325102203a042f007a23aa17310e4a46",
+            "date": "2025-10-23T20:50:01-03:00",
+            "message": "ADD:Nefer, Aino, Ifa, Flins, Lauma",
+            "body": ""
+        },
+        {
+            "hash": "3cda6a0ddecd5ab7308681780477923e79d23b79",
+            "date": "2025-09-05T12:13:36-03:00",
+            "message": "ADD: Ineffa",
+            "body": ""
+        },
+        {
+            "hash": "5bde1e38fb8cd91a709973edcb11a84d6ee87e2a",
+            "date": "2025-06-20T02:57:41-03:00",
+            "message": "Merge remote-tracking branch 'refs/remotes/origin/main'",
+            "body": ""
+        },
+        {
+            "hash": "40d744120b835297d5144e355c287e933d59825e",
+            "date": "2025-06-20T02:49:18-03:00",
+            "message": "ADD: Escoffier, Dahlia, Skirk",
+            "body": ""
+        },
+        {
+            "hash": "2267f6fee7cf67ff1ff887380e18998836ebd85a",
+            "date": "2025-06-20T01:55:11-03:00",
+            "message": "Merge branch 'SilentNightSound:main' into main",
+            "body": ""
+        },
+        {
+            "hash": "6c86e8b39fb112c6809c3dc7cc0b844291765b2a",
+            "date": "2025-04-28T10:48:46-03:00",
+            "message": "ADD: Kinich and Ororon AGAIN",
+            "body": ""
+        },
+        {
+            "hash": "add1b9a3abe7441ed955486dc29de599e5ea8851",
+            "date": "2025-04-05T23:39:58-03:00",
+            "message": "ADD: Mavuika's Bike",
+            "body": ""
+        },
         {
             "hash": "889d6c797ddc074e0ec5c9e8e4511b3552aaa4df",
             "date": "2025-04-05T22:26:19-04:00",
@@ -2926,6 +2992,10 @@
             "displayName": "NPCData/WolfyCouch"
         },
         {
+            "id": "Aino-ac090d8a",
+            "displayName": "PlayerCharacterData/Aino"
+        },
+        {
             "id": "Albedo-8dedae6b",
             "displayName": "PlayerCharacterData/Albedo"
         },
@@ -3038,6 +3108,10 @@
             "displayName": "PlayerCharacterData/Cyno"
         },
         {
+            "id": "Dahlia-16ac42a",
+            "displayName": "PlayerCharacterData/Dahlia"
+        },
+        {
             "id": "Dehya-9e49c83d",
             "displayName": "PlayerCharacterData/Dehya"
         },
@@ -3062,6 +3136,10 @@
             "displayName": "PlayerCharacterData/Emilie"
         },
         {
+            "id": "Escoffier-feb26208",
+            "displayName": "PlayerCharacterData/Escoffier"
+        },
+        {
             "id": "Eula-4a14635c",
             "displayName": "PlayerCharacterData/Eula"
         },
@@ -3076,6 +3154,10 @@
         {
             "id": "FischlHighness-b271da",
             "displayName": "PlayerCharacterData/FischlHighness"
+        },
+        {
+            "id": "Flins-6d25335b",
+            "displayName": "PlayerCharacterData/Flins"
         },
         {
             "id": "Freminet-f54a1902",
@@ -3116,6 +3198,14 @@
         {
             "id": "Iansan-d03b3739",
             "displayName": "PlayerCharacterData/Iansan"
+        },
+        {
+            "id": "Ifa-9dbe36a5",
+            "displayName": "PlayerCharacterData/Ifa"
+        },
+        {
+            "id": "Ineffa-8f248e38",
+            "displayName": "PlayerCharacterData/Ineffa"
         },
         {
             "id": "Itto-966066ad",
@@ -3178,6 +3268,10 @@
             "displayName": "PlayerCharacterData/KeqingOpulent"
         },
         {
+            "id": "Kinich-92f2a3d1",
+            "displayName": "PlayerCharacterData/Kinich"
+        },
+        {
             "id": "Kirara-7c947bea",
             "displayName": "PlayerCharacterData/Kirara"
         },
@@ -3204,6 +3298,10 @@
         {
             "id": "KukiShinobu-dfd4d316",
             "displayName": "PlayerCharacterData/KukiShinobu"
+        },
+        {
+            "id": "Lauma-96f13b8a",
+            "displayName": "PlayerCharacterData/Lauma"
         },
         {
             "id": "Layla-be1a6b37",
@@ -3270,6 +3368,10 @@
             "displayName": "PlayerCharacterData/Navia"
         },
         {
+            "id": "Nefer-9bc3bfab",
+            "displayName": "PlayerCharacterData/Nefer"
+        },
+        {
             "id": "Neuvillette-c57de36f",
             "displayName": "PlayerCharacterData/Neuvillette"
         },
@@ -3292,6 +3394,10 @@
         {
             "id": "Noelle-1372938f",
             "displayName": "PlayerCharacterData/Noelle"
+        },
+        {
+            "id": "Ororon-c3f6c80d",
+            "displayName": "PlayerCharacterData/Ororon"
         },
         {
             "id": "Qiqi-280c106c",
@@ -3352,6 +3458,10 @@
         {
             "id": "Sigewinne-bfd75241",
             "displayName": "PlayerCharacterData/Sigewinne"
+        },
+        {
+            "id": "Skirk-e1d1b6d4",
+            "displayName": "PlayerCharacterData/Skirk"
         },
         {
             "id": "Sucrose-6fed80bd",
@@ -3596,6 +3706,10 @@
         {
             "id": "LyneyHat-b9b71464",
             "displayName": "SkillData/LyneyHat"
+        },
+        {
+            "id": "MavuikasBike-eaf1907a",
+            "displayName": "SkillData/MavuikasBike"
         },
         {
             "id": "MoraxLapidis-6d0bfc7",
