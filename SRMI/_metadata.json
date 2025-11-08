@@ -1,6 +1,42 @@
 {
-    "head": "50e4d1e8ff58dfe25cf9ca0c94ce28896df2ffab",
+    "head": "533e34706e0493d7f93a5449248841e2e554342a",
     "commits": [
+        {
+            "hash": "533e34706e0493d7f93a5449248841e2e554342a",
+            "date": "2025-11-04T21:33:16-05:00",
+            "message": "Merge pull request #40 from Astute4533/main",
+            "body": "Cerydra+Hysilens + fix hook dump"
+        },
+        {
+            "hash": "bcda76557ddcf86db2c8b7f72f5f5da3a4d1a0a7",
+            "date": "2025-11-05T13:30:00+11:00",
+            "message": "Cyrene 3,7",
+            "body": ""
+        },
+        {
+            "hash": "60b23f4cd31f8fda10da54a2d312ae420744bdf7",
+            "date": "2025-09-24T15:34:58+10:00",
+            "message": "3.6 p2",
+            "body": "danny\n"
+        },
+        {
+            "hash": "7341f57e53325f9dc2dcc3982e158b0fe4fd22bd",
+            "date": "2025-09-24T13:51:44+10:00",
+            "message": "3.6 part1",
+            "body": "add evernight & evey (evernight memosprite)\ndan heng later because i have to do story first\n"
+        },
+        {
+            "hash": "a14281d0731122f21d3103d74d5637d72b804a44",
+            "date": "2025-08-13T12:54:00+10:00",
+            "message": "3.5",
+            "body": "add cerydra/hysilens\n"
+        },
+        {
+            "hash": "d6ae75efbe0bf5ddb8b25bde0d2157debe332b5f",
+            "date": "2025-07-13T01:12:11+10:00",
+            "message": "Fix hook",
+            "body": "previous dump had dupe textures + no hair\n"
+        },
         {
             "hash": "50e4d1e8ff58dfe25cf9ca0c94ce28896df2ffab",
             "date": "2025-07-11T01:12:23-04:00",
@@ -898,12 +934,20 @@
             "displayName": "PlayerCharacterData/Castorice"
         },
         {
+            "id": "Cerydra-8011b181",
+            "displayName": "PlayerCharacterData/Cerydra"
+        },
+        {
             "id": "Cipher-d8a182a9",
             "displayName": "PlayerCharacterData/Cipher"
         },
         {
             "id": "Clara-a1f86ba6",
             "displayName": "PlayerCharacterData/Clara"
+        },
+        {
+            "id": "Cyrene-db50ed06",
+            "displayName": "PlayerCharacterData/Cyrene"
         },
         {
             "id": "DanHeng-8f881d21",
@@ -914,8 +958,16 @@
             "displayName": "PlayerCharacterData/DanHengIL"
         },
         {
+            "id": "DanHengPT-4b012386",
+            "displayName": "PlayerCharacterData/DanHengPT"
+        },
+        {
             "id": "DrRatio-5ecfd58b",
             "displayName": "PlayerCharacterData/DrRatio"
+        },
+        {
+            "id": "Evernight-7f2e7459",
+            "displayName": "PlayerCharacterData/Evernight"
         },
         {
             "id": "Feixiao-592381ec",
@@ -972,6 +1024,10 @@
         {
             "id": "Hyacine-22c0cbf3",
             "displayName": "PlayerCharacterData/Hyacine"
+        },
+        {
+            "id": "Hysilens-a091a398",
+            "displayName": "PlayerCharacterData/Hysilens"
         },
         {
             "id": "Jade-ce3586e6",
@@ -1184,6 +1240,10 @@
         {
             "id": "Yunli-aace74d1",
             "displayName": "PlayerCharacterData/Yunli"
+        },
+        {
+            "id": "Evey-2f235d47",
+            "displayName": "SkillObjData/Evey"
         },
         {
             "id": "Garmentmaker-cc0544be",
