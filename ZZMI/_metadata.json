@@ -1,6 +1,30 @@
 {
-    "head": "8cd42296a207e713c53119ab83bf944c127a039f",
+    "head": "b3a9a3029314fe2a79d65a9449dafaa9ae63f8be",
     "commits": [
+        {
+            "hash": "b3a9a3029314fe2a79d65a9449dafaa9ae63f8be",
+            "date": "2025-11-29T17:36:40-03:00",
+            "message": "Merge pull request #26 from Satan1c/main",
+            "body": "2.4 FIX: Yanagi; ADD: Yidhari, Dialyn"
+        },
+        {
+            "hash": "466b8afd8c43032539523a3b984fbfed551f781b",
+            "date": "2025-11-26T05:06:10+02:00",
+            "message": "ADD: Dialyn",
+            "body": ""
+        },
+        {
+            "hash": "cb447a53a652d8257d86d9ad59882df6998f7b57",
+            "date": "2025-11-26T05:05:53+02:00",
+            "message": "ADD: Yidhari",
+            "body": ""
+        },
+        {
+            "hash": "6f30096bb0f342958a0fc9dbeccf9144d26f5ca6",
+            "date": "2025-11-26T05:05:39+02:00",
+            "message": "2.4 FIX: Yanagi",
+            "body": ""
+        },
         {
             "hash": "8cd42296a207e713c53119ab83bf944c127a039f",
             "date": "2025-10-15T15:15:44-03:00",
@@ -1038,6 +1062,10 @@
             "displayName": "PlayerCharacterData/Corin"
         },
         {
+            "id": "Dialyn-68f161d0",
+            "displayName": "PlayerCharacterData/Dialyn"
+        },
+        {
             "id": "Ellen-1c1ca9d4",
             "displayName": "PlayerCharacterData/Ellen"
         },
@@ -1160,6 +1188,10 @@
         {
             "id": "Yanagi-817495e9",
             "displayName": "PlayerCharacterData/Yanagi"
+        },
+        {
+            "id": "Yidhari-3be6366b",
+            "displayName": "PlayerCharacterData/Yidhari"
         },
         {
             "id": "Yixuan-d0a58990",
