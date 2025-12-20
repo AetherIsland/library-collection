@@ -1,6 +1,18 @@
 {
-    "head": "635b1ab2fa6b3b65c7374a1e01648863882466ee",
+    "head": "86ec6f46199e237cb8a12fcce240eb91a8b0dc34",
     "commits": [
+        {
+            "hash": "86ec6f46199e237cb8a12fcce240eb91a8b0dc34",
+            "date": "2025-12-17T07:12:04-05:00",
+            "message": "Merge pull request #146 from leotorrez/main",
+            "body": "New 6.2 Characters"
+        },
+        {
+            "hash": "d7095be368be886304856275950d8f3621fd26d3",
+            "date": "2025-12-16T22:59:50-03:00",
+            "message": "ADD: Jahoda & Durin",
+            "body": ""
+        },
         {
             "hash": "635b1ab2fa6b3b65c7374a1e01648863882466ee",
             "date": "2025-10-23T22:13:04-04:00",
@@ -3132,6 +3144,10 @@
             "displayName": "PlayerCharacterData/Dori"
         },
         {
+            "id": "Durin-72aa296c",
+            "displayName": "PlayerCharacterData/Durin"
+        },
+        {
             "id": "Emilie-21fac2b0",
             "displayName": "PlayerCharacterData/Emilie"
         },
@@ -3210,6 +3226,10 @@
         {
             "id": "Itto-966066ad",
             "displayName": "PlayerCharacterData/Itto"
+        },
+        {
+            "id": "Jahoda-6f42b1e9",
+            "displayName": "PlayerCharacterData/Jahoda"
         },
         {
             "id": "Jean-14edd57f",

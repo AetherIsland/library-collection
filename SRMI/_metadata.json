@@ -1,6 +1,24 @@
 {
-    "head": "533e34706e0493d7f93a5449248841e2e554342a",
+    "head": "eff6cdf613cb3b07cc241ca3f287abe3b1496b71",
     "commits": [
+        {
+            "hash": "eff6cdf613cb3b07cc241ca3f287abe3b1496b71",
+            "date": "2025-12-17T07:12:11-05:00",
+            "message": "Merge pull request #41 from Astute4533/main",
+            "body": "3.8"
+        },
+        {
+            "hash": "865d4b8b5b5e3e6315cbe79d69ff8cd0aa49bdc4",
+            "date": "2025-12-17T13:10:34+11:00",
+            "message": "3.8",
+            "body": ""
+        },
+        {
+            "hash": "08e7c6772351c1b5e192033c5785061227c90013",
+            "date": "2025-12-01T18:20:32+11:00",
+            "message": "stelle fix",
+            "body": ""
+        },
         {
             "hash": "533e34706e0493d7f93a5449248841e2e554342a",
             "date": "2025-11-04T21:33:16-05:00",
@@ -1180,6 +1198,10 @@
         {
             "id": "Sushang-7c3f109a",
             "displayName": "PlayerCharacterData/Sushang"
+        },
+        {
+            "id": "TheDahlia-bf8a6d47",
+            "displayName": "PlayerCharacterData/TheDahlia"
         },
         {
             "id": "TheHerta-75dd882a",
