@@ -1,6 +1,36 @@
 {
-    "head": "b3a9a3029314fe2a79d65a9449dafaa9ae63f8be",
+    "head": "38fae277d859bfda46e1de967c97ae5ef73e43b1",
     "commits": [
+        {
+            "hash": "38fae277d859bfda46e1de967c97ae5ef73e43b1",
+            "date": "2025-12-21T23:23:27-03:00",
+            "message": "Merge pull request #27 from Satan1c/main",
+            "body": "@Satan1c\nFIX: LuciaCapeAccessory -> LuciaCapeExtra\n014403b\n@Satan1c\nADD: Summer skins Alice, Vivian, Yuzuha\n861d762\n@Satan1c\nADD: Skins Astra, Ellen, Manato, Nicole, Yixuan\nf46047f\n@Satan1c\nADD: Banyue"
+        },
+        {
+            "hash": "2ef66191334a992111d8180a658e3cc62c089994",
+            "date": "2025-12-19T23:36:13+02:00",
+            "message": "ADD: Banyue",
+            "body": ""
+        },
+        {
+            "hash": "f46047f0098b226b2594cb05e8f536fb73377d68",
+            "date": "2025-12-19T23:35:58+02:00",
+            "message": "ADD: Skins Astra, Ellen, Manato, Nicole, Yixuan",
+            "body": ""
+        },
+        {
+            "hash": "861d7626770e8683a011a4b5a65f56cf85c9744f",
+            "date": "2025-12-19T23:34:16+02:00",
+            "message": "ADD: Summer skins Alice, Vivian, Yuzuha",
+            "body": ""
+        },
+        {
+            "hash": "014403babf713e63e4ea815b79c8fce8156dfbbb",
+            "date": "2025-12-19T23:33:23+02:00",
+            "message": "FIX: LuciaCapeAccessory -> LuciaCapeExtra",
+            "body": ""
+        },
         {
             "hash": "b3a9a3029314fe2a79d65a9449dafaa9ae63f8be",
             "date": "2025-11-29T17:36:40-03:00",
@@ -1026,6 +1056,10 @@
             "displayName": "PlayerCharacterData/Alice"
         },
         {
+            "id": "AliceSummer-2fec9561",
+            "displayName": "PlayerCharacterData/AliceSummer"
+        },
+        {
             "id": "Anby-fe2ffa9c",
             "displayName": "PlayerCharacterData/Anby"
         },
@@ -1036,6 +1070,14 @@
         {
             "id": "Astra-ec83fdb4",
             "displayName": "PlayerCharacterData/Astra"
+        },
+        {
+            "id": "AstraChandelier-ec556a78",
+            "displayName": "PlayerCharacterData/AstraChandelier"
+        },
+        {
+            "id": "Banyue-d060a374",
+            "displayName": "PlayerCharacterData/Banyue"
         },
         {
             "id": "Belle-2ae7dbca",
@@ -1068,6 +1110,10 @@
         {
             "id": "Ellen-1c1ca9d4",
             "displayName": "PlayerCharacterData/Ellen"
+        },
+        {
+            "id": "EllenCampus-37dcadb0",
+            "displayName": "PlayerCharacterData/EllenCampus"
         },
         {
             "id": "Evelyn-f4007dd0",
@@ -1118,6 +1164,10 @@
             "displayName": "PlayerCharacterData/Manato"
         },
         {
+            "id": "ManatoWhite-40b5d295",
+            "displayName": "PlayerCharacterData/ManatoWhite"
+        },
+        {
             "id": "Miyabi-248d6a47",
             "displayName": "PlayerCharacterData/Miyabi"
         },
@@ -1128,6 +1178,10 @@
         {
             "id": "Nicole-9e09ac06",
             "displayName": "PlayerCharacterData/Nicole"
+        },
+        {
+            "id": "NicoleCutie-6cc4345",
+            "displayName": "PlayerCharacterData/NicoleCutie"
         },
         {
             "id": "Orphie-b9fabc78",
@@ -1182,6 +1236,10 @@
             "displayName": "PlayerCharacterData/Vivian"
         },
         {
+            "id": "VivianSummer-1094a05e",
+            "displayName": "PlayerCharacterData/VivianSummer"
+        },
+        {
             "id": "Wise-b150ceb5",
             "displayName": "PlayerCharacterData/Wise"
         },
@@ -1198,8 +1256,16 @@
             "displayName": "PlayerCharacterData/Yixuan"
         },
         {
+            "id": "YixuanTrailsOfInk-6f1e5886",
+            "displayName": "PlayerCharacterData/YixuanTrailsOfInk"
+        },
+        {
             "id": "Yuzuha-9659b090",
             "displayName": "PlayerCharacterData/Yuzuha"
+        },
+        {
+            "id": "YuzuhaSummer-c52d81f",
+            "displayName": "PlayerCharacterData/YuzuhaSummer"
         },
         {
             "id": "ZhuYuan-b22099de",
