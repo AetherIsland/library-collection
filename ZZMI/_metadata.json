@@ -1,6 +1,18 @@
 {
-    "head": "38fae277d859bfda46e1de967c97ae5ef73e43b1",
+    "head": "b39a46425a914fb34f41f3d30a624b2752eea792",
     "commits": [
+        {
+            "hash": "b39a46425a914fb34f41f3d30a624b2752eea792",
+            "date": "2025-12-30T08:30:10-03:00",
+            "message": "Merge pull request #28 from Satan1c/main",
+            "body": "UPD: Dialyn 2.5"
+        },
+        {
+            "hash": "c1f2122008d35a926a328854d57d5ef829c9668f",
+            "date": "2025-12-30T04:24:53+02:00",
+            "message": "UPD: Dialyn 2.5",
+            "body": ""
+        },
         {
             "hash": "38fae277d859bfda46e1de967c97ae5ef73e43b1",
             "date": "2025-12-21T23:23:27-03:00",
