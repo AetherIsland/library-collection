@@ -1,6 +1,132 @@
 {
-    "head": "b39a46425a914fb34f41f3d30a624b2752eea792",
+    "head": "b9c84f2c3f0cf1cd2ee9355c0cc1638025005f4f",
     "commits": [
+        {
+            "hash": "b9c84f2c3f0cf1cd2ee9355c0cc1638025005f4f",
+            "date": "2026-03-25T16:47:48-03:00",
+            "message": "Merge pull request #30 from Satan1c/main",
+            "body": "ADD: Rokudo and her Skin"
+        },
+        {
+            "hash": "56e7d3b236129cc460c7381970f701be4dde50ce",
+            "date": "2026-03-25T17:48:08+02:00",
+            "message": "ADD: Rokudo Skin",
+            "body": ""
+        },
+        {
+            "hash": "d6168c6489ef15c0cb3e119a25983e97e7a2d058",
+            "date": "2026-03-25T17:47:58+02:00",
+            "message": "ADD: Rokudo",
+            "body": ""
+        },
+        {
+            "hash": "9c290561df4b5c9546304ca22f259e9603d54a4c",
+            "date": "2026-03-19T18:19:32-03:00",
+            "message": "Merge pull request #29 from Satan1c/main",
+            "body": "missed characters"
+        },
+        {
+            "hash": "4f5ecad2c0c439ff44509d43b1942cf51b58eef3",
+            "date": "2026-03-19T21:27:10+02:00",
+            "message": "ADD: Sunna skin",
+            "body": ""
+        },
+        {
+            "hash": "651f8e0ab615f1465ef2ec63af1986dd13bc4360",
+            "date": "2026-03-19T21:26:58+02:00",
+            "message": "ADD: Sunna",
+            "body": ""
+        },
+        {
+            "hash": "f43cda66f67eaca691290c481f6087383a73d14e",
+            "date": "2026-03-19T21:26:50+02:00",
+            "message": "Aria robot skin",
+            "body": ""
+        },
+        {
+            "hash": "7553d3ef87b531b7a87759b35351663bc42e520b",
+            "date": "2026-03-19T21:26:32+02:00",
+            "message": "ADD: Aria robot",
+            "body": ""
+        },
+        {
+            "hash": "e169d26e4b274771a9e65ba801bc9402d40e8d13",
+            "date": "2026-03-19T21:26:21+02:00",
+            "message": "ADD: Aria skin",
+            "body": ""
+        },
+        {
+            "hash": "f3697197a4b899ab1bbdc9ef2d0f6c52efd6b0aa",
+            "date": "2026-03-19T21:26:09+02:00",
+            "message": "ADD: Aria",
+            "body": ""
+        },
+        {
+            "hash": "f447dae3c0591ed8b652a271774517b4dd6dd08f",
+            "date": "2026-01-06T23:53:03+02:00",
+            "message": "Merge branch 'main' of https://github.com/Satan1c/ZZ-Model-Importer-Assets",
+            "body": ""
+        },
+        {
+            "hash": "dcbf9190dc2e0321d44e1f5f14e7efc54eb5caff",
+            "date": "2026-01-06T23:52:44+02:00",
+            "message": "YeShunguang missed braids",
+            "body": ""
+        },
+        {
+            "hash": "1f5bc7129c3dfbd4af6427132c9d82736417b1f9",
+            "date": "2025-12-30T22:17:39+02:00",
+            "message": "Merge branch 'leotorrez:main' into main",
+            "body": ""
+        },
+        {
+            "hash": "159fdc08f5158fb3687e5025ca5c7815757b0bd5",
+            "date": "2025-12-30T22:11:13+02:00",
+            "message": "wise skin name correction",
+            "body": ""
+        },
+        {
+            "hash": "49634db926fb166eceb3d404056d2e4cae1afdd4",
+            "date": "2025-12-30T22:05:35+02:00",
+            "message": "ADD: Zhao",
+            "body": ""
+        },
+        {
+            "hash": "eabe49fc54a5fd986897888ac361cfdeb6e7a706",
+            "date": "2025-12-30T22:05:27+02:00",
+            "message": "ADD: Ye Shunguang Dawnlight",
+            "body": ""
+        },
+        {
+            "hash": "2211dc2caad90a10e8a95951c80d070a89b17504",
+            "date": "2025-12-30T22:05:16+02:00",
+            "message": "ADD: Ye Shunguang",
+            "body": ""
+        },
+        {
+            "hash": "8a0ea6c5765da52f32549c01bc19d0d3b5d7df51",
+            "date": "2025-12-30T22:05:01+02:00",
+            "message": "ADD: Jane Summer",
+            "body": ""
+        },
+        {
+            "hash": "68ece80361bd1e9fed7413aa5258f61cde5eb9a9",
+            "date": "2025-12-30T22:04:44+02:00",
+            "message": "ADD: Wise Delicate Sunlight",
+            "body": ""
+        },
+        {
+            "hash": "d8077dbb6ed134c78535c0e3f60dedde9789ff28",
+            "date": "2025-12-30T22:04:38+02:00",
+            "message": "ADD: Belle Delicate Sunlight",
+            "body": ""
+        },
+        {
+            "hash": "34d21226fc77f03bd68aa12c3cde2afd22e326f0",
+            "date": "2025-12-30T22:04:11+02:00",
+            "message": "UPD: Jane 2.5",
+            "body": ""
+        },
         {
             "hash": "b39a46425a914fb34f41f3d30a624b2752eea792",
             "date": "2025-12-30T08:30:10-03:00",
@@ -1080,6 +1206,22 @@
             "displayName": "PlayerCharacterData/Anton"
         },
         {
+            "id": "Aria-4efe0494",
+            "displayName": "PlayerCharacterData/Aria"
+        },
+        {
+            "id": "AriaDiscordant-3e3abcd8",
+            "displayName": "PlayerCharacterData/AriaDiscordant"
+        },
+        {
+            "id": "AriaRobot-3885cdb",
+            "displayName": "PlayerCharacterData/AriaRobot"
+        },
+        {
+            "id": "AriaRobotDiscordant-12d4baac",
+            "displayName": "PlayerCharacterData/AriaRobotDiscordant"
+        },
+        {
             "id": "Astra-ec83fdb4",
             "displayName": "PlayerCharacterData/Astra"
         },
@@ -1094,6 +1236,10 @@
         {
             "id": "Belle-2ae7dbca",
             "displayName": "PlayerCharacterData/Belle"
+        },
+        {
+            "id": "BelleSunlight-d5a559b3",
+            "displayName": "PlayerCharacterData/BelleSunlight"
         },
         {
             "id": "Ben-a58ec36f",
@@ -1148,6 +1294,10 @@
             "displayName": "PlayerCharacterData/Jane"
         },
         {
+            "id": "JaneSummer-7502a2cf",
+            "displayName": "PlayerCharacterData/JaneSummer"
+        },
+        {
             "id": "JuFufu-84b8044b",
             "displayName": "PlayerCharacterData/JuFufu"
         },
@@ -1182,6 +1332,14 @@
         {
             "id": "Miyabi-248d6a47",
             "displayName": "PlayerCharacterData/Miyabi"
+        },
+        {
+            "id": "NangongYu-28d66cd5",
+            "displayName": "PlayerCharacterData/NangongYu"
+        },
+        {
+            "id": "NangongYuRapsody-e2a230b8",
+            "displayName": "PlayerCharacterData/NangongYuRapsody"
         },
         {
             "id": "Nekomata-a04d13d7",
@@ -1240,6 +1398,14 @@
             "displayName": "PlayerCharacterData/Soukaku"
         },
         {
+            "id": "Sunna-480563f7",
+            "displayName": "PlayerCharacterData/Sunna"
+        },
+        {
+            "id": "SunnaMaid-d631451c",
+            "displayName": "PlayerCharacterData/SunnaMaid"
+        },
+        {
             "id": "Trigger-cc22d663",
             "displayName": "PlayerCharacterData/Trigger"
         },
@@ -1256,8 +1422,24 @@
             "displayName": "PlayerCharacterData/Wise"
         },
         {
+            "id": "WiseCrane-8802a424",
+            "displayName": "PlayerCharacterData/WiseCrane"
+        },
+        {
+            "id": "WiseSunlight-866229cb",
+            "displayName": "PlayerCharacterData/WiseSunlight"
+        },
+        {
             "id": "Yanagi-817495e9",
             "displayName": "PlayerCharacterData/Yanagi"
+        },
+        {
+            "id": "YeShunguang-154a0199",
+            "displayName": "PlayerCharacterData/YeShunguang"
+        },
+        {
+            "id": "YeShunguangDawnlight-eea5861",
+            "displayName": "PlayerCharacterData/YeShunguangDawnlight"
         },
         {
             "id": "Yidhari-3be6366b",
@@ -1278,6 +1460,10 @@
         {
             "id": "YuzuhaSummer-c52d81f",
             "displayName": "PlayerCharacterData/YuzuhaSummer"
+        },
+        {
+            "id": "Zhao-3c948b63",
+            "displayName": "PlayerCharacterData/Zhao"
         },
         {
             "id": "ZhuYuan-b22099de",
