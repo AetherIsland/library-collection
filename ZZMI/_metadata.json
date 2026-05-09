@@ -1,6 +1,48 @@
 {
-    "head": "b9c84f2c3f0cf1cd2ee9355c0cc1638025005f4f",
+    "head": "061fb1dc08dcca3ed6b1494647ce98b84cf1dcd0",
     "commits": [
+        {
+            "hash": "061fb1dc08dcca3ed6b1494647ce98b84cf1dcd0",
+            "date": "2026-05-07T21:40:17-03:00",
+            "message": "Merge pull request #32 from Satan1c/main",
+            "body": "2.7-2.8 updates"
+        },
+        {
+            "hash": "0a2f863f5bab680d635faaa8e30436c15d14763b",
+            "date": "2026-05-07T22:16:43+03:00",
+            "message": "ADD: Mimiyabi skin",
+            "body": ""
+        },
+        {
+            "hash": "47e6ae1d899233aef11d73f6e6b3f9b04b627332",
+            "date": "2026-05-06T22:37:38+03:00",
+            "message": "ADD: Promeia",
+            "body": ""
+        },
+        {
+            "hash": "8a7fb84a32c1ee8f85780a52b62fde7ad4f1a819",
+            "date": "2026-05-05T21:53:56+03:00",
+            "message": "ADD: Cissia",
+            "body": ""
+        },
+        {
+            "hash": "4c3bf6ccdecc97c65ecbda9834f1fd1fab13e229",
+            "date": "2026-03-27T14:57:20+02:00",
+            "message": "Chinatsu Maid 2.7 update",
+            "body": ""
+        },
+        {
+            "hash": "4c8b6562de6c3d9d30352431148e92d31044e916",
+            "date": "2026-03-27T14:55:57+02:00",
+            "message": "Revert \"Chinatsu Maid 2.7 update\"",
+            "body": "This reverts commit 19f15bf0695f1c0d42f2f592bd5e7164dccbb010.\n"
+        },
+        {
+            "hash": "19f15bf0695f1c0d42f2f592bd5e7164dccbb010",
+            "date": "2026-03-27T14:54:15+02:00",
+            "message": "Chinatsu Maid 2.7 update",
+            "body": ""
+        },
         {
             "hash": "b9c84f2c3f0cf1cd2ee9355c0cc1638025005f4f",
             "date": "2026-03-25T16:47:48-03:00",
@@ -1258,6 +1300,10 @@
             "displayName": "PlayerCharacterData/Caesar"
         },
         {
+            "id": "Cissia-2ae63e29",
+            "displayName": "PlayerCharacterData/Cissia"
+        },
+        {
             "id": "Corin-30f2de62",
             "displayName": "PlayerCharacterData/Corin"
         },
@@ -1334,6 +1380,10 @@
             "displayName": "PlayerCharacterData/Miyabi"
         },
         {
+            "id": "MiyabiBlossom-cc1efbd5",
+            "displayName": "PlayerCharacterData/MiyabiBlossom"
+        },
+        {
             "id": "NangongYu-28d66cd5",
             "displayName": "PlayerCharacterData/NangongYu"
         },
@@ -1364,6 +1414,10 @@
         {
             "id": "Piper-a698cd29",
             "displayName": "PlayerCharacterData/Piper"
+        },
+        {
+            "id": "Promeia-593e50d0",
+            "displayName": "PlayerCharacterData/Promeia"
         },
         {
             "id": "Pulchra-be4b0a15",
