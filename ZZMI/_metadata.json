@@ -1,6 +1,102 @@
 {
-    "head": "efe956b36ad8e70d966e292fd2675987fd9e7432",
+    "head": "350c6b02083bffa0a13e20c0e7b77c34676f60af",
     "commits": [
+        {
+            "hash": "350c6b02083bffa0a13e20c0e7b77c34676f60af",
+            "date": "2026-06-19T14:00:30-03:00",
+            "message": "Merge pull request #36 from Satan1c/main",
+            "body": "repo update"
+        },
+        {
+            "hash": "36b89ae50325234a1c1131cbc8605fd372afc6f0",
+            "date": "2026-06-18T00:13:38+03:00",
+            "message": "ADD: Wise skin summer",
+            "body": ""
+        },
+        {
+            "hash": "bfa7ff467b552ca82a92c30ab65f948bcb21ed31",
+            "date": "2026-06-18T00:13:20+03:00",
+            "message": "ADD: Wise skin Roscaelifer",
+            "body": ""
+        },
+        {
+            "hash": "3e2af30773172569cf5eef3e6ccecdb0a995d44e",
+            "date": "2026-06-18T00:13:04+03:00",
+            "message": "UPDATE: Wise skin temple 3.0",
+            "body": ""
+        },
+        {
+            "hash": "38e92b6bfab1d6b22630729fd7f4ac9b77348ca0",
+            "date": "2026-06-18T00:12:49+03:00",
+            "message": "UPDATE: Wise 3.0",
+            "body": ""
+        },
+        {
+            "hash": "6bd98524132ace66c753ff0a39991cf0ea4d4e07",
+            "date": "2026-06-17T23:57:45+03:00",
+            "message": "UPDATE: Belle skin temple 3.0",
+            "body": ""
+        },
+        {
+            "hash": "773c052b40800e3486aebf7a0b9737c679981cc8",
+            "date": "2026-06-17T23:57:28+03:00",
+            "message": "ADD: Belle skin Summer",
+            "body": ""
+        },
+        {
+            "hash": "acd69eb748d346f8a01fb3ad50f5f52637ef8464",
+            "date": "2026-06-17T23:57:16+03:00",
+            "message": "ADD: Belle skin Roscaelifer",
+            "body": ""
+        },
+        {
+            "hash": "30d0e59be076a53feb4270fba7a86897a382ab5b",
+            "date": "2026-06-17T23:55:59+03:00",
+            "message": "UPDATE: Belle 3.0",
+            "body": ""
+        },
+        {
+            "hash": "59474efda5f6b5a9c6ab5dc4d0b4e69977a8e061",
+            "date": "2026-06-17T23:23:32+03:00",
+            "message": "ADD: Velina skin",
+            "body": ""
+        },
+        {
+            "hash": "a9bcbfcf7d07c2e68e2de94a8832ade4ec56cf04",
+            "date": "2026-06-17T23:23:21+03:00",
+            "message": "ADD: Velina",
+            "body": ""
+        },
+        {
+            "hash": "9a67b98c2a4b0f2e14be47601e37449d3dcd412b",
+            "date": "2026-06-17T23:23:13+03:00",
+            "message": "ADD: Pyrois",
+            "body": ""
+        },
+        {
+            "hash": "82da0814ea8a8d640553b095e0f6d76f8c4ee354",
+            "date": "2026-06-16T19:46:18+03:00",
+            "message": "Merge branch 'main' of https://github.com/Satan1c/ZZ-Model-Importer-Assets",
+            "body": ""
+        },
+        {
+            "hash": "14330a81524f7d006ffe27ab4527d7d1386f65da",
+            "date": "2026-06-16T19:45:36+03:00",
+            "message": "ADD: Silly",
+            "body": ""
+        },
+        {
+            "hash": "8fa93f5a5a738c4660f656030e5711d127870d4e",
+            "date": "2026-06-16T19:45:08+03:00",
+            "message": "ADD: Pan Yinhu skin",
+            "body": ""
+        },
+        {
+            "hash": "5ea0ae46e8270ea4ab991603e4b3f517f614d44b",
+            "date": "2026-06-16T19:44:56+03:00",
+            "message": "Promeia fix NoCoat names",
+            "body": ""
+        },
         {
             "hash": "efe956b36ad8e70d966e292fd2675987fd9e7432",
             "date": "2026-05-17T14:10:22-03:00",
@@ -1322,6 +1418,14 @@
             "displayName": "PlayerCharacterData/Belle"
         },
         {
+            "id": "BelleBrilliance-99dc750d",
+            "displayName": "PlayerCharacterData/BelleBrilliance"
+        },
+        {
+            "id": "BelleSummer-32d2c384",
+            "displayName": "PlayerCharacterData/BelleSummer"
+        },
+        {
             "id": "BelleSunlight-d5a559b3",
             "displayName": "PlayerCharacterData/BelleSunlight"
         },
@@ -1332,6 +1436,10 @@
         {
             "id": "Billy-4b6ce2d9",
             "displayName": "PlayerCharacterData/Billy"
+        },
+        {
+            "id": "BillyStarlight-a9e87792",
+            "displayName": "PlayerCharacterData/BillyStarlight"
         },
         {
             "id": "Burnice-5dad4af7",
@@ -1454,6 +1562,10 @@
             "displayName": "PlayerCharacterData/PanYinhu"
         },
         {
+            "id": "PanYinhuJewel-10aa5cbb",
+            "displayName": "PlayerCharacterData/PanYinhuJewel"
+        },
+        {
             "id": "Piper-a698cd29",
             "displayName": "PlayerCharacterData/Piper"
         },
@@ -1464,6 +1576,10 @@
         {
             "id": "Pulchra-be4b0a15",
             "displayName": "PlayerCharacterData/Pulchra"
+        },
+        {
+            "id": "Pyrois-769125b6",
+            "displayName": "PlayerCharacterData/Pyrois"
         },
         {
             "id": "Qingyi-683cb858",
@@ -1506,6 +1622,14 @@
             "displayName": "PlayerCharacterData/Trigger"
         },
         {
+            "id": "Velina-3a7c53d9",
+            "displayName": "PlayerCharacterData/Velina"
+        },
+        {
+            "id": "VelinaLeisure-1575781c",
+            "displayName": "PlayerCharacterData/VelinaLeisure"
+        },
+        {
             "id": "Vivian-f0cc779a",
             "displayName": "PlayerCharacterData/Vivian"
         },
@@ -1520,6 +1644,14 @@
         {
             "id": "WiseCrane-8802a424",
             "displayName": "PlayerCharacterData/WiseCrane"
+        },
+        {
+            "id": "WiseSkies-2dd996cd",
+            "displayName": "PlayerCharacterData/WiseSkies"
+        },
+        {
+            "id": "WiseSummer-5bc2b1cb",
+            "displayName": "PlayerCharacterData/WiseSummer"
         },
         {
             "id": "WiseSunlight-866229cb",
