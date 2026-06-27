@@ -1,6 +1,54 @@
 {
-    "head": "350c6b02083bffa0a13e20c0e7b77c34676f60af",
+    "head": "8a1f202cd26da0a98cd0f0d1a3542eb654dcae6e",
     "commits": [
+        {
+            "hash": "8a1f202cd26da0a98cd0f0d1a3542eb654dcae6e",
+            "date": "2026-06-25T17:44:28-03:00",
+            "message": "Merge pull request #38 from Satan1c/main",
+            "body": "more 3.0 updates, and Yixuan adjustments"
+        },
+        {
+            "hash": "5a81e0beac0f97528d1e220bfdcc09d0e7807185",
+            "date": "2026-06-23T22:03:10+03:00",
+            "message": "Yixuan skin dump fix",
+            "body": ""
+        },
+        {
+            "hash": "d63571fe36b7116183bcad122eba9b91e9de1051",
+            "date": "2026-06-23T22:02:20+03:00",
+            "message": "Yixuan dump fix",
+            "body": ""
+        },
+        {
+            "hash": "7b79600eca2fff9e6e5298a0e4a5fada9dcabaf2",
+            "date": "2026-06-23T22:02:06+03:00",
+            "message": "add Panda skin hat",
+            "body": ""
+        },
+        {
+            "hash": "b527a62680f8e252898530f41cb85015e6d48835",
+            "date": "2026-06-23T22:01:53+03:00",
+            "message": "Nicole skin 3.0 update",
+            "body": ""
+        },
+        {
+            "hash": "a5fbc5d690954a0f97e4e04b41f5c704795cb19c",
+            "date": "2026-06-23T22:01:41+03:00",
+            "message": "Nicole 3.0 update",
+            "body": ""
+        },
+        {
+            "hash": "a766478b408ea1d4f4a69c1eb591eb1ba8294360",
+            "date": "2026-06-21T17:12:24-03:00",
+            "message": "Merge pull request #37 from Satan1c/main",
+            "body": "UPDATE: Promeia 3.0"
+        },
+        {
+            "hash": "3045252c93d7b438f6f28b35f0ef6842ccace574",
+            "date": "2026-06-21T00:43:05+03:00",
+            "message": "UPDATE: Promeia 3.0",
+            "body": ""
+        },
         {
             "hash": "350c6b02083bffa0a13e20c0e7b77c34676f60af",
             "date": "2026-06-19T14:00:30-03:00",
