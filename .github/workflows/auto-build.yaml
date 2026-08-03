@@ -28,7 +28,7 @@ jobs:
           echo >> message.txt
           echo "lisa: $(git -C lisa rev-parse HEAD)" >> message.txt
           echo >> message.txt
-      - uses: pnpm/action-setup@v6
+      - uses: pnpm/action-setup@v6.0.9
         with:
           version: latest
       - uses: actions/setup-node@v7
