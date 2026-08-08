@@ -1,6 +1,36 @@
 {
-    "head": "86ec6f46199e237cb8a12fcce240eb91a8b0dc34",
+    "head": "2039d16d4b64696098ba53cd69888ce967397be9",
     "commits": [
+        {
+            "hash": "2039d16d4b64696098ba53cd69888ce967397be9",
+            "date": "2026-08-03T12:03:12-04:00",
+            "message": "Merge pull request #149 from leotorrez/main",
+            "body": "Update characters up to 6.7"
+        },
+        {
+            "hash": "3c2c149a96adaec2a579c9d36d6be6ee57a93cc6",
+            "date": "2026-08-03T11:24:59-03:00",
+            "message": "Merge branch 'SilentNightSound:main' into main",
+            "body": ""
+        },
+        {
+            "hash": "ff3425dcf4b964ec19d679314a46c85508ad6c01",
+            "date": "2026-08-03T11:23:17-03:00",
+            "message": "ADD: Linnea, Lohen, Nicole, Prune, Sandrone and Varka",
+            "body": ""
+        },
+        {
+            "hash": "73a4ed2615c03b9d68ac993ea873f3c09dd61d34",
+            "date": "2026-02-03T22:39:59-03:00",
+            "message": "ADD Columbina",
+            "body": ""
+        },
+        {
+            "hash": "f100b465c1a999d17598464747eb3899250b9674",
+            "date": "2026-02-03T22:24:12-03:00",
+            "message": "ADD: Zibai, Illuga",
+            "body": ""
+        },
         {
             "hash": "86ec6f46199e237cb8a12fcce240eb91a8b0dc34",
             "date": "2025-12-17T07:12:04-05:00",
@@ -3116,6 +3146,10 @@
             "displayName": "PlayerCharacterData/Collei"
         },
         {
+            "id": "Columbina-e8a26009",
+            "displayName": "PlayerCharacterData/Columbina"
+        },
+        {
             "id": "Cyno-e87da40b",
             "displayName": "PlayerCharacterData/Cyno"
         },
@@ -3218,6 +3252,10 @@
         {
             "id": "Ifa-9dbe36a5",
             "displayName": "PlayerCharacterData/Ifa"
+        },
+        {
+            "id": "Illuga-438bb6ea",
+            "displayName": "PlayerCharacterData/Illuga"
         },
         {
             "id": "Ineffa-8f248e38",
@@ -3328,6 +3366,10 @@
             "displayName": "PlayerCharacterData/Layla"
         },
         {
+            "id": "Linnea-d89e8cd2",
+            "displayName": "PlayerCharacterData/Linnea"
+        },
+        {
             "id": "Lisa-6152773a",
             "displayName": "PlayerCharacterData/Lisa"
         },
@@ -3338,6 +3380,10 @@
         {
             "id": "LisaStudent-f8362fae",
             "displayName": "PlayerCharacterData/LisaStudent"
+        },
+        {
+            "id": "Lohen-ad1e7393",
+            "displayName": "PlayerCharacterData/Lohen"
         },
         {
             "id": "Lynette-c1396bef",
@@ -3396,6 +3442,10 @@
             "displayName": "PlayerCharacterData/Neuvillette"
         },
         {
+            "id": "Nicole-9e09ac06",
+            "displayName": "PlayerCharacterData/Nicole"
+        },
+        {
             "id": "Nilou-d7729362",
             "displayName": "PlayerCharacterData/Nilou"
         },
@@ -3418,6 +3468,10 @@
         {
             "id": "Ororon-c3f6c80d",
             "displayName": "PlayerCharacterData/Ororon"
+        },
+        {
+            "id": "Prune-b80d3b91",
+            "displayName": "PlayerCharacterData/Prune"
         },
         {
             "id": "Qiqi-280c106c",
@@ -3446,6 +3500,10 @@
         {
             "id": "RosariaCN-5c07d002",
             "displayName": "PlayerCharacterData/RosariaCN"
+        },
+        {
+            "id": "Sandrone-91232220",
+            "displayName": "PlayerCharacterData/Sandrone"
         },
         {
             "id": "SangonomiyaKokomi-7a8e6712",
@@ -3510,6 +3568,10 @@
         {
             "id": "Varesa-ee50c820",
             "displayName": "PlayerCharacterData/Varesa"
+        },
+        {
+            "id": "Varka-8efddaee",
+            "displayName": "PlayerCharacterData/Varka"
         },
         {
             "id": "Venti-8b1a3f3a",
@@ -3610,6 +3672,10 @@
         {
             "id": "Zhongli-6f7ceb38",
             "displayName": "PlayerCharacterData/Zhongli"
+        },
+        {
+            "id": "Zibai-2088f7b9",
+            "displayName": "PlayerCharacterData/Zibai"
         },
         {
             "id": "Ajaw-cdcf5766",

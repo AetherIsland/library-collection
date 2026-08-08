@@ -1,6 +1,60 @@
 {
-    "head": "d196ced14f3062771c93c9793ac670d320d0d16b",
+    "head": "e677cb4d344a0d2906a90d929debe85decfb021d",
     "commits": [
+        {
+            "hash": "e677cb4d344a0d2906a90d929debe85decfb021d",
+            "date": "2026-08-02T23:32:14-03:00",
+            "message": "Merge pull request #41 from Satan1c/main",
+            "body": "3.1 dumps"
+        },
+        {
+            "hash": "18f477dec4c1f8172ad7dbcc1afde6bef63f92ea",
+            "date": "2026-08-02T17:11:35+03:00",
+            "message": "UPDATE: Velina skin face 3.1",
+            "body": ""
+        },
+        {
+            "hash": "06d35760d3f69cc519d0c97424f235cb3ad6dfd4",
+            "date": "2026-08-02T17:11:23+03:00",
+            "message": "UPDATE: Velina face 3.1",
+            "body": ""
+        },
+        {
+            "hash": "98f6bb5cbeeda8fc3585d78519030745141f95ad",
+            "date": "2026-08-02T16:27:08+03:00",
+            "message": "ADD: Sigrid summer skin",
+            "body": ""
+        },
+        {
+            "hash": "139b252628d6840f4f5cf2841591b30f7db5466a",
+            "date": "2026-08-02T16:26:57+03:00",
+            "message": "ADD: Sigrid",
+            "body": ""
+        },
+        {
+            "hash": "3ee3045e2d1fb2778580de2daf9a10aa651b33d7",
+            "date": "2026-08-02T16:26:48+03:00",
+            "message": "ADD: Ellysia summer skin",
+            "body": ""
+        },
+        {
+            "hash": "537a889b5aeefdce333bc742e5b5756286e527a5",
+            "date": "2026-08-02T16:26:35+03:00",
+            "message": "ADD: Ellysia dark skin",
+            "body": ""
+        },
+        {
+            "hash": "988288dc306d75818e42ac35ae09177cf924cac4",
+            "date": "2026-08-02T16:26:22+03:00",
+            "message": "ADD: Ellysia",
+            "body": ""
+        },
+        {
+            "hash": "4bd572072f0c0ab07cfe815db0791c7456ad99f9",
+            "date": "2026-08-02T16:26:09+03:00",
+            "message": "ADD: Lucy summer skin",
+            "body": ""
+        },
         {
             "hash": "d196ced14f3062771c93c9793ac670d320d0d16b",
             "date": "2026-07-13T06:09:41-03:00",
@@ -1574,6 +1628,10 @@
             "displayName": "PlayerCharacterData/Lucy"
         },
         {
+            "id": "LucySummer-36beb0e4",
+            "displayName": "PlayerCharacterData/LucySummer"
+        },
+        {
             "id": "Lycaon-9905065",
             "displayName": "PlayerCharacterData/Lycaon"
         },
@@ -1650,6 +1708,18 @@
             "displayName": "PlayerCharacterData/Qingyi"
         },
         {
+            "id": "Remielle-4e7258e8",
+            "displayName": "PlayerCharacterData/Remielle"
+        },
+        {
+            "id": "RemielleMoonlight-6a05c9a",
+            "displayName": "PlayerCharacterData/RemielleMoonlight"
+        },
+        {
+            "id": "RemielleSummer-5fbc0780",
+            "displayName": "PlayerCharacterData/RemielleSummer"
+        },
+        {
             "id": "Rina-e5b43891",
             "displayName": "PlayerCharacterData/Rina"
         },
@@ -1660,6 +1730,14 @@
         {
             "id": "Seth-6dcfeb01",
             "displayName": "PlayerCharacterData/Seth"
+        },
+        {
+            "id": "Sigrid-b4ab34ab",
+            "displayName": "PlayerCharacterData/Sigrid"
+        },
+        {
+            "id": "SigridSummer-8f8bc243",
+            "displayName": "PlayerCharacterData/SigridSummer"
         },
         {
             "id": "Soldier0-3a3f37bf",
