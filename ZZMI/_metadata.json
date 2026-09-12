@@ -1,6 +1,54 @@
 {
-    "head": "9f1b0bb48bf6592a4aabde64d693c38a60122d05",
+    "head": "20d01be7491321d5bf294435cbee2415ca8f558c",
     "commits": [
+        {
+            "hash": "20d01be7491321d5bf294435cbee2415ca8f558c",
+            "date": "2026-09-09T19:28:38-03:00",
+            "message": "Merge pull request #44 from Satan1c/main",
+            "body": "3.2 dumps"
+        },
+        {
+            "hash": "7335b5bfef84a402b543469db9548bdbff0dda00",
+            "date": "2026-09-09T18:10:41+03:00",
+            "message": "Add: Sunna 3.2 skin",
+            "body": ""
+        },
+        {
+            "hash": "afca5c262da6d5dd85947ef3e39d2d18c441e67a",
+            "date": "2026-09-09T18:10:34+03:00",
+            "message": "Add: Nangong 3.2 skin",
+            "body": ""
+        },
+        {
+            "hash": "4eff20a97db1a7b2f15dbdf509c22aeb9a688211",
+            "date": "2026-09-09T18:10:18+03:00",
+            "message": "Add: Aria 3.2 skin",
+            "body": ""
+        },
+        {
+            "hash": "84ee92649170939aedb1ac44b92803efb56bee0a",
+            "date": "2026-09-09T13:23:31+03:00",
+            "message": "Update: 3.2",
+            "body": ""
+        },
+        {
+            "hash": "28c3a552e63f5bba8ddd71117d355bf4b68a89c7",
+            "date": "2026-09-09T13:23:25+03:00",
+            "message": "Update: 3.2",
+            "body": ""
+        },
+        {
+            "hash": "45017fb42f1aa6ea9abf9d5b8748ff7a5deb70fc",
+            "date": "2026-09-09T13:23:16+03:00",
+            "message": "Update: 3.2",
+            "body": ""
+        },
+        {
+            "hash": "47d81224771097ac9c2da8eddb2a99e7a7f0c438",
+            "date": "2026-09-09T13:22:54+03:00",
+            "message": "Add: Claret",
+            "body": ""
+        },
         {
             "hash": "9f1b0bb48bf6592a4aabde64d693c38a60122d05",
             "date": "2026-08-30T00:55:26-03:00",
@@ -1520,6 +1568,10 @@
             "displayName": "PlayerCharacterData/AriaDiscordant"
         },
         {
+            "id": "AriaKfc-cdd64fc4",
+            "displayName": "PlayerCharacterData/AriaKfc"
+        },
+        {
             "id": "AriaRobot-3885cdb",
             "displayName": "PlayerCharacterData/AriaRobot"
         },
@@ -1578,6 +1630,10 @@
         {
             "id": "Cissia-2ae63e29",
             "displayName": "PlayerCharacterData/Cissia"
+        },
+        {
+            "id": "Claret-41c04941",
+            "displayName": "PlayerCharacterData/Claret"
         },
         {
             "id": "Corin-30f2de62",
@@ -1666,6 +1722,10 @@
         {
             "id": "NangongYu-28d66cd5",
             "displayName": "PlayerCharacterData/NangongYu"
+        },
+        {
+            "id": "NangongYuKfc-b286ecbd",
+            "displayName": "PlayerCharacterData/NangongYuKfc"
         },
         {
             "id": "NangongYuRapsody-e2a230b8",
@@ -1766,6 +1826,10 @@
         {
             "id": "Sunna-480563f7",
             "displayName": "PlayerCharacterData/Sunna"
+        },
+        {
+            "id": "SunnaKfc-372e2d33",
+            "displayName": "PlayerCharacterData/SunnaKfc"
         },
         {
             "id": "SunnaMaid-d631451c",
